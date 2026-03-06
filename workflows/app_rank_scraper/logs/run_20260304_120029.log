@@ -1,0 +1,967 @@
+[2026-03-04T12:00:29.858Z] [INFO] Starting crawl at 20260304_120029 UTC
+[2026-03-04T12:00:29.862Z] [INFO] Loaded 40 countries
+[2026-03-04T12:00:29.866Z] [INFO] Fetching App Store US tools top_free
+[2026-03-04T12:00:29.897Z] [INFO] Fetching App Store US tools top_paid
+[2026-03-04T12:00:29.900Z] [INFO] Fetching App Store US tools top_grossing
+[2026-03-04T12:00:30.288Z] [ERROR] App Store US tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:30.288Z] [INFO] Fetching App Store US books top_free
+[2026-03-04T12:00:30.330Z] [ERROR] App Store US tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:30.331Z] [INFO] Fetching App Store US books top_paid
+[2026-03-04T12:00:30.416Z] [ERROR] App Store US tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:30.416Z] [INFO] Fetching App Store US books top_grossing
+[2026-03-04T12:00:30.638Z] [ERROR] App Store US books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:30.638Z] [INFO] Fetching Google Play US tools top_free
+[2026-03-04T12:00:31.010Z] [INFO] Fetched 0 apps from Google Play US tools top_free
+[2026-03-04T12:00:31.011Z] [INFO] Fetching Google Play US tools top_paid
+[2026-03-04T12:00:31.029Z] [ERROR] App Store US books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:31.030Z] [INFO] Fetching Google Play US tools top_grossing
+[2026-03-04T12:00:31.041Z] [ERROR] App Store US books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:31.042Z] [INFO] Fetching Google Play US books top_free
+[2026-03-04T12:00:31.306Z] [INFO] Fetched 0 apps from Google Play US tools top_paid
+[2026-03-04T12:00:31.306Z] [INFO] Fetching Google Play US books top_paid
+[2026-03-04T12:00:31.513Z] [INFO] Fetched 0 apps from Google Play US tools top_grossing
+[2026-03-04T12:00:31.514Z] [INFO] Fetching Google Play US books top_grossing
+[2026-03-04T12:00:31.652Z] [INFO] Fetched 0 apps from Google Play US books top_free
+[2026-03-04T12:00:31.653Z] [INFO] Fetching App Store GB tools top_free
+[2026-03-04T12:00:31.874Z] [INFO] Fetched 0 apps from Google Play US books top_paid
+[2026-03-04T12:00:31.876Z] [INFO] Fetching App Store GB tools top_paid
+[2026-03-04T12:00:32.100Z] [INFO] Fetched 0 apps from Google Play US books top_grossing
+[2026-03-04T12:00:32.101Z] [INFO] Fetching App Store GB tools top_grossing
+[2026-03-04T12:00:32.108Z] [ERROR] App Store GB tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:32.108Z] [INFO] Fetching App Store GB books top_free
+[2026-03-04T12:00:32.247Z] [ERROR] App Store GB tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:32.247Z] [INFO] Fetching App Store GB books top_paid
+[2026-03-04T12:00:32.480Z] [ERROR] App Store GB books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:32.481Z] [INFO] Fetching App Store GB books top_grossing
+[2026-03-04T12:00:32.655Z] [ERROR] App Store GB books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:32.656Z] [INFO] Fetching Google Play GB tools top_free
+[2026-03-04T12:00:32.739Z] [ERROR] App Store GB tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:32.740Z] [INFO] Fetching Google Play GB tools top_paid
+[2026-03-04T12:00:32.898Z] [INFO] Fetched 0 apps from Google Play GB tools top_free
+[2026-03-04T12:00:32.898Z] [INFO] Fetching Google Play GB tools top_grossing
+[2026-03-04T12:00:32.909Z] [ERROR] App Store GB books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:32.909Z] [INFO] Fetching Google Play GB books top_free
+[2026-03-04T12:00:33.075Z] [INFO] Fetched 0 apps from Google Play GB tools top_paid
+[2026-03-04T12:00:33.076Z] [INFO] Fetching Google Play GB books top_paid
+[2026-03-04T12:00:33.301Z] [INFO] Fetched 0 apps from Google Play GB tools top_grossing
+[2026-03-04T12:00:33.302Z] [INFO] Fetching Google Play GB books top_grossing
+[2026-03-04T12:00:33.477Z] [INFO] Fetched 0 apps from Google Play GB books top_free
+[2026-03-04T12:00:33.477Z] [INFO] Fetching App Store DE tools top_free
+[2026-03-04T12:00:33.715Z] [INFO] Fetched 0 apps from Google Play GB books top_paid
+[2026-03-04T12:00:33.717Z] [INFO] Fetching App Store DE tools top_paid
+[2026-03-04T12:00:33.902Z] [INFO] Fetched 0 apps from Google Play GB books top_grossing
+[2026-03-04T12:00:33.902Z] [INFO] Fetching App Store DE tools top_grossing
+[2026-03-04T12:00:34.083Z] [ERROR] App Store DE tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:34.083Z] [INFO] Fetching App Store DE books top_free
+[2026-03-04T12:00:34.138Z] [ERROR] App Store DE tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:34.139Z] [INFO] Fetching App Store DE books top_paid
+[2026-03-04T12:00:34.450Z] [ERROR] App Store DE tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:34.450Z] [INFO] Fetching App Store DE books top_grossing
+[2026-03-04T12:00:34.660Z] [ERROR] App Store DE books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:34.660Z] [INFO] Fetching Google Play DE tools top_free
+[2026-03-04T12:00:34.729Z] [ERROR] App Store DE books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:34.730Z] [INFO] Fetching Google Play DE tools top_paid
+[2026-03-04T12:00:34.864Z] [INFO] Fetched 0 apps from Google Play DE tools top_free
+[2026-03-04T12:00:34.864Z] [INFO] Fetching Google Play DE tools top_grossing
+[2026-03-04T12:00:35.025Z] [INFO] Fetched 0 apps from Google Play DE tools top_paid
+[2026-03-04T12:00:35.025Z] [INFO] Fetching Google Play DE books top_free
+[2026-03-04T12:00:35.033Z] [ERROR] App Store DE books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:35.034Z] [INFO] Fetching Google Play DE books top_paid
+[2026-03-04T12:00:35.276Z] [INFO] Fetched 0 apps from Google Play DE tools top_grossing
+[2026-03-04T12:00:35.276Z] [INFO] Fetching Google Play DE books top_grossing
+[2026-03-04T12:00:35.471Z] [INFO] Fetched 0 apps from Google Play DE books top_free
+[2026-03-04T12:00:35.471Z] [INFO] Fetching App Store FR tools top_free
+[2026-03-04T12:00:35.612Z] [INFO] Fetched 0 apps from Google Play DE books top_paid
+[2026-03-04T12:00:35.612Z] [INFO] Fetching App Store FR tools top_paid
+[2026-03-04T12:00:35.728Z] [INFO] Fetched 0 apps from Google Play DE books top_grossing
+[2026-03-04T12:00:35.728Z] [INFO] Fetching App Store FR tools top_grossing
+[2026-03-04T12:00:35.986Z] [ERROR] App Store FR tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:35.986Z] [INFO] Fetching App Store FR books top_free
+[2026-03-04T12:00:36.080Z] [ERROR] App Store FR tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:36.080Z] [INFO] Fetching App Store FR books top_paid
+[2026-03-04T12:00:36.220Z] [ERROR] App Store FR tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:36.220Z] [INFO] Fetching App Store FR books top_grossing
+[2026-03-04T12:00:36.537Z] [ERROR] App Store FR books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:36.537Z] [INFO] Fetching Google Play FR tools top_free
+[2026-03-04T12:00:36.552Z] [ERROR] App Store FR books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:36.552Z] [INFO] Fetching Google Play FR tools top_paid
+[2026-03-04T12:00:36.700Z] [INFO] Fetched 0 apps from Google Play FR tools top_free
+[2026-03-04T12:00:36.700Z] [INFO] Fetching Google Play FR tools top_grossing
+[2026-03-04T12:00:36.726Z] [ERROR] App Store FR books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:36.726Z] [INFO] Fetching Google Play FR books top_free
+[2026-03-04T12:00:36.935Z] [INFO] Fetched 0 apps from Google Play FR tools top_paid
+[2026-03-04T12:00:36.935Z] [INFO] Fetching Google Play FR books top_paid
+[2026-03-04T12:00:37.091Z] [INFO] Fetched 0 apps from Google Play FR tools top_grossing
+[2026-03-04T12:00:37.091Z] [INFO] Fetching Google Play FR books top_grossing
+[2026-03-04T12:00:37.234Z] [INFO] Fetched 0 apps from Google Play FR books top_free
+[2026-03-04T12:00:37.235Z] [INFO] Fetching App Store CA tools top_free
+[2026-03-04T12:00:37.386Z] [INFO] Fetched 0 apps from Google Play FR books top_paid
+[2026-03-04T12:00:37.387Z] [INFO] Fetching App Store CA tools top_paid
+[2026-03-04T12:00:37.523Z] [INFO] Fetched 0 apps from Google Play FR books top_grossing
+[2026-03-04T12:00:37.524Z] [INFO] Fetching App Store CA tools top_grossing
+[2026-03-04T12:00:37.695Z] [ERROR] App Store CA tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:37.695Z] [INFO] Fetching App Store CA books top_free
+[2026-03-04T12:00:37.731Z] [ERROR] App Store CA tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:37.732Z] [INFO] Fetching App Store CA books top_paid
+[2026-03-04T12:00:38.001Z] [ERROR] App Store CA tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:38.002Z] [INFO] Fetching App Store CA books top_grossing
+[2026-03-04T12:00:38.114Z] [ERROR] App Store CA books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:38.114Z] [INFO] Fetching Google Play CA tools top_free
+[2026-03-04T12:00:38.288Z] [INFO] Fetched 0 apps from Google Play CA tools top_free
+[2026-03-04T12:00:38.288Z] [INFO] Fetching Google Play CA tools top_paid
+[2026-03-04T12:00:38.312Z] [ERROR] App Store CA books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:38.313Z] [INFO] Fetching Google Play CA tools top_grossing
+[2026-03-04T12:00:38.371Z] [ERROR] App Store CA books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:38.371Z] [INFO] Fetching Google Play CA books top_free
+[2026-03-04T12:00:38.471Z] [INFO] Fetched 0 apps from Google Play CA tools top_paid
+[2026-03-04T12:00:38.471Z] [INFO] Fetching Google Play CA books top_paid
+[2026-03-04T12:00:38.672Z] [INFO] Fetched 0 apps from Google Play CA tools top_grossing
+[2026-03-04T12:00:38.672Z] [INFO] Fetching Google Play CA books top_grossing
+[2026-03-04T12:00:38.836Z] [INFO] Fetched 0 apps from Google Play CA books top_free
+[2026-03-04T12:00:38.836Z] [INFO] Fetching App Store AU tools top_free
+[2026-03-04T12:00:38.991Z] [INFO] Fetched 0 apps from Google Play CA books top_paid
+[2026-03-04T12:00:38.992Z] [INFO] Fetching App Store AU tools top_paid
+[2026-03-04T12:00:39.143Z] [INFO] Fetched 0 apps from Google Play CA books top_grossing
+[2026-03-04T12:00:39.143Z] [INFO] Fetching App Store AU tools top_grossing
+[2026-03-04T12:00:39.224Z] [ERROR] App Store AU tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:39.225Z] [INFO] Fetching App Store AU books top_free
+[2026-03-04T12:00:39.390Z] [ERROR] App Store AU tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:39.390Z] [INFO] Fetching App Store AU books top_paid
+[2026-03-04T12:00:39.696Z] [ERROR] App Store AU books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:39.697Z] [INFO] Fetching App Store AU books top_grossing
+[2026-03-04T12:00:39.791Z] [ERROR] App Store AU books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:39.791Z] [INFO] Fetching Google Play AU tools top_free
+[2026-03-04T12:00:39.813Z] [ERROR] App Store AU tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:39.813Z] [INFO] Fetching Google Play AU tools top_paid
+[2026-03-04T12:00:40.029Z] [INFO] Fetched 0 apps from Google Play AU tools top_free
+[2026-03-04T12:00:40.030Z] [INFO] Fetching Google Play AU tools top_grossing
+[2026-03-04T12:00:40.192Z] [INFO] Fetched 0 apps from Google Play AU tools top_paid
+[2026-03-04T12:00:40.193Z] [INFO] Fetching Google Play AU books top_free
+[2026-03-04T12:00:40.199Z] [ERROR] App Store AU books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:40.199Z] [INFO] Fetching Google Play AU books top_paid
+[2026-03-04T12:00:40.396Z] [INFO] Fetched 0 apps from Google Play AU tools top_grossing
+[2026-03-04T12:00:40.396Z] [INFO] Fetching Google Play AU books top_grossing
+[2026-03-04T12:00:40.537Z] [INFO] Fetched 0 apps from Google Play AU books top_free
+[2026-03-04T12:00:40.537Z] [INFO] Fetching App Store JP tools top_free
+[2026-03-04T12:00:40.751Z] [INFO] Fetched 0 apps from Google Play AU books top_paid
+[2026-03-04T12:00:40.751Z] [INFO] Fetching App Store JP tools top_paid
+[2026-03-04T12:00:40.879Z] [INFO] Fetched 0 apps from Google Play AU books top_grossing
+[2026-03-04T12:00:40.879Z] [INFO] Fetching App Store JP tools top_grossing
+[2026-03-04T12:00:40.897Z] [ERROR] App Store JP tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:40.897Z] [INFO] Fetching App Store JP books top_free
+[2026-03-04T12:00:41.172Z] [ERROR] App Store JP tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:41.172Z] [INFO] Fetching App Store JP books top_paid
+[2026-03-04T12:00:41.331Z] [ERROR] App Store JP books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:41.331Z] [INFO] Fetching App Store JP books top_grossing
+[2026-03-04T12:00:41.378Z] [ERROR] App Store JP tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:41.378Z] [INFO] Fetching Google Play JP tools top_free
+[2026-03-04T12:00:41.578Z] [INFO] Fetched 0 apps from Google Play JP tools top_free
+[2026-03-04T12:00:41.578Z] [INFO] Fetching Google Play JP tools top_paid
+[2026-03-04T12:00:41.612Z] [ERROR] App Store JP books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:41.613Z] [INFO] Fetching Google Play JP tools top_grossing
+[2026-03-04T12:00:41.764Z] [INFO] Fetched 0 apps from Google Play JP tools top_grossing
+[2026-03-04T12:00:41.764Z] [INFO] Fetching Google Play JP books top_free
+[2026-03-04T12:00:41.769Z] [ERROR] App Store JP books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:41.770Z] [INFO] Fetching Google Play JP books top_paid
+[2026-03-04T12:00:41.992Z] [INFO] Fetched 0 apps from Google Play JP tools top_paid
+[2026-03-04T12:00:41.992Z] [INFO] Fetching Google Play JP books top_grossing
+[2026-03-04T12:00:42.132Z] [INFO] Fetched 0 apps from Google Play JP books top_free
+[2026-03-04T12:00:42.132Z] [INFO] Fetching App Store KR tools top_free
+[2026-03-04T12:00:42.267Z] [INFO] Fetched 0 apps from Google Play JP books top_paid
+[2026-03-04T12:00:42.267Z] [INFO] Fetching App Store KR tools top_paid
+[2026-03-04T12:00:42.413Z] [INFO] Fetched 0 apps from Google Play JP books top_grossing
+[2026-03-04T12:00:42.413Z] [INFO] Fetching App Store KR tools top_grossing
+[2026-03-04T12:00:42.564Z] [ERROR] App Store KR tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:42.565Z] [INFO] Fetching App Store KR books top_free
+[2026-03-04T12:00:42.936Z] [ERROR] App Store KR books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:42.937Z] [INFO] Fetching App Store KR books top_paid
+[2026-03-04T12:00:42.999Z] [ERROR] App Store KR tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:42.999Z] [INFO] Fetching App Store KR books top_grossing
+[2026-03-04T12:00:43.129Z] [ERROR] App Store KR tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:43.129Z] [INFO] Fetching Google Play KR tools top_free
+[2026-03-04T12:00:43.392Z] [ERROR] App Store KR books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:43.392Z] [INFO] Fetching Google Play KR tools top_paid
+[2026-03-04T12:00:43.551Z] [INFO] Fetched 0 apps from Google Play KR tools top_free
+[2026-03-04T12:00:43.552Z] [INFO] Fetching Google Play KR tools top_grossing
+[2026-03-04T12:00:43.575Z] [ERROR] App Store KR books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:43.576Z] [INFO] Fetching Google Play KR books top_free
+[2026-03-04T12:00:43.749Z] [INFO] Fetched 0 apps from Google Play KR tools top_paid
+[2026-03-04T12:00:43.752Z] [INFO] Fetching Google Play KR books top_paid
+[2026-03-04T12:00:43.908Z] [INFO] Fetched 0 apps from Google Play KR books top_paid
+[2026-03-04T12:00:43.908Z] [INFO] Fetching Google Play KR books top_grossing
+[2026-03-04T12:00:44.046Z] [INFO] Fetched 0 apps from Google Play KR tools top_grossing
+[2026-03-04T12:00:44.047Z] [INFO] Fetching App Store IT tools top_free
+[2026-03-04T12:00:44.181Z] [INFO] Fetched 0 apps from Google Play KR books top_free
+[2026-03-04T12:00:44.181Z] [INFO] Fetching App Store IT tools top_paid
+[2026-03-04T12:00:44.380Z] [INFO] Fetched 0 apps from Google Play KR books top_grossing
+[2026-03-04T12:00:44.380Z] [INFO] Fetching App Store IT tools top_grossing
+[2026-03-04T12:00:44.472Z] [ERROR] App Store IT tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:44.472Z] [INFO] Fetching App Store IT books top_free
+[2026-03-04T12:00:44.557Z] [ERROR] App Store IT tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:44.557Z] [INFO] Fetching App Store IT books top_paid
+[2026-03-04T12:00:44.860Z] [ERROR] App Store IT books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:44.860Z] [INFO] Fetching App Store IT books top_grossing
+[2026-03-04T12:00:44.888Z] [ERROR] App Store IT books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:44.889Z] [INFO] Fetching Google Play IT tools top_free
+[2026-03-04T12:00:45.031Z] [INFO] Fetched 0 apps from Google Play IT tools top_free
+[2026-03-04T12:00:45.031Z] [INFO] Fetching Google Play IT tools top_paid
+[2026-03-04T12:00:45.219Z] [INFO] Fetched 0 apps from Google Play IT tools top_paid
+[2026-03-04T12:00:45.220Z] [INFO] Fetching Google Play IT tools top_grossing
+[2026-03-04T12:00:45.395Z] [INFO] Fetched 0 apps from Google Play IT tools top_grossing
+[2026-03-04T12:00:45.395Z] [INFO] Fetching Google Play IT books top_free
+[2026-03-04T12:00:45.645Z] [INFO] Fetched 0 apps from Google Play IT books top_free
+[2026-03-04T12:00:45.646Z] [INFO] Fetching Google Play IT books top_paid
+[2026-03-04T12:00:45.692Z] [ERROR] App Store IT books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:45.693Z] [INFO] Fetching Google Play IT books top_grossing
+[2026-03-04T12:00:45.702Z] [ERROR] App Store IT tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:45.702Z] [INFO] Fetching App Store ES tools top_free
+[2026-03-04T12:00:45.828Z] [INFO] Fetched 0 apps from Google Play IT books top_paid
+[2026-03-04T12:00:45.828Z] [INFO] Fetching App Store ES tools top_paid
+[2026-03-04T12:00:45.992Z] [INFO] Fetched 0 apps from Google Play IT books top_grossing
+[2026-03-04T12:00:45.992Z] [INFO] Fetching App Store ES tools top_grossing
+[2026-03-04T12:00:46.170Z] [ERROR] App Store ES tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:46.170Z] [INFO] Fetching App Store ES books top_free
+[2026-03-04T12:00:46.346Z] [ERROR] App Store ES tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:46.346Z] [INFO] Fetching App Store ES books top_paid
+[2026-03-04T12:00:46.436Z] [ERROR] App Store ES tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:46.437Z] [INFO] Fetching App Store ES books top_grossing
+[2026-03-04T12:00:46.630Z] [ERROR] App Store ES books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:46.630Z] [INFO] Fetching Google Play ES tools top_free
+[2026-03-04T12:00:46.809Z] [INFO] Fetched 0 apps from Google Play ES tools top_free
+[2026-03-04T12:00:46.809Z] [INFO] Fetching Google Play ES tools top_paid
+[2026-03-04T12:00:46.832Z] [ERROR] App Store ES books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:46.832Z] [INFO] Fetching Google Play ES tools top_grossing
+[2026-03-04T12:00:46.844Z] [ERROR] App Store ES books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:46.844Z] [INFO] Fetching Google Play ES books top_free
+[2026-03-04T12:00:46.996Z] [INFO] Fetched 0 apps from Google Play ES tools top_paid
+[2026-03-04T12:00:46.996Z] [INFO] Fetching Google Play ES books top_paid
+[2026-03-04T12:00:47.202Z] [INFO] Fetched 0 apps from Google Play ES tools top_grossing
+[2026-03-04T12:00:47.203Z] [INFO] Fetching Google Play ES books top_grossing
+[2026-03-04T12:00:47.354Z] [INFO] Fetched 0 apps from Google Play ES books top_free
+[2026-03-04T12:00:47.355Z] [INFO] Fetching App Store NL tools top_free
+[2026-03-04T12:00:47.502Z] [INFO] Fetched 0 apps from Google Play ES books top_paid
+[2026-03-04T12:00:47.502Z] [INFO] Fetching App Store NL tools top_paid
+[2026-03-04T12:00:47.662Z] [INFO] Fetched 0 apps from Google Play ES books top_grossing
+[2026-03-04T12:00:47.662Z] [INFO] Fetching App Store NL tools top_grossing
+[2026-03-04T12:00:47.833Z] [ERROR] App Store NL tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:47.834Z] [INFO] Fetching App Store NL books top_free
+[2026-03-04T12:00:48.083Z] [ERROR] App Store NL tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:48.084Z] [INFO] Fetching App Store NL books top_paid
+[2026-03-04T12:00:48.150Z] [ERROR] App Store NL tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:48.150Z] [INFO] Fetching App Store NL books top_grossing
+[2026-03-04T12:00:48.329Z] [ERROR] App Store NL books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:48.329Z] [INFO] Fetching Google Play NL tools top_free
+[2026-03-04T12:00:48.466Z] [INFO] Fetched 0 apps from Google Play NL tools top_free
+[2026-03-04T12:00:48.467Z] [INFO] Fetching Google Play NL tools top_paid
+[2026-03-04T12:00:48.640Z] [INFO] Fetched 0 apps from Google Play NL tools top_paid
+[2026-03-04T12:00:48.640Z] [INFO] Fetching Google Play NL tools top_grossing
+[2026-03-04T12:00:48.644Z] [ERROR] App Store NL books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:48.644Z] [INFO] Fetching Google Play NL books top_free
+[2026-03-04T12:00:48.648Z] [ERROR] App Store NL books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:48.649Z] [INFO] Fetching Google Play NL books top_paid
+[2026-03-04T12:00:48.837Z] [INFO] Fetched 0 apps from Google Play NL tools top_grossing
+[2026-03-04T12:00:48.837Z] [INFO] Fetching Google Play NL books top_grossing
+[2026-03-04T12:00:49.040Z] [INFO] Fetched 0 apps from Google Play NL books top_free
+[2026-03-04T12:00:49.041Z] [INFO] Fetching App Store SE tools top_free
+[2026-03-04T12:00:49.188Z] [INFO] Fetched 0 apps from Google Play NL books top_paid
+[2026-03-04T12:00:49.189Z] [INFO] Fetching App Store SE tools top_paid
+[2026-03-04T12:00:49.333Z] [INFO] Fetched 0 apps from Google Play NL books top_grossing
+[2026-03-04T12:00:49.334Z] [INFO] Fetching App Store SE tools top_grossing
+[2026-03-04T12:00:49.527Z] [ERROR] App Store SE tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:49.527Z] [INFO] Fetching App Store SE books top_free
+[2026-03-04T12:00:49.588Z] [ERROR] App Store SE tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:49.588Z] [INFO] Fetching App Store SE books top_paid
+[2026-03-04T12:00:49.831Z] [ERROR] App Store SE tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:49.831Z] [INFO] Fetching App Store SE books top_grossing
+[2026-03-04T12:00:49.987Z] [ERROR] App Store SE books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:49.987Z] [INFO] Fetching Google Play SE tools top_free
+[2026-03-04T12:00:50.011Z] [ERROR] App Store SE books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:50.011Z] [INFO] Fetching Google Play SE tools top_paid
+[2026-03-04T12:00:50.199Z] [INFO] Fetched 0 apps from Google Play SE tools top_free
+[2026-03-04T12:00:50.200Z] [INFO] Fetching Google Play SE tools top_grossing
+[2026-03-04T12:00:50.343Z] [INFO] Fetched 0 apps from Google Play SE tools top_paid
+[2026-03-04T12:00:50.344Z] [INFO] Fetching Google Play SE books top_free
+[2026-03-04T12:00:50.364Z] [ERROR] App Store SE books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:50.364Z] [INFO] Fetching Google Play SE books top_paid
+[2026-03-04T12:00:50.537Z] [INFO] Fetched 0 apps from Google Play SE tools top_grossing
+[2026-03-04T12:00:50.537Z] [INFO] Fetching Google Play SE books top_grossing
+[2026-03-04T12:00:50.728Z] [INFO] Fetched 0 apps from Google Play SE books top_paid
+[2026-03-04T12:00:50.729Z] [INFO] Fetching App Store CH tools top_free
+[2026-03-04T12:00:50.872Z] [INFO] Fetched 0 apps from Google Play SE books top_free
+[2026-03-04T12:00:50.872Z] [INFO] Fetching App Store CH tools top_paid
+[2026-03-04T12:00:50.996Z] [INFO] Fetched 0 apps from Google Play SE books top_grossing
+[2026-03-04T12:00:50.997Z] [INFO] Fetching App Store CH tools top_grossing
+[2026-03-04T12:00:51.254Z] [ERROR] App Store CH tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:51.255Z] [INFO] Fetching App Store CH books top_free
+[2026-03-04T12:00:51.342Z] [ERROR] App Store CH tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:51.342Z] [INFO] Fetching App Store CH books top_paid
+[2026-03-04T12:00:51.596Z] [ERROR] App Store CH tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:51.596Z] [INFO] Fetching App Store CH books top_grossing
+[2026-03-04T12:00:51.748Z] [ERROR] App Store CH books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:51.748Z] [INFO] Fetching Google Play CH tools top_free
+[2026-03-04T12:00:52.005Z] [INFO] Fetched 0 apps from Google Play CH tools top_free
+[2026-03-04T12:00:52.005Z] [INFO] Fetching Google Play CH tools top_paid
+[2026-03-04T12:00:52.027Z] [ERROR] App Store CH books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:52.027Z] [INFO] Fetching Google Play CH tools top_grossing
+[2026-03-04T12:00:52.038Z] [ERROR] App Store CH books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:52.039Z] [INFO] Fetching Google Play CH books top_free
+[2026-03-04T12:00:52.172Z] [INFO] Fetched 0 apps from Google Play CH tools top_paid
+[2026-03-04T12:00:52.173Z] [INFO] Fetching Google Play CH books top_paid
+[2026-03-04T12:00:52.315Z] [INFO] Fetched 0 apps from Google Play CH tools top_grossing
+[2026-03-04T12:00:52.316Z] [INFO] Fetching Google Play CH books top_grossing
+[2026-03-04T12:00:52.459Z] [INFO] Fetched 0 apps from Google Play CH books top_free
+[2026-03-04T12:00:52.460Z] [INFO] Fetching App Store NO tools top_free
+[2026-03-04T12:00:52.667Z] [INFO] Fetched 0 apps from Google Play CH books top_paid
+[2026-03-04T12:00:52.667Z] [INFO] Fetching App Store NO tools top_paid
+[2026-03-04T12:00:52.793Z] [INFO] Fetched 0 apps from Google Play CH books top_grossing
+[2026-03-04T12:00:52.793Z] [INFO] Fetching App Store NO tools top_grossing
+[2026-03-04T12:00:52.960Z] [ERROR] App Store NO tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:52.960Z] [INFO] Fetching App Store NO books top_free
+[2026-03-04T12:00:53.210Z] [ERROR] App Store NO tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:53.210Z] [INFO] Fetching App Store NO books top_paid
+[2026-03-04T12:00:53.299Z] [ERROR] App Store NO books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:53.300Z] [INFO] Fetching App Store NO books top_grossing
+[2026-03-04T12:00:53.361Z] [ERROR] App Store NO tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:53.362Z] [INFO] Fetching Google Play NO tools top_free
+[2026-03-04T12:00:53.589Z] [INFO] Fetched 0 apps from Google Play NO tools top_free
+[2026-03-04T12:00:53.590Z] [INFO] Fetching Google Play NO tools top_paid
+[2026-03-04T12:00:53.744Z] [INFO] Fetched 0 apps from Google Play NO tools top_paid
+[2026-03-04T12:00:53.744Z] [INFO] Fetching Google Play NO tools top_grossing
+[2026-03-04T12:00:53.749Z] [ERROR] App Store NO books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:53.749Z] [INFO] Fetching Google Play NO books top_free
+[2026-03-04T12:00:53.754Z] [ERROR] App Store NO books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:53.754Z] [INFO] Fetching Google Play NO books top_paid
+[2026-03-04T12:00:53.964Z] [INFO] Fetched 0 apps from Google Play NO books top_free
+[2026-03-04T12:00:53.964Z] [INFO] Fetching Google Play NO books top_grossing
+[2026-03-04T12:00:54.156Z] [INFO] Fetched 0 apps from Google Play NO books top_paid
+[2026-03-04T12:00:54.157Z] [INFO] Fetching App Store DK tools top_free
+[2026-03-04T12:00:54.278Z] [INFO] Fetched 0 apps from Google Play NO tools top_grossing
+[2026-03-04T12:00:54.279Z] [INFO] Fetching App Store DK tools top_paid
+[2026-03-04T12:00:54.430Z] [INFO] Fetched 0 apps from Google Play NO books top_grossing
+[2026-03-04T12:00:54.430Z] [INFO] Fetching App Store DK tools top_grossing
+[2026-03-04T12:00:54.609Z] [ERROR] App Store DK tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:54.609Z] [INFO] Fetching App Store DK books top_free
+[2026-03-04T12:00:54.695Z] [ERROR] App Store DK tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:54.696Z] [INFO] Fetching App Store DK books top_paid
+[2026-03-04T12:00:55.020Z] [ERROR] App Store DK books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:55.021Z] [INFO] Fetching App Store DK books top_grossing
+[2026-03-04T12:00:55.077Z] [ERROR] App Store DK tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:55.077Z] [INFO] Fetching Google Play DK tools top_free
+[2026-03-04T12:00:55.139Z] [ERROR] App Store DK books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:55.139Z] [INFO] Fetching Google Play DK tools top_paid
+[2026-03-04T12:00:55.268Z] [INFO] Fetched 0 apps from Google Play DK tools top_free
+[2026-03-04T12:00:55.268Z] [INFO] Fetching Google Play DK tools top_grossing
+[2026-03-04T12:00:55.474Z] [INFO] Fetched 0 apps from Google Play DK tools top_paid
+[2026-03-04T12:00:55.475Z] [INFO] Fetching Google Play DK books top_free
+[2026-03-04T12:00:55.527Z] [ERROR] App Store DK books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:55.528Z] [INFO] Fetching Google Play DK books top_paid
+[2026-03-04T12:00:55.646Z] [INFO] Fetched 0 apps from Google Play DK tools top_grossing
+[2026-03-04T12:00:55.646Z] [INFO] Fetching Google Play DK books top_grossing
+[2026-03-04T12:00:55.798Z] [INFO] Fetched 0 apps from Google Play DK books top_free
+[2026-03-04T12:00:55.799Z] [INFO] Fetching App Store FI tools top_free
+[2026-03-04T12:00:55.945Z] [INFO] Fetched 0 apps from Google Play DK books top_grossing
+[2026-03-04T12:00:55.945Z] [INFO] Fetching App Store FI tools top_paid
+[2026-03-04T12:00:56.319Z] [INFO] Fetched 0 apps from Google Play DK books top_paid
+[2026-03-04T12:00:56.319Z] [INFO] Fetching App Store FI tools top_grossing
+[2026-03-04T12:00:56.371Z] [ERROR] App Store FI tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:56.371Z] [INFO] Fetching App Store FI books top_free
+[2026-03-04T12:00:56.478Z] [ERROR] App Store FI tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:56.479Z] [INFO] Fetching App Store FI books top_paid
+[2026-03-04T12:00:56.860Z] [ERROR] App Store FI books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:56.860Z] [INFO] Fetching App Store FI books top_grossing
+[2026-03-04T12:00:56.905Z] [ERROR] App Store FI books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:56.905Z] [INFO] Fetching Google Play FI tools top_free
+[2026-03-04T12:00:57.047Z] [INFO] Fetched 0 apps from Google Play FI tools top_free
+[2026-03-04T12:00:57.048Z] [INFO] Fetching Google Play FI tools top_paid
+[2026-03-04T12:00:57.084Z] [ERROR] App Store FI tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:57.084Z] [INFO] Fetching Google Play FI tools top_grossing
+[2026-03-04T12:00:57.329Z] [INFO] Fetched 0 apps from Google Play FI tools top_paid
+[2026-03-04T12:00:57.329Z] [INFO] Fetching Google Play FI books top_free
+[2026-03-04T12:00:57.361Z] [ERROR] App Store FI books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:57.361Z] [INFO] Fetching Google Play FI books top_paid
+[2026-03-04T12:00:57.505Z] [INFO] Fetched 0 apps from Google Play FI books top_free
+[2026-03-04T12:00:57.505Z] [INFO] Fetching Google Play FI books top_grossing
+[2026-03-04T12:00:57.550Z] [INFO] Fetched 0 apps from Google Play FI tools top_grossing
+[2026-03-04T12:00:57.550Z] [INFO] Fetching App Store SG tools top_free
+[2026-03-04T12:00:57.722Z] [INFO] Fetched 0 apps from Google Play FI books top_paid
+[2026-03-04T12:00:57.723Z] [INFO] Fetching App Store SG tools top_paid
+[2026-03-04T12:00:57.922Z] [INFO] Fetched 0 apps from Google Play FI books top_grossing
+[2026-03-04T12:00:57.922Z] [INFO] Fetching App Store SG tools top_grossing
+[2026-03-04T12:00:57.985Z] [ERROR] App Store SG tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:57.985Z] [INFO] Fetching App Store SG books top_free
+[2026-03-04T12:00:58.211Z] [ERROR] App Store SG tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:58.211Z] [INFO] Fetching App Store SG books top_paid
+[2026-03-04T12:00:58.474Z] [ERROR] App Store SG books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:58.474Z] [INFO] Fetching App Store SG books top_grossing
+[2026-03-04T12:00:58.573Z] [ERROR] App Store SG tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:58.573Z] [INFO] Fetching Google Play SG tools top_free
+[2026-03-04T12:00:58.656Z] [ERROR] App Store SG books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:58.656Z] [INFO] Fetching Google Play SG tools top_paid
+[2026-03-04T12:00:58.774Z] [INFO] Fetched 0 apps from Google Play SG tools top_free
+[2026-03-04T12:00:58.775Z] [INFO] Fetching Google Play SG tools top_grossing
+[2026-03-04T12:00:58.937Z] [INFO] Fetched 0 apps from Google Play SG tools top_paid
+[2026-03-04T12:00:58.937Z] [INFO] Fetching Google Play SG books top_free
+[2026-03-04T12:00:59.079Z] [INFO] Fetched 0 apps from Google Play SG tools top_grossing
+[2026-03-04T12:00:59.080Z] [INFO] Fetching Google Play SG books top_paid
+[2026-03-04T12:00:59.274Z] [INFO] Fetched 0 apps from Google Play SG books top_free
+[2026-03-04T12:00:59.275Z] [INFO] Fetching Google Play SG books top_grossing
+[2026-03-04T12:00:59.461Z] [INFO] Fetched 0 apps from Google Play SG books top_paid
+[2026-03-04T12:00:59.461Z] [INFO] Fetching App Store HK tools top_free
+[2026-03-04T12:00:59.604Z] [INFO] Fetched 0 apps from Google Play SG books top_grossing
+[2026-03-04T12:00:59.604Z] [INFO] Fetching App Store HK tools top_paid
+[2026-03-04T12:00:59.634Z] [ERROR] App Store SG books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:59.634Z] [INFO] Fetching App Store HK tools top_grossing
+[2026-03-04T12:00:59.956Z] [ERROR] App Store HK tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:00:59.957Z] [INFO] Fetching App Store HK books top_free
+[2026-03-04T12:01:00.035Z] [ERROR] App Store HK tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:00.036Z] [INFO] Fetching App Store HK books top_paid
+[2026-03-04T12:01:00.155Z] [ERROR] App Store HK tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:00.155Z] [INFO] Fetching App Store HK books top_grossing
+[2026-03-04T12:01:00.358Z] [ERROR] App Store HK books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:00.359Z] [INFO] Fetching Google Play HK tools top_free
+[2026-03-04T12:01:00.533Z] [INFO] Fetched 0 apps from Google Play HK tools top_free
+[2026-03-04T12:01:00.534Z] [INFO] Fetching Google Play HK tools top_paid
+[2026-03-04T12:01:00.557Z] [ERROR] App Store HK books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:00.557Z] [INFO] Fetching Google Play HK tools top_grossing
+[2026-03-04T12:01:00.728Z] [INFO] Fetched 0 apps from Google Play HK tools top_grossing
+[2026-03-04T12:01:00.729Z] [INFO] Fetching Google Play HK books top_free
+[2026-03-04T12:01:00.734Z] [ERROR] App Store HK books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:00.734Z] [INFO] Fetching Google Play HK books top_paid
+[2026-03-04T12:01:00.883Z] [INFO] Fetched 0 apps from Google Play HK tools top_paid
+[2026-03-04T12:01:00.883Z] [INFO] Fetching Google Play HK books top_grossing
+[2026-03-04T12:01:01.098Z] [INFO] Fetched 0 apps from Google Play HK books top_paid
+[2026-03-04T12:01:01.098Z] [INFO] Fetching App Store TW tools top_free
+[2026-03-04T12:01:01.285Z] [INFO] Fetched 0 apps from Google Play HK books top_free
+[2026-03-04T12:01:01.285Z] [INFO] Fetching App Store TW tools top_paid
+[2026-03-04T12:01:01.427Z] [INFO] Fetched 0 apps from Google Play HK books top_grossing
+[2026-03-04T12:01:01.427Z] [INFO] Fetching App Store TW tools top_grossing
+[2026-03-04T12:01:01.614Z] [ERROR] App Store TW tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:01.614Z] [INFO] Fetching App Store TW books top_free
+[2026-03-04T12:01:01.750Z] [ERROR] App Store TW tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:01.750Z] [INFO] Fetching App Store TW books top_paid
+[2026-03-04T12:01:01.915Z] [ERROR] App Store TW tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:01.915Z] [INFO] Fetching App Store TW books top_grossing
+[2026-03-04T12:01:02.011Z] [ERROR] App Store TW books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:02.011Z] [INFO] Fetching Google Play TW tools top_free
+[2026-03-04T12:01:02.243Z] [INFO] Fetched 0 apps from Google Play TW tools top_free
+[2026-03-04T12:01:02.244Z] [INFO] Fetching Google Play TW tools top_paid
+[2026-03-04T12:01:02.297Z] [ERROR] App Store TW books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:02.298Z] [INFO] Fetching Google Play TW tools top_grossing
+[2026-03-04T12:01:02.440Z] [INFO] Fetched 0 apps from Google Play TW tools top_paid
+[2026-03-04T12:01:02.440Z] [INFO] Fetching Google Play TW books top_free
+[2026-03-04T12:01:02.444Z] [ERROR] App Store TW books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:02.444Z] [INFO] Fetching Google Play TW books top_paid
+[2026-03-04T12:01:02.590Z] [INFO] Fetched 0 apps from Google Play TW tools top_grossing
+[2026-03-04T12:01:02.590Z] [INFO] Fetching Google Play TW books top_grossing
+[2026-03-04T12:01:02.738Z] [INFO] Fetched 0 apps from Google Play TW books top_free
+[2026-03-04T12:01:02.738Z] [INFO] Fetching App Store NZ tools top_free
+[2026-03-04T12:01:02.931Z] [INFO] Fetched 0 apps from Google Play TW books top_paid
+[2026-03-04T12:01:02.931Z] [INFO] Fetching App Store NZ tools top_paid
+[2026-03-04T12:01:03.081Z] [INFO] Fetched 0 apps from Google Play TW books top_grossing
+[2026-03-04T12:01:03.082Z] [INFO] Fetching App Store NZ tools top_grossing
+[2026-03-04T12:01:03.234Z] [ERROR] App Store NZ tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:03.235Z] [INFO] Fetching App Store NZ books top_free
+[2026-03-04T12:01:03.426Z] [ERROR] App Store NZ tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:03.426Z] [INFO] Fetching App Store NZ books top_paid
+[2026-03-04T12:01:03.521Z] [ERROR] App Store NZ tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:03.522Z] [INFO] Fetching App Store NZ books top_grossing
+[2026-03-04T12:01:03.926Z] [ERROR] App Store NZ books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:03.926Z] [INFO] Fetching Google Play NZ tools top_free
+[2026-03-04T12:01:04.029Z] [ERROR] App Store NZ books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:04.030Z] [INFO] Fetching Google Play NZ tools top_paid
+[2026-03-04T12:01:04.203Z] [INFO] Fetched 0 apps from Google Play NZ tools top_free
+[2026-03-04T12:01:04.204Z] [INFO] Fetching Google Play NZ tools top_grossing
+[2026-03-04T12:01:04.217Z] [ERROR] App Store NZ books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:04.217Z] [INFO] Fetching Google Play NZ books top_free
+[2026-03-04T12:01:04.352Z] [INFO] Fetched 0 apps from Google Play NZ tools top_paid
+[2026-03-04T12:01:04.353Z] [INFO] Fetching Google Play NZ books top_paid
+[2026-03-04T12:01:04.553Z] [INFO] Fetched 0 apps from Google Play NZ books top_free
+[2026-03-04T12:01:04.553Z] [INFO] Fetching Google Play NZ books top_grossing
+[2026-03-04T12:01:04.726Z] [INFO] Fetched 0 apps from Google Play NZ tools top_grossing
+[2026-03-04T12:01:04.727Z] [INFO] Fetching App Store AT tools top_free
+[2026-03-04T12:01:04.889Z] [INFO] Fetched 0 apps from Google Play NZ books top_paid
+[2026-03-04T12:01:04.889Z] [INFO] Fetching App Store AT tools top_paid
+[2026-03-04T12:01:05.014Z] [INFO] Fetched 0 apps from Google Play NZ books top_grossing
+[2026-03-04T12:01:05.014Z] [INFO] Fetching App Store AT tools top_grossing
+[2026-03-04T12:01:05.385Z] [ERROR] App Store AT tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:05.385Z] [INFO] Fetching App Store AT books top_free
+[2026-03-04T12:01:05.416Z] [ERROR] App Store AT tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:05.416Z] [INFO] Fetching App Store AT books top_paid
+[2026-03-04T12:01:05.666Z] [ERROR] App Store AT tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:05.666Z] [INFO] Fetching App Store AT books top_grossing
+[2026-03-04T12:01:05.774Z] [ERROR] App Store AT books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:05.774Z] [INFO] Fetching Google Play AT tools top_free
+[2026-03-04T12:01:06.055Z] [INFO] Fetched 0 apps from Google Play AT tools top_free
+[2026-03-04T12:01:06.056Z] [INFO] Fetching Google Play AT tools top_paid
+[2026-03-04T12:01:06.080Z] [ERROR] App Store AT books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:06.080Z] [INFO] Fetching Google Play AT tools top_grossing
+[2026-03-04T12:01:06.206Z] [INFO] Fetched 0 apps from Google Play AT tools top_paid
+[2026-03-04T12:01:06.207Z] [INFO] Fetching Google Play AT books top_free
+[2026-03-04T12:01:06.234Z] [ERROR] App Store AT books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:06.234Z] [INFO] Fetching Google Play AT books top_paid
+[2026-03-04T12:01:06.372Z] [INFO] Fetched 0 apps from Google Play AT books top_free
+[2026-03-04T12:01:06.372Z] [INFO] Fetching Google Play AT books top_grossing
+[2026-03-04T12:01:06.498Z] [INFO] Fetched 0 apps from Google Play AT tools top_grossing
+[2026-03-04T12:01:06.499Z] [INFO] Fetching App Store BE tools top_free
+[2026-03-04T12:01:06.688Z] [INFO] Fetched 0 apps from Google Play AT books top_paid
+[2026-03-04T12:01:06.688Z] [INFO] Fetching App Store BE tools top_paid
+[2026-03-04T12:01:06.847Z] [INFO] Fetched 0 apps from Google Play AT books top_grossing
+[2026-03-04T12:01:06.847Z] [INFO] Fetching App Store BE tools top_grossing
+[2026-03-04T12:01:06.912Z] [ERROR] App Store BE tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:06.913Z] [INFO] Fetching App Store BE books top_free
+[2026-03-04T12:01:07.235Z] [ERROR] App Store BE tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:07.236Z] [INFO] Fetching App Store BE books top_paid
+[2026-03-04T12:01:07.415Z] [ERROR] App Store BE books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:07.415Z] [INFO] Fetching App Store BE books top_grossing
+[2026-03-04T12:01:07.481Z] [ERROR] App Store BE tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:07.481Z] [INFO] Fetching Google Play BE tools top_free
+[2026-03-04T12:01:07.692Z] [INFO] Fetched 0 apps from Google Play BE tools top_free
+[2026-03-04T12:01:07.693Z] [INFO] Fetching Google Play BE tools top_paid
+[2026-03-04T12:01:07.710Z] [ERROR] App Store BE books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:07.710Z] [INFO] Fetching Google Play BE tools top_grossing
+[2026-03-04T12:01:07.843Z] [INFO] Fetched 0 apps from Google Play BE tools top_paid
+[2026-03-04T12:01:07.843Z] [INFO] Fetching Google Play BE books top_free
+[2026-03-04T12:01:08.029Z] [INFO] Fetched 0 apps from Google Play BE tools top_grossing
+[2026-03-04T12:01:08.029Z] [INFO] Fetching Google Play BE books top_paid
+[2026-03-04T12:01:08.102Z] [ERROR] App Store BE books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:08.102Z] [INFO] Fetching Google Play BE books top_grossing
+[2026-03-04T12:01:08.227Z] [INFO] Fetched 0 apps from Google Play BE books top_paid
+[2026-03-04T12:01:08.227Z] [INFO] Fetching App Store BR tools top_free
+[2026-03-04T12:01:08.381Z] [INFO] Fetched 0 apps from Google Play BE books top_free
+[2026-03-04T12:01:08.382Z] [INFO] Fetching App Store BR tools top_paid
+[2026-03-04T12:01:08.517Z] [INFO] Fetched 0 apps from Google Play BE books top_grossing
+[2026-03-04T12:01:08.518Z] [INFO] Fetching App Store BR tools top_grossing
+[2026-03-04T12:01:08.592Z] [ERROR] App Store BR tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:08.592Z] [INFO] Fetching App Store BR books top_free
+[2026-03-04T12:01:08.869Z] [ERROR] App Store BR tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:08.869Z] [INFO] Fetching App Store BR books top_paid
+[2026-03-04T12:01:08.969Z] [ERROR] App Store BR books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:08.969Z] [INFO] Fetching App Store BR books top_grossing
+[2026-03-04T12:01:09.015Z] [ERROR] App Store BR tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:09.015Z] [INFO] Fetching Google Play BR tools top_free
+[2026-03-04T12:01:09.259Z] [INFO] Fetched 0 apps from Google Play BR tools top_free
+[2026-03-04T12:01:09.260Z] [INFO] Fetching Google Play BR tools top_paid
+[2026-03-04T12:01:09.272Z] [ERROR] App Store BR books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:09.272Z] [INFO] Fetching Google Play BR tools top_grossing
+[2026-03-04T12:01:09.413Z] [INFO] Fetched 0 apps from Google Play BR tools top_paid
+[2026-03-04T12:01:09.414Z] [INFO] Fetching Google Play BR books top_free
+[2026-03-04T12:01:09.581Z] [INFO] Fetched 0 apps from Google Play BR books top_free
+[2026-03-04T12:01:09.581Z] [INFO] Fetching Google Play BR books top_paid
+[2026-03-04T12:01:09.606Z] [ERROR] App Store BR books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:09.606Z] [INFO] Fetching Google Play BR books top_grossing
+[2026-03-04T12:01:09.708Z] [INFO] Fetched 0 apps from Google Play BR tools top_grossing
+[2026-03-04T12:01:09.709Z] [INFO] Fetching App Store MX tools top_free
+[2026-03-04T12:01:09.933Z] [INFO] Fetched 0 apps from Google Play BR books top_paid
+[2026-03-04T12:01:09.934Z] [INFO] Fetching App Store MX tools top_paid
+[2026-03-04T12:01:10.067Z] [INFO] Fetched 0 apps from Google Play BR books top_grossing
+[2026-03-04T12:01:10.067Z] [INFO] Fetching App Store MX tools top_grossing
+[2026-03-04T12:01:10.259Z] [ERROR] App Store MX tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:10.259Z] [INFO] Fetching App Store MX books top_free
+[2026-03-04T12:01:10.367Z] [ERROR] App Store MX tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:10.368Z] [INFO] Fetching App Store MX books top_paid
+[2026-03-04T12:01:10.751Z] [ERROR] App Store MX tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:10.751Z] [INFO] Fetching App Store MX books top_grossing
+[2026-03-04T12:01:10.809Z] [ERROR] App Store MX books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:10.810Z] [INFO] Fetching Google Play MX tools top_free
+[2026-03-04T12:01:10.835Z] [ERROR] App Store MX books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:10.835Z] [INFO] Fetching Google Play MX tools top_paid
+[2026-03-04T12:01:10.996Z] [INFO] Fetched 0 apps from Google Play MX tools top_free
+[2026-03-04T12:01:10.996Z] [INFO] Fetching Google Play MX tools top_grossing
+[2026-03-04T12:01:11.163Z] [INFO] Fetched 0 apps from Google Play MX tools top_paid
+[2026-03-04T12:01:11.163Z] [INFO] Fetching Google Play MX books top_free
+[2026-03-04T12:01:11.355Z] [INFO] Fetched 0 apps from Google Play MX tools top_grossing
+[2026-03-04T12:01:11.355Z] [INFO] Fetching Google Play MX books top_paid
+[2026-03-04T12:01:11.398Z] [ERROR] App Store MX books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:11.398Z] [INFO] Fetching Google Play MX books top_grossing
+[2026-03-04T12:01:11.516Z] [INFO] Fetched 0 apps from Google Play MX books top_paid
+[2026-03-04T12:01:11.517Z] [INFO] Fetching App Store AR tools top_free
+[2026-03-04T12:01:11.662Z] [INFO] Fetched 0 apps from Google Play MX books top_free
+[2026-03-04T12:01:11.663Z] [INFO] Fetching App Store AR tools top_paid
+[2026-03-04T12:01:11.818Z] [INFO] Fetched 0 apps from Google Play MX books top_grossing
+[2026-03-04T12:01:11.818Z] [INFO] Fetching App Store AR tools top_grossing
+[2026-03-04T12:01:12.016Z] [ERROR] App Store AR tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:12.017Z] [INFO] Fetching App Store AR books top_free
+[2026-03-04T12:01:12.040Z] [ERROR] App Store AR tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:12.040Z] [INFO] Fetching App Store AR books top_paid
+[2026-03-04T12:01:12.427Z] [ERROR] App Store AR tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:12.428Z] [INFO] Fetching App Store AR books top_grossing
+[2026-03-04T12:01:12.474Z] [ERROR] App Store AR books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:12.474Z] [INFO] Fetching Google Play AR tools top_free
+[2026-03-04T12:01:12.713Z] [INFO] Fetched 0 apps from Google Play AR tools top_free
+[2026-03-04T12:01:12.713Z] [INFO] Fetching Google Play AR tools top_paid
+[2026-03-04T12:01:12.767Z] [ERROR] App Store AR books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:12.767Z] [INFO] Fetching Google Play AR tools top_grossing
+[2026-03-04T12:01:12.801Z] [ERROR] App Store AR books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:12.801Z] [INFO] Fetching Google Play AR books top_free
+[2026-03-04T12:01:12.959Z] [INFO] Fetched 0 apps from Google Play AR tools top_grossing
+[2026-03-04T12:01:12.960Z] [INFO] Fetching Google Play AR books top_paid
+[2026-03-04T12:01:13.131Z] [INFO] Fetched 0 apps from Google Play AR tools top_paid
+[2026-03-04T12:01:13.132Z] [INFO] Fetching Google Play AR books top_grossing
+[2026-03-04T12:01:13.274Z] [INFO] Fetched 0 apps from Google Play AR books top_free
+[2026-03-04T12:01:13.274Z] [INFO] Fetching App Store CL tools top_free
+[2026-03-04T12:01:13.470Z] [INFO] Fetched 0 apps from Google Play AR books top_paid
+[2026-03-04T12:01:13.471Z] [INFO] Fetching App Store CL tools top_paid
+[2026-03-04T12:01:13.624Z] [INFO] Fetched 0 apps from Google Play AR books top_grossing
+[2026-03-04T12:01:13.624Z] [INFO] Fetching App Store CL tools top_grossing
+[2026-03-04T12:01:13.679Z] [ERROR] App Store CL tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:13.679Z] [INFO] Fetching App Store CL books top_free
+[2026-03-04T12:01:13.894Z] [ERROR] App Store CL tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:13.894Z] [INFO] Fetching App Store CL books top_paid
+[2026-03-04T12:01:14.098Z] [ERROR] App Store CL books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:14.098Z] [INFO] Fetching App Store CL books top_grossing
+[2026-03-04T12:01:14.286Z] [ERROR] App Store CL tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:14.287Z] [INFO] Fetching Google Play CL tools top_free
+[2026-03-04T12:01:14.422Z] [ERROR] App Store CL books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:14.423Z] [INFO] Fetching Google Play CL tools top_paid
+[2026-03-04T12:01:14.582Z] [INFO] Fetched 0 apps from Google Play CL tools top_free
+[2026-03-04T12:01:14.582Z] [INFO] Fetching Google Play CL tools top_grossing
+[2026-03-04T12:01:14.612Z] [ERROR] App Store CL books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:14.613Z] [INFO] Fetching Google Play CL books top_free
+[2026-03-04T12:01:14.736Z] [INFO] Fetched 0 apps from Google Play CL tools top_paid
+[2026-03-04T12:01:14.737Z] [INFO] Fetching Google Play CL books top_paid
+[2026-03-04T12:01:14.951Z] [INFO] Fetched 0 apps from Google Play CL tools top_grossing
+[2026-03-04T12:01:14.952Z] [INFO] Fetching Google Play CL books top_grossing
+[2026-03-04T12:01:15.053Z] [INFO] Fetched 0 apps from Google Play CL books top_free
+[2026-03-04T12:01:15.053Z] [INFO] Fetching App Store CO tools top_free
+[2026-03-04T12:01:15.213Z] [INFO] Fetched 0 apps from Google Play CL books top_paid
+[2026-03-04T12:01:15.214Z] [INFO] Fetching App Store CO tools top_paid
+[2026-03-04T12:01:15.378Z] [INFO] Fetched 0 apps from Google Play CL books top_grossing
+[2026-03-04T12:01:15.379Z] [INFO] Fetching App Store CO tools top_grossing
+[2026-03-04T12:01:15.575Z] [ERROR] App Store CO tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:15.575Z] [INFO] Fetching App Store CO books top_free
+[2026-03-04T12:01:15.767Z] [ERROR] App Store CO tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:15.768Z] [INFO] Fetching App Store CO books top_paid
+[2026-03-04T12:01:15.906Z] [ERROR] App Store CO tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:15.906Z] [INFO] Fetching App Store CO books top_grossing
+[2026-03-04T12:01:15.979Z] [ERROR] App Store CO books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:15.979Z] [INFO] Fetching Google Play CO tools top_free
+[2026-03-04T12:01:16.176Z] [INFO] Fetched 0 apps from Google Play CO tools top_free
+[2026-03-04T12:01:16.177Z] [INFO] Fetching Google Play CO tools top_paid
+[2026-03-04T12:01:16.215Z] [ERROR] App Store CO books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:16.215Z] [INFO] Fetching Google Play CO tools top_grossing
+[2026-03-04T12:01:16.352Z] [INFO] Fetched 0 apps from Google Play CO tools top_paid
+[2026-03-04T12:01:16.353Z] [INFO] Fetching Google Play CO books top_free
+[2026-03-04T12:01:16.510Z] [INFO] Fetched 0 apps from Google Play CO tools top_grossing
+[2026-03-04T12:01:16.511Z] [INFO] Fetching Google Play CO books top_paid
+[2026-03-04T12:01:16.515Z] [ERROR] App Store CO books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:16.515Z] [INFO] Fetching Google Play CO books top_grossing
+[2026-03-04T12:01:16.710Z] [INFO] Fetched 0 apps from Google Play CO books top_free
+[2026-03-04T12:01:16.711Z] [INFO] Fetching App Store IN tools top_free
+[2026-03-04T12:01:16.860Z] [INFO] Fetched 0 apps from Google Play CO books top_paid
+[2026-03-04T12:01:16.860Z] [INFO] Fetching App Store IN tools top_paid
+[2026-03-04T12:01:17.012Z] [INFO] Fetched 0 apps from Google Play CO books top_grossing
+[2026-03-04T12:01:17.012Z] [INFO] Fetching App Store IN tools top_grossing
+[2026-03-04T12:01:17.201Z] [ERROR] App Store IN tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:17.202Z] [INFO] Fetching App Store IN books top_free
+[2026-03-04T12:01:17.208Z] [ERROR] App Store IN tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:17.208Z] [INFO] Fetching App Store IN books top_paid
+[2026-03-04T12:01:17.489Z] [ERROR] App Store IN tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:17.489Z] [INFO] Fetching App Store IN books top_grossing
+[2026-03-04T12:01:17.593Z] [ERROR] App Store IN books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:17.594Z] [INFO] Fetching Google Play IN tools top_free
+[2026-03-04T12:01:17.630Z] [ERROR] App Store IN books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:17.631Z] [INFO] Fetching Google Play IN tools top_paid
+[2026-03-04T12:01:17.748Z] [INFO] Fetched 0 apps from Google Play IN tools top_free
+[2026-03-04T12:01:17.748Z] [INFO] Fetching Google Play IN tools top_grossing
+[2026-03-04T12:01:17.968Z] [INFO] Fetched 0 apps from Google Play IN tools top_paid
+[2026-03-04T12:01:17.968Z] [INFO] Fetching Google Play IN books top_free
+[2026-03-04T12:01:18.135Z] [INFO] Fetched 0 apps from Google Play IN tools top_grossing
+[2026-03-04T12:01:18.135Z] [INFO] Fetching Google Play IN books top_paid
+[2026-03-04T12:01:18.141Z] [ERROR] App Store IN books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:18.142Z] [INFO] Fetching Google Play IN books top_grossing
+[2026-03-04T12:01:18.300Z] [INFO] Fetched 0 apps from Google Play IN books top_free
+[2026-03-04T12:01:18.300Z] [INFO] Fetching App Store ID tools top_free
+[2026-03-04T12:01:18.439Z] [INFO] Fetched 0 apps from Google Play IN books top_grossing
+[2026-03-04T12:01:18.439Z] [INFO] Fetching App Store ID tools top_paid
+[2026-03-04T12:01:18.666Z] [INFO] Fetched 0 apps from Google Play IN books top_paid
+[2026-03-04T12:01:18.667Z] [INFO] Fetching App Store ID tools top_grossing
+[2026-03-04T12:01:18.763Z] [ERROR] App Store ID tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:18.765Z] [INFO] Fetching App Store ID books top_free
+[2026-03-04T12:01:18.838Z] [ERROR] App Store ID tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:18.838Z] [INFO] Fetching App Store ID books top_paid
+[2026-03-04T12:01:19.231Z] [ERROR] App Store ID books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:19.231Z] [INFO] Fetching App Store ID books top_grossing
+[2026-03-04T12:01:19.259Z] [ERROR] App Store ID tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:19.259Z] [INFO] Fetching Google Play ID tools top_free
+[2026-03-04T12:01:19.262Z] [ERROR] App Store ID books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:19.262Z] [INFO] Fetching Google Play ID tools top_paid
+[2026-03-04T12:01:19.439Z] [INFO] Fetched 0 apps from Google Play ID tools top_paid
+[2026-03-04T12:01:19.439Z] [INFO] Fetching Google Play ID tools top_grossing
+[2026-03-04T12:01:19.580Z] [INFO] Fetched 0 apps from Google Play ID tools top_free
+[2026-03-04T12:01:19.581Z] [INFO] Fetching Google Play ID books top_free
+[2026-03-04T12:01:19.733Z] [INFO] Fetched 0 apps from Google Play ID tools top_grossing
+[2026-03-04T12:01:19.734Z] [INFO] Fetching Google Play ID books top_paid
+[2026-03-04T12:01:19.740Z] [ERROR] App Store ID books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:19.740Z] [INFO] Fetching Google Play ID books top_grossing
+[2026-03-04T12:01:19.920Z] [INFO] Fetched 0 apps from Google Play ID books top_free
+[2026-03-04T12:01:19.921Z] [INFO] Fetching App Store TH tools top_free
+[2026-03-04T12:01:20.092Z] [INFO] Fetched 0 apps from Google Play ID books top_grossing
+[2026-03-04T12:01:20.093Z] [INFO] Fetching App Store TH tools top_paid
+[2026-03-04T12:01:20.231Z] [INFO] Fetched 0 apps from Google Play ID books top_paid
+[2026-03-04T12:01:20.231Z] [INFO] Fetching App Store TH tools top_grossing
+[2026-03-04T12:01:20.365Z] [ERROR] App Store TH tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:20.365Z] [INFO] Fetching App Store TH books top_free
+[2026-03-04T12:01:20.609Z] [ERROR] App Store TH tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:20.609Z] [INFO] Fetching App Store TH books top_paid
+[2026-03-04T12:01:20.804Z] [ERROR] App Store TH tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:20.805Z] [INFO] Fetching App Store TH books top_grossing
+[2026-03-04T12:01:20.930Z] [ERROR] App Store TH books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:20.931Z] [INFO] Fetching Google Play TH tools top_free
+[2026-03-04T12:01:21.079Z] [INFO] Fetched 0 apps from Google Play TH tools top_free
+[2026-03-04T12:01:21.080Z] [INFO] Fetching Google Play TH tools top_paid
+[2026-03-04T12:01:21.107Z] [ERROR] App Store TH books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:21.107Z] [INFO] Fetching Google Play TH tools top_grossing
+[2026-03-04T12:01:21.254Z] [INFO] Fetched 0 apps from Google Play TH tools top_paid
+[2026-03-04T12:01:21.255Z] [INFO] Fetching Google Play TH books top_free
+[2026-03-04T12:01:21.455Z] [INFO] Fetched 0 apps from Google Play TH tools top_grossing
+[2026-03-04T12:01:21.455Z] [INFO] Fetching Google Play TH books top_paid
+[2026-03-04T12:01:21.502Z] [ERROR] App Store TH books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:21.502Z] [INFO] Fetching Google Play TH books top_grossing
+[2026-03-04T12:01:21.623Z] [INFO] Fetched 0 apps from Google Play TH books top_free
+[2026-03-04T12:01:21.623Z] [INFO] Fetching App Store VN tools top_free
+[2026-03-04T12:01:21.763Z] [INFO] Fetched 0 apps from Google Play TH books top_paid
+[2026-03-04T12:01:21.764Z] [INFO] Fetching App Store VN tools top_paid
+[2026-03-04T12:01:22.170Z] [ERROR] App Store VN tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:22.170Z] [INFO] Fetching App Store VN tools top_grossing
+[2026-03-04T12:01:22.289Z] [ERROR] App Store VN tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:22.289Z] [INFO] Fetching App Store VN books top_free
+[2026-03-04T12:01:22.627Z] [ERROR] App Store VN books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:22.627Z] [INFO] Fetching App Store VN books top_paid
+[2026-03-04T12:01:22.662Z] [ERROR] App Store VN tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:22.662Z] [INFO] Fetching App Store VN books top_grossing
+[2026-03-04T12:01:23.042Z] [ERROR] App Store VN books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:23.043Z] [INFO] Fetching Google Play VN tools top_free
+[2026-03-04T12:01:23.192Z] [INFO] Fetched 0 apps from Google Play VN tools top_free
+[2026-03-04T12:01:23.192Z] [INFO] Fetching Google Play VN tools top_paid
+[2026-03-04T12:01:23.214Z] [ERROR] App Store VN books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:23.215Z] [INFO] Fetching Google Play VN tools top_grossing
+[2026-03-04T12:01:23.453Z] [INFO] Fetched 0 apps from Google Play VN tools top_grossing
+[2026-03-04T12:01:23.453Z] [INFO] Fetching Google Play VN books top_free
+[2026-03-04T12:01:23.666Z] [INFO] Fetched 0 apps from Google Play VN tools top_paid
+[2026-03-04T12:01:23.667Z] [INFO] Fetching Google Play VN books top_paid
+[2026-03-04T12:01:23.795Z] [INFO] Fetched 0 apps from Google Play VN books top_free
+[2026-03-04T12:01:23.795Z] [INFO] Fetching Google Play VN books top_grossing
+[2026-03-04T12:01:23.959Z] [INFO] Fetched 0 apps from Google Play VN books top_paid
+[2026-03-04T12:01:23.959Z] [INFO] Fetching App Store PH tools top_free
+[2026-03-04T12:01:24.086Z] [INFO] Fetched 0 apps from Google Play VN books top_grossing
+[2026-03-04T12:01:24.086Z] [INFO] Fetching App Store PH tools top_paid
+[2026-03-04T12:01:24.412Z] [ERROR] App Store PH tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:24.412Z] [INFO] Fetching App Store PH tools top_grossing
+[2026-03-04T12:01:24.434Z] [ERROR] App Store PH tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:24.435Z] [INFO] Fetching App Store PH books top_free
+[2026-03-04T12:01:24.904Z] [ERROR] App Store PH tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:24.904Z] [INFO] Fetching App Store PH books top_paid
+[2026-03-04T12:01:24.954Z] [ERROR] App Store PH books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:24.954Z] [INFO] Fetching App Store PH books top_grossing
+[2026-03-04T12:01:25.311Z] [ERROR] App Store PH books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:25.311Z] [INFO] Fetching Google Play PH tools top_free
+[2026-03-04T12:01:25.354Z] [ERROR] App Store PH books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:25.354Z] [INFO] Fetching Google Play PH tools top_paid
+[2026-03-04T12:01:25.565Z] [INFO] Fetched 0 apps from Google Play PH tools top_free
+[2026-03-04T12:01:25.566Z] [INFO] Fetching Google Play PH tools top_grossing
+[2026-03-04T12:01:25.686Z] [INFO] Fetched 0 apps from Google Play PH tools top_paid
+[2026-03-04T12:01:25.686Z] [INFO] Fetching Google Play PH books top_free
+[2026-03-04T12:01:25.846Z] [INFO] Fetched 0 apps from Google Play PH books top_free
+[2026-03-04T12:01:25.846Z] [INFO] Fetching Google Play PH books top_paid
+[2026-03-04T12:01:25.975Z] [INFO] Fetched 0 apps from Google Play PH tools top_grossing
+[2026-03-04T12:01:25.976Z] [INFO] Fetching Google Play PH books top_grossing
+[2026-03-04T12:01:26.203Z] [INFO] Fetched 0 apps from Google Play PH books top_paid
+[2026-03-04T12:01:26.203Z] [INFO] Fetching App Store MY tools top_free
+[2026-03-04T12:01:26.346Z] [INFO] Fetched 0 apps from Google Play PH books top_grossing
+[2026-03-04T12:01:26.347Z] [INFO] Fetching App Store MY tools top_paid
+[2026-03-04T12:01:26.634Z] [ERROR] App Store MY tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:26.635Z] [INFO] Fetching App Store MY tools top_grossing
+[2026-03-04T12:01:26.777Z] [ERROR] App Store MY tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:26.777Z] [INFO] Fetching App Store MY books top_free
+[2026-03-04T12:01:27.146Z] [ERROR] App Store MY books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:27.146Z] [INFO] Fetching App Store MY books top_paid
+[2026-03-04T12:01:27.221Z] [ERROR] App Store MY tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:27.221Z] [INFO] Fetching App Store MY books top_grossing
+[2026-03-04T12:01:27.598Z] [ERROR] App Store MY books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:27.599Z] [INFO] Fetching Google Play MY tools top_free
+[2026-03-04T12:01:27.732Z] [INFO] Fetched 0 apps from Google Play TH books top_grossing
+[2026-03-04T12:01:27.732Z] [INFO] Fetching Google Play MY tools top_paid
+[2026-03-04T12:01:27.753Z] [ERROR] App Store MY books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:27.754Z] [INFO] Fetching Google Play MY tools top_grossing
+[2026-03-04T12:01:27.891Z] [INFO] Fetched 0 apps from Google Play MY tools top_paid
+[2026-03-04T12:01:27.891Z] [INFO] Fetching Google Play MY books top_free
+[2026-03-04T12:01:28.114Z] [INFO] Fetched 0 apps from Google Play MY tools top_free
+[2026-03-04T12:01:28.115Z] [INFO] Fetching Google Play MY books top_paid
+[2026-03-04T12:01:28.288Z] [INFO] Fetched 0 apps from Google Play MY books top_free
+[2026-03-04T12:01:28.288Z] [INFO] Fetching Google Play MY books top_grossing
+[2026-03-04T12:01:28.433Z] [INFO] Fetched 0 apps from Google Play MY tools top_grossing
+[2026-03-04T12:01:28.433Z] [INFO] Fetching App Store SA tools top_free
+[2026-03-04T12:01:28.576Z] [INFO] Fetched 0 apps from Google Play MY books top_grossing
+[2026-03-04T12:01:28.577Z] [INFO] Fetching App Store SA tools top_paid
+[2026-03-04T12:01:28.770Z] [INFO] Fetched 0 apps from Google Play MY books top_paid
+[2026-03-04T12:01:28.770Z] [INFO] Fetching App Store SA tools top_grossing
+[2026-03-04T12:01:28.896Z] [ERROR] App Store SA tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:28.896Z] [INFO] Fetching App Store SA books top_free
+[2026-03-04T12:01:28.939Z] [ERROR] App Store SA tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:28.939Z] [INFO] Fetching App Store SA books top_paid
+[2026-03-04T12:01:29.291Z] [ERROR] App Store SA tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:29.291Z] [INFO] Fetching App Store SA books top_grossing
+[2026-03-04T12:01:29.348Z] [ERROR] App Store SA books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:29.348Z] [INFO] Fetching Google Play SA tools top_free
+[2026-03-04T12:01:29.501Z] [INFO] Fetched 0 apps from Google Play SA tools top_free
+[2026-03-04T12:01:29.502Z] [INFO] Fetching Google Play SA tools top_paid
+[2026-03-04T12:01:29.523Z] [ERROR] App Store SA books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:29.524Z] [INFO] Fetching Google Play SA tools top_grossing
+[2026-03-04T12:01:29.666Z] [INFO] Fetched 0 apps from Google Play SA tools top_paid
+[2026-03-04T12:01:29.666Z] [INFO] Fetching Google Play SA books top_free
+[2026-03-04T12:01:29.814Z] [INFO] Fetched 0 apps from Google Play SA books top_free
+[2026-03-04T12:01:29.815Z] [INFO] Fetching Google Play SA books top_paid
+[2026-03-04T12:01:30.010Z] [INFO] Fetched 0 apps from Google Play SA tools top_grossing
+[2026-03-04T12:01:30.011Z] [INFO] Fetching Google Play SA books top_grossing
+[2026-03-04T12:01:30.037Z] [ERROR] App Store SA books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:30.038Z] [INFO] Fetching App Store AE tools top_free
+[2026-03-04T12:01:30.181Z] [INFO] Fetched 0 apps from Google Play SA books top_paid
+[2026-03-04T12:01:30.182Z] [INFO] Fetching App Store AE tools top_paid
+[2026-03-04T12:01:30.334Z] [INFO] Fetched 0 apps from Google Play SA books top_grossing
+[2026-03-04T12:01:30.334Z] [INFO] Fetching App Store AE tools top_grossing
+[2026-03-04T12:01:30.582Z] [ERROR] App Store AE tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:30.582Z] [INFO] Fetching App Store AE books top_free
+[2026-03-04T12:01:30.588Z] [ERROR] App Store AE tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:30.588Z] [INFO] Fetching App Store AE books top_paid
+[2026-03-04T12:01:30.877Z] [ERROR] App Store AE tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:30.877Z] [INFO] Fetching App Store AE books top_grossing
+[2026-03-04T12:01:31.057Z] [ERROR] App Store AE books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:31.057Z] [INFO] Fetching Google Play AE tools top_free
+[2026-03-04T12:01:31.241Z] [INFO] Fetched 0 apps from Google Play AE tools top_free
+[2026-03-04T12:01:31.241Z] [INFO] Fetching Google Play AE tools top_paid
+[2026-03-04T12:01:31.265Z] [ERROR] App Store AE books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:31.266Z] [INFO] Fetching Google Play AE tools top_grossing
+[2026-03-04T12:01:31.269Z] [ERROR] App Store AE books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:31.269Z] [INFO] Fetching Google Play AE books top_free
+[2026-03-04T12:01:31.436Z] [INFO] Fetched 0 apps from Google Play AE tools top_grossing
+[2026-03-04T12:01:31.436Z] [INFO] Fetching Google Play AE books top_paid
+[2026-03-04T12:01:31.636Z] [INFO] Fetched 0 apps from Google Play AE books top_free
+[2026-03-04T12:01:31.636Z] [INFO] Fetching Google Play AE books top_grossing
+[2026-03-04T12:01:31.769Z] [INFO] Fetched 0 apps from Google Play AE tools top_paid
+[2026-03-04T12:01:31.770Z] [INFO] Fetching App Store TR tools top_free
+[2026-03-04T12:01:31.922Z] [INFO] Fetched 0 apps from Google Play AE books top_paid
+[2026-03-04T12:01:31.923Z] [INFO] Fetching App Store TR tools top_paid
+[2026-03-04T12:01:32.058Z] [INFO] Fetched 0 apps from Google Play AE books top_grossing
+[2026-03-04T12:01:32.058Z] [INFO] Fetching App Store TR tools top_grossing
+[2026-03-04T12:01:32.231Z] [ERROR] App Store TR tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:32.232Z] [INFO] Fetching App Store TR books top_free
+[2026-03-04T12:01:32.273Z] [ERROR] App Store TR tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:32.274Z] [INFO] Fetching App Store TR books top_paid
+[2026-03-04T12:01:32.776Z] [ERROR] App Store TR books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:32.776Z] [INFO] Fetching App Store TR books top_grossing
+[2026-03-04T12:01:32.780Z] [ERROR] App Store TR tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:32.780Z] [INFO] Fetching Google Play TR tools top_free
+[2026-03-04T12:01:33.037Z] [INFO] Fetched 0 apps from Google Play TR tools top_free
+[2026-03-04T12:01:33.037Z] [INFO] Fetching Google Play TR tools top_paid
+[2026-03-04T12:01:33.055Z] [ERROR] App Store TR books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:33.056Z] [INFO] Fetching Google Play TR tools top_grossing
+[2026-03-04T12:01:33.262Z] [INFO] Fetched 0 apps from Google Play TR tools top_grossing
+[2026-03-04T12:01:33.263Z] [INFO] Fetching Google Play TR books top_free
+[2026-03-04T12:01:33.407Z] [INFO] Fetched 0 apps from Google Play TR tools top_paid
+[2026-03-04T12:01:33.408Z] [INFO] Fetching Google Play TR books top_paid
+[2026-03-04T12:01:33.423Z] [ERROR] App Store TR books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:33.427Z] [INFO] Fetching Google Play TR books top_grossing
+[2026-03-04T12:01:33.557Z] [INFO] Fetched 0 apps from Google Play TR books top_paid
+[2026-03-04T12:01:33.557Z] [INFO] Fetching App Store PL tools top_free
+[2026-03-04T12:01:33.750Z] [INFO] Fetched 0 apps from Google Play TR books top_free
+[2026-03-04T12:01:33.750Z] [INFO] Fetching App Store PL tools top_paid
+[2026-03-04T12:01:33.921Z] [INFO] Fetched 0 apps from Google Play TR books top_grossing
+[2026-03-04T12:01:33.921Z] [INFO] Fetching App Store PL tools top_grossing
+[2026-03-04T12:01:33.967Z] [ERROR] App Store PL tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:33.967Z] [INFO] Fetching App Store PL books top_free
+[2026-03-04T12:01:34.205Z] [ERROR] App Store PL tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:34.205Z] [INFO] Fetching App Store PL books top_paid
+[2026-03-04T12:01:34.502Z] [ERROR] App Store PL books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:34.502Z] [INFO] Fetching App Store PL books top_grossing
+[2026-03-04T12:01:34.527Z] [ERROR] App Store PL tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:34.527Z] [INFO] Fetching Google Play PL tools top_free
+[2026-03-04T12:01:34.549Z] [ERROR] App Store PL books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:34.549Z] [INFO] Fetching Google Play PL tools top_paid
+[2026-03-04T12:01:34.785Z] [INFO] Fetched 0 apps from Google Play PL tools top_free
+[2026-03-04T12:01:34.785Z] [INFO] Fetching Google Play PL tools top_grossing
+[2026-03-04T12:01:34.919Z] [INFO] Fetched 0 apps from Google Play PL tools top_paid
+[2026-03-04T12:01:34.919Z] [INFO] Fetching Google Play PL books top_free
+[2026-03-04T12:01:34.941Z] [ERROR] App Store PL books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:34.942Z] [INFO] Fetching Google Play PL books top_paid
+[2026-03-04T12:01:35.167Z] [INFO] Fetched 0 apps from Google Play PL tools top_grossing
+[2026-03-04T12:01:35.168Z] [INFO] Fetching Google Play PL books top_grossing
+[2026-03-04T12:01:35.313Z] [INFO] Fetched 0 apps from Google Play PL books top_free
+[2026-03-04T12:01:35.314Z] [INFO] Fetching App Store RU tools top_free
+[2026-03-04T12:01:35.456Z] [INFO] Fetched 0 apps from Google Play PL books top_paid
+[2026-03-04T12:01:35.456Z] [INFO] Fetching App Store RU tools top_paid
+[2026-03-04T12:01:35.578Z] [INFO] Fetched 0 apps from Google Play PL books top_grossing
+[2026-03-04T12:01:35.578Z] [INFO] Fetching App Store RU tools top_grossing
+[2026-03-04T12:01:35.889Z] [ERROR] App Store RU tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:35.890Z] [INFO] Fetching App Store RU books top_free
+[2026-03-04T12:01:35.997Z] [ERROR] App Store RU tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:35.998Z] [INFO] Fetching App Store RU books top_paid
+[2026-03-04T12:01:36.113Z] [ERROR] App Store RU tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:36.114Z] [INFO] Fetching App Store RU books top_grossing
+[2026-03-04T12:01:36.387Z] [ERROR] App Store RU books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:36.388Z] [INFO] Fetching Google Play RU tools top_free
+[2026-03-04T12:01:36.567Z] [INFO] Fetched 0 apps from Google Play RU tools top_free
+[2026-03-04T12:01:36.567Z] [INFO] Fetching Google Play RU tools top_paid
+[2026-03-04T12:01:36.572Z] [ERROR] App Store RU books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:36.572Z] [INFO] Fetching Google Play RU tools top_grossing
+[2026-03-04T12:01:36.811Z] [INFO] Fetched 0 apps from Google Play RU tools top_grossing
+[2026-03-04T12:01:36.811Z] [INFO] Fetching Google Play RU books top_free
+[2026-03-04T12:01:36.851Z] [ERROR] App Store RU books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:36.851Z] [INFO] Fetching Google Play RU books top_paid
+[2026-03-04T12:01:37.034Z] [INFO] Fetched 0 apps from Google Play RU books top_free
+[2026-03-04T12:01:37.034Z] [INFO] Fetching Google Play RU books top_grossing
+[2026-03-04T12:01:37.228Z] [INFO] Fetched 0 apps from Google Play RU books top_paid
+[2026-03-04T12:01:37.229Z] [INFO] Fetching App Store ZA tools top_free
+[2026-03-04T12:01:37.363Z] [INFO] Fetched 0 apps from Google Play RU books top_grossing
+[2026-03-04T12:01:37.363Z] [INFO] Fetching App Store ZA tools top_paid
+[2026-03-04T12:01:37.729Z] [ERROR] App Store ZA tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:37.730Z] [INFO] Fetching App Store ZA tools top_grossing
+[2026-03-04T12:01:37.754Z] [ERROR] App Store ZA tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:37.755Z] [INFO] Fetching App Store ZA books top_free
+[2026-03-04T12:01:38.231Z] [ERROR] App Store ZA books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:38.231Z] [INFO] Fetching App Store ZA books top_paid
+[2026-03-04T12:01:38.259Z] [ERROR] App Store ZA tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:38.259Z] [INFO] Fetching App Store ZA books top_grossing
+[2026-03-04T12:01:38.661Z] [ERROR] App Store ZA books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:38.661Z] [INFO] Fetching Google Play ZA tools top_free
+[2026-03-04T12:01:38.836Z] [INFO] Fetched 0 apps from Google Play ZA tools top_free
+[2026-03-04T12:01:38.837Z] [INFO] Fetching Google Play ZA tools top_paid
+[2026-03-04T12:01:38.896Z] [ERROR] App Store ZA books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:38.896Z] [INFO] Fetching Google Play ZA tools top_grossing
+[2026-03-04T12:01:39.054Z] [INFO] Fetched 0 apps from Google Play ZA tools top_paid
+[2026-03-04T12:01:39.054Z] [INFO] Fetching Google Play ZA books top_free
+[2026-03-04T12:01:39.259Z] [INFO] Fetched 0 apps from Google Play ZA tools top_grossing
+[2026-03-04T12:01:39.259Z] [INFO] Fetching Google Play ZA books top_paid
+[2026-03-04T12:01:39.415Z] [INFO] Fetched 0 apps from Google Play ZA books top_free
+[2026-03-04T12:01:39.415Z] [INFO] Fetching Google Play ZA books top_grossing
+[2026-03-04T12:01:39.662Z] [INFO] Fetched 0 apps from Google Play ZA books top_grossing
+[2026-03-04T12:01:39.662Z] [INFO] Fetching App Store EG tools top_free
+[2026-03-04T12:01:39.795Z] [INFO] Fetched 0 apps from Google Play ZA books top_paid
+[2026-03-04T12:01:39.795Z] [INFO] Fetching App Store EG tools top_paid
+[2026-03-04T12:01:39.968Z] [INFO] Fetched 0 apps from Google Play RU tools top_paid
+[2026-03-04T12:01:39.969Z] [INFO] Fetching App Store EG tools top_grossing
+[2026-03-04T12:01:40.175Z] [ERROR] App Store EG tools top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:40.175Z] [INFO] Fetching App Store EG books top_free
+[2026-03-04T12:01:40.288Z] [ERROR] App Store EG tools top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:40.289Z] [INFO] Fetching App Store EG books top_paid
+[2026-03-04T12:01:40.429Z] [ERROR] App Store EG tools top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:40.429Z] [INFO] Fetching App Store EG books top_grossing
+[2026-03-04T12:01:40.531Z] [ERROR] App Store EG books top_free failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:40.531Z] [INFO] Fetching Google Play EG tools top_free
+[2026-03-04T12:01:40.685Z] [INFO] Fetched 0 apps from Google Play EG tools top_free
+[2026-03-04T12:01:40.686Z] [INFO] Fetching Google Play EG tools top_paid
+[2026-03-04T12:01:40.746Z] [ERROR] App Store EG books top_paid failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:40.746Z] [INFO] Fetching Google Play EG tools top_grossing
+[2026-03-04T12:01:40.866Z] [INFO] Fetched 0 apps from Google Play EG tools top_paid
+[2026-03-04T12:01:40.866Z] [INFO] Fetching Google Play EG books top_free
+[2026-03-04T12:01:41.006Z] [INFO] Fetched 0 apps from Google Play EG tools top_grossing
+[2026-03-04T12:01:41.006Z] [INFO] Fetching Google Play EG books top_paid
+[2026-03-04T12:01:41.012Z] [ERROR] App Store EG books top_grossing failed: Cannot read properties of undefined (reading 'href')
+[2026-03-04T12:01:41.012Z] [INFO] Fetching Google Play EG books top_grossing
+[2026-03-04T12:01:41.218Z] [INFO] Fetched 0 apps from Google Play EG books top_free
+[2026-03-04T12:01:41.373Z] [INFO] Fetched 0 apps from Google Play EG books top_paid
+[2026-03-04T12:01:41.514Z] [INFO] Fetched 0 apps from Google Play EG books top_grossing
+[2026-03-04T12:01:41.527Z] [INFO] Saved 0 raw records to /root/.openclaw/workspace/app_rank_scraper/data/rankings_raw.jsonl
+[2026-03-04T12:01:41.546Z] [INFO] Saved summary to /root/.openclaw/workspace/app_rank_scraper/data/rankings_summary.csv
+[2026-03-04T12:01:41.557Z] [INFO] Saved 0 changes to /root/.openclaw/workspace/app_rank_scraper/data/rank_changes_20260304_120029.csv
+[2026-03-04T12:01:41.562Z] [INFO] Generated report at /root/.openclaw/workspace/app_rank_scraper/report_20260304_120029.md
+[2026-03-04T12:01:41.562Z] [INFO] Crawl completed! 0 records fetched

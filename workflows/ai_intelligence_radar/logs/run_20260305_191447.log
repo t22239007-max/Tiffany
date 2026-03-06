@@ -1,0 +1,68 @@
+[2026-03-05T19:14:47+08:00] [INFO] Starting AI Intelligence Radar run at 20260305_191447 HKT
+[2026-03-05T19:14:47+08:00] [INFO] Found 33 sources to crawl
+[2026-03-05T19:14:47+08:00] [WARN] Retry 1 for https://openai.com/blog, wait 2000ms
+[2026-03-05T19:14:47+08:00] [WARN] Retry 1 for https://ai.meta.com/blog, wait 2000ms
+[2026-03-05T19:14:48+08:00] [WARN] Retry 1 for https://perplexity.ai/blog, wait 2000ms
+[2026-03-05T19:14:49+08:00] [WARN] Retry 1 for https://venturebeat.com/ai/, wait 2000ms
+[2026-03-05T19:14:49+08:00] [WARN] Retry 2 for https://openai.com/blog, wait 4000ms
+[2026-03-05T19:14:50+08:00] [WARN] Retry 2 for https://ai.meta.com/blog, wait 4000ms
+[2026-03-05T19:14:51+08:00] [WARN] Retry 2 for https://perplexity.ai/blog, wait 4000ms
+[2026-03-05T19:14:51+08:00] [WARN] Retry 1 for https://www.bloomberg.com/technology, wait 2000ms
+[2026-03-05T19:14:51+08:00] [WARN] Retry 2 for https://venturebeat.com/ai/, wait 4000ms
+[2026-03-05T19:14:53+08:00] [WARN] Retry 2 for https://www.bloomberg.com/technology, wait 4000ms
+[2026-03-05T19:14:53+08:00] [WARN] Retry 3 for https://openai.com/blog, wait 8000ms
+[2026-03-05T19:14:54+08:00] [WARN] Retry 3 for https://ai.meta.com/blog, wait 8000ms
+[2026-03-05T19:14:55+08:00] [WARN] Retry 3 for https://perplexity.ai/blog, wait 8000ms
+[2026-03-05T19:14:55+08:00] [WARN] Retry 3 for https://venturebeat.com/ai/, wait 8000ms
+[2026-03-05T19:14:57+08:00] [WARN] Retry 3 for https://www.bloomberg.com/technology, wait 8000ms
+[2026-03-05T19:15:01+08:00] [ERROR] Failed to fetch https://openai.com/blog: Request failed with status code 403
+[2026-03-05T19:15:01+08:00] [WARN] Retry 1 for https://www.reuters.com/technology/artificial-intelligence/, wait 2000ms
+[2026-03-05T19:15:02+08:00] [ERROR] Failed to fetch https://ai.meta.com/blog: Request failed with status code 400
+[2026-03-05T19:15:03+08:00] [ERROR] Failed to fetch https://perplexity.ai/blog: Request failed with status code 403
+[2026-03-05T19:15:03+08:00] [WARN] Retry 1 for https://www.axios.com/technology/ai, wait 2000ms
+[2026-03-05T19:15:03+08:00] [ERROR] Failed to fetch https://venturebeat.com/ai/: Request failed with status code 429
+[2026-03-05T19:15:03+08:00] [WARN] Retry 2 for https://www.reuters.com/technology/artificial-intelligence/, wait 4000ms
+[2026-03-05T19:15:04+08:00] [WARN] Retry 1 for https://www.reddit.com/r/artificial/, wait 2000ms
+[2026-03-05T19:15:04+08:00] [WARN] Retry 1 for https://www.reddit.com/r/MachineLearning/, wait 2000ms
+[2026-03-05T19:15:05+08:00] [WARN] Retry 2 for https://www.axios.com/technology/ai, wait 4000ms
+[2026-03-05T19:15:05+08:00] [ERROR] Failed to fetch https://www.bloomberg.com/technology: Request failed with status code 403
+[2026-03-05T19:15:05+08:00] [ERROR] Run failed: TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+    at writeFile (node:fs:2380:5)
+    at go$writeFile (/root/.openclaw/workspace/ai_intelligence_radar/node_modules/graceful-fs/graceful-fs.js:138:14)
+    at Object.writeFile (/root/.openclaw/workspace/ai_intelligence_radar/node_modules/graceful-fs/graceful-fs.js:135:12)
+    at /root/.openclaw/workspace/ai_intelligence_radar/node_modules/universalify/index.js:9:12
+    at new Promise (<anonymous>)
+    at Object.writeFile (/root/.openclaw/workspace/ai_intelligence_radar/node_modules/universalify/index.js:7:14)
+    at fetchWithRetry (file:///root/.openclaw/workspace/ai_intelligence_radar/radar.mjs:127:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///root/.openclaw/workspace/ai_intelligence_radar/radar.mjs:255:17
+[2026-03-05T19:15:05+08:00] [WARN] Retry 1 for https://www.reddit.com/r/LocalLLaMA, wait 2000ms
+[2026-03-05T19:15:06+08:00] [WARN] Retry 2 for https://www.reddit.com/r/artificial/, wait 4000ms
+[2026-03-05T19:15:06+08:00] [WARN] Retry 2 for https://www.reddit.com/r/MachineLearning/, wait 4000ms
+[2026-03-05T19:15:07+08:00] [WARN] Retry 2 for https://www.reddit.com/r/LocalLLaMA, wait 4000ms
+[2026-03-05T19:15:07+08:00] [WARN] Retry 3 for https://www.reuters.com/technology/artificial-intelligence/, wait 8000ms
+[2026-03-05T19:15:09+08:00] [WARN] Retry 3 for https://www.axios.com/technology/ai, wait 8000ms
+[2026-03-05T19:15:10+08:00] [WARN] Retry 3 for https://www.reddit.com/r/artificial/, wait 8000ms
+[2026-03-05T19:15:10+08:00] [WARN] Retry 3 for https://www.reddit.com/r/MachineLearning/, wait 8000ms
+[2026-03-05T19:15:11+08:00] [WARN] Retry 3 for https://www.reddit.com/r/LocalLLaMA, wait 8000ms
+[2026-03-05T19:15:16+08:00] [ERROR] Failed to fetch https://www.reuters.com/technology/artificial-intelligence/: Request failed with status code 401
+[2026-03-05T19:15:16+08:00] [WARN] Retry 1 for https://www.reddit.com/r/singularity, wait 2000ms
+[2026-03-05T19:15:17+08:00] [ERROR] Failed to fetch https://www.axios.com/technology/ai: Request failed with status code 403
+[2026-03-05T19:15:17+08:00] [WARN] Retry 1 for https://www.producthunt.com, wait 2000ms
+[2026-03-05T19:15:18+08:00] [WARN] Retry 2 for https://www.reddit.com/r/singularity, wait 4000ms
+[2026-03-05T19:15:18+08:00] [ERROR] Failed to fetch https://www.reddit.com/r/artificial/: Request failed with status code 403
+[2026-03-05T19:15:18+08:00] [ERROR] Failed to fetch https://www.reddit.com/r/MachineLearning/: Request failed with status code 403
+[2026-03-05T19:15:18+08:00] [WARN] Retry 1 for https://theresanaiforthat.com, wait 2000ms
+[2026-03-05T19:15:19+08:00] [WARN] Retry 2 for https://www.producthunt.com, wait 4000ms
+[2026-03-05T19:15:19+08:00] [ERROR] Failed to fetch https://www.reddit.com/r/LocalLLaMA: Request failed with status code 403
+[2026-03-05T19:15:19+08:00] [WARN] Retry 1 for https://topai.tools, wait 2000ms
+[2026-03-05T19:15:20+08:00] [WARN] Retry 2 for https://theresanaiforthat.com, wait 4000ms
+[2026-03-05T19:15:21+08:00] [WARN] Retry 2 for https://topai.tools, wait 4000ms
+[2026-03-05T19:15:22+08:00] [WARN] Retry 3 for https://www.reddit.com/r/singularity, wait 8000ms
+[2026-03-05T19:15:23+08:00] [WARN] Retry 3 for https://www.producthunt.com, wait 8000ms
+[2026-03-05T19:15:24+08:00] [WARN] Retry 3 for https://theresanaiforthat.com, wait 8000ms
+[2026-03-05T19:15:25+08:00] [WARN] Retry 3 for https://topai.tools, wait 8000ms
+[2026-03-05T19:15:30+08:00] [ERROR] Failed to fetch https://www.reddit.com/r/singularity: Request failed with status code 403
+[2026-03-05T19:15:31+08:00] [ERROR] Failed to fetch https://www.producthunt.com: Request failed with status code 403
+[2026-03-05T19:15:32+08:00] [ERROR] Failed to fetch https://theresanaiforthat.com: Request failed with status code 403
+[2026-03-05T19:15:33+08:00] [ERROR] Failed to fetch https://topai.tools: Request failed with status code 403

@@ -1,0 +1,1205 @@
+country,platform,category,chart_type,app_id,app_name,prev_rank,curr_rank,delta_rank,status
+US,app_store,tools,top_free,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+US,app_store,tools,top_free,com.openai.chat,ChatGPT,,2,,new
+US,app_store,tools,top_free,com.google.gemini,Google Gemini,3,3,0,unchanged
+US,app_store,tools,top_free,com.burbn.barcelona,Threads,,4,,new
+US,app_store,tools,top_free,com.google.GoogleMobile,Google,5,5,0,unchanged
+US,app_store,tools,top_free,com.einnovation.temu,Temu: Shop Like a Billionaire,6,6,0,unchanged
+US,app_store,tools,top_free,net.whatsapp.WhatsApp,WhatsApp Messenger,7,7,0,unchanged
+US,app_store,tools,top_free,com.microsoft.skype.teams,Microsoft Teams,8,8,0,unchanged
+US,app_store,tools,top_free,com.google.Gmail,Gmail - Email by Google,9,9,0,unchanged
+US,app_store,tools,top_free,com.lemon.lvoverseas,CapCut: Photo & Video Editor,10,10,0,unchanged
+US,google_play,tools,top_free,com.clean.forandroid.vidawe,Cleaner Launcher for Android,1,1,0,unchanged
+US,google_play,tools,top_free,com.open.web.ai.browser,Open Browser - Smart & Safe,2,2,0,unchanged
+US,google_play,tools,top_free,com.find.phone.device.locate.lostphone.android,Find My Phone by Clap Launcher,3,3,0,unchanged
+US,google_play,tools,top_free,com.cleaning.toolbox.bitapiper,Cleaning Toolbox & Launcher,4,4,0,unchanged
+US,google_play,tools,top_free,com.apple.movetoios,Move to iOS,5,5,0,unchanged
+US,google_play,tools,top_free,com.wifiinfo.launcher.zxiert,WiFi Info & Launcher,6,6,0,unchanged
+US,google_play,tools,top_free,com.google.android.apps.authenticator2,Google Authenticator,7,7,0,unchanged
+US,google_play,tools,top_free,com.cleanertool.box,Cleaner Toolbox,8,8,0,unchanged
+US,google_play,tools,top_free,com.storage.androidcleaner,Cleanup: Phone Storage Cleaner,9,9,0,unchanged
+US,google_play,tools,top_free,com.file.photo.recovery.deleted.restore,Photo Recovery-File Rescue,10,10,0,unchanged
+US,app_store,tools,top_paid,com.mojang.minecraftpe,"Minecraft: Dream it, Build it!",,1,,new
+US,app_store,tools,top_paid,com.robtop.geometryjump,Geometry Dash,2,2,0,unchanged
+US,app_store,tools,top_paid,com.liguangming.Shadowrocket,Shadowrocket,3,3,0,unchanged
+US,app_store,tools,top_paid,com.ndemiccreations.plagueinc,Plague Inc.,4,4,0,unchanged
+US,app_store,tools,top_paid,com.hotschedules.hotschedules,HotSchedules,5,5,0,unchanged
+US,app_store,tools,top_paid,com.wb.Ellen.HeadsUp,Heads Up!,6,6,0,unchanged
+US,app_store,tools,top_paid,com.ninjakiwi.bloonstd6,Bloons TD 6,7,7,0,unchanged
+US,app_store,tools,top_paid,com.chucklefish.stardewvalley,Stardew Valley,8,8,0,unchanged
+US,app_store,tools,top_paid,com.playstack.balatropremium,Balatro,9,9,0,unchanged
+US,app_store,tools,top_paid,com.rovio.abclassic22,Red's First Flight,10,10,0,unchanged
+US,google_play,tools,top_paid,com.fulldive.extension.fullroid.pro,Pro Emulator for Game Consoles,1,1,0,unchanged
+US,google_play,tools,top_paid,net.dinglisch.android.taskerm,Tasker,2,2,0,unchanged
+US,google_play,tools,top_paid,psplay.grill.com,PXPlay: Remote Play,3,3,0,unchanged
+US,google_play,tools,top_paid,com.wakdev.nfctools.pro,NFC Tools - Pro Edition,4,4,0,unchanged
+US,google_play,tools,top_paid,dev.vodik7.tvquickactions,tvQuickActions Pro,5,5,0,unchanged
+US,google_play,tools,top_paid,com.samruston.buzzkill,BuzzKill Notification Manager,6,6,0,unchanged
+US,google_play,tools,top_paid,com.balsoy.fatih.compass,Compass,7,7,0,unchanged
+US,google_play,tools,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,8,8,0,unchanged
+US,google_play,tools,top_paid,com.riteshsahu.SMSBackupRestorePro,SMS Backup & Restore Pro,9,9,0,unchanged
+US,google_play,tools,top_paid,org.kustom.widget.pro,KWGT Kustom Widget Pro Key,10,10,0,unchanged
+US,app_store,tools,top_grossing,com.openai.chat,ChatGPT,,1,,new
+US,app_store,tools,top_grossing,com.google.ios.youtube,YouTube,2,2,0,unchanged
+US,app_store,tools,top_grossing,com.zhiliaoapp.musically,"TikTok - Videos, Shop & LIVE",,3,,new
+US,app_store,tools,top_grossing,com.peacocktv.peacock,Peacock TV: Stream TV & Movies,4,4,0,unchanged
+US,app_store,tools,top_grossing,com.cbsvideo.app,Paramount+,5,5,0,unchanged
+US,app_store,tools,top_grossing,com.scopely.monopolygo,MONOPOLY GO!,,6,,new
+US,app_store,tools,top_grossing,com.wbd.stream,HBO Max: Stream Movies & TV,,7,,new
+US,app_store,tools,top_grossing,com.nianticlabs.pokemongo,Pokémon GO,,8,,new
+US,app_store,tools,top_grossing,com.toyopagroup.picaboo,Snapchat,,9,,new
+US,app_store,tools,top_grossing,com.lastwar.ios,Last War:Survival,10,10,0,unchanged
+US,google_play,tools,top_grossing,com.clean.forandroid.vidawe,Cleaner Launcher for Android,1,1,0,unchanged
+US,google_play,tools,top_grossing,com.open.web.ai.browser,Open Browser - Smart & Safe,2,2,0,unchanged
+US,google_play,tools,top_grossing,com.find.phone.device.locate.lostphone.android,Find My Phone by Clap Launcher,3,3,0,unchanged
+US,google_play,tools,top_grossing,com.cleaning.toolbox.bitapiper,Cleaning Toolbox & Launcher,4,4,0,unchanged
+US,google_play,tools,top_grossing,com.apple.movetoios,Move to iOS,5,5,0,unchanged
+US,google_play,tools,top_grossing,com.wifiinfo.launcher.zxiert,WiFi Info & Launcher,6,6,0,unchanged
+US,google_play,tools,top_grossing,com.google.android.apps.authenticator2,Google Authenticator,7,7,0,unchanged
+US,google_play,tools,top_grossing,com.cleanertool.box,Cleaner Toolbox,8,8,0,unchanged
+US,google_play,tools,top_grossing,com.storage.androidcleaner,Cleanup: Phone Storage Cleaner,9,9,0,unchanged
+US,google_play,tools,top_grossing,com.file.photo.recovery.deleted.restore,Photo Recovery-File Rescue,10,10,0,unchanged
+US,app_store,books,top_free,com.audible.iphone,Audible: Audiobooks & Podcasts,,1,,new
+US,app_store,books,top_free,com.overdrive.dewey,"Libby, the library app",,2,,new
+US,app_store,books,top_free,com.amazon.Lassen,Amazon Kindle,3,3,0,unchanged
+US,app_store,books,top_free,com.hoopladigital.hoopla,Hoopla Digital,,4,,new
+US,app_store,books,top_free,com.goodreads.Goodreads,Goodreads: Book Tracker & More,5,5,0,unchanged
+US,app_store,books,top_free,com.gnovel.originalstation,"GoodNovel - Booktok, Stories",,6,,new
+US,app_store,books,top_free,com.fivemobile.wattpad,Wattpad - Read & Write Stories,7,7,0,unchanged
+US,app_store,books,top_free,com.bible.holy.bible.for.women,Bible For Women.,8,8,0,unchanged
+US,app_store,books,top_free,com.barnesandnoble.app.prod,Barnes & Noble,9,9,0,unchanged
+US,app_store,books,top_free,co.fable.Fable,Fable: Track & Discuss Books,10,10,0,unchanged
+US,google_play,books,top_free,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+US,google_play,books,top_free,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+US,google_play,books,top_free,com.einnovation.temu,Temu: Shop Like a Billionaire,3,3,0,unchanged
+US,google_play,books,top_free,com.tiktok.lite.go,TikTok Lite - Faster TikTok,4,4,0,unchanged
+US,google_play,books,top_free,com.zhiliaoapp.musically,"TikTok - Videos, Shop & LIVE",,5,,new
+US,google_play,books,top_free,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+US,google_play,books,top_free,com.microsoft.copilot,​​Microsoft Copilot,7,7,0,unchanged
+US,google_play,books,top_free,com.instagram.android,Instagram,8,8,0,unchanged
+US,google_play,books,top_free,com.zzkko,SHEIN-Shopping Online,9,9,0,unchanged
+US,google_play,books,top_free,com.lemon.lvoverseas,CapCut - Video Editor,10,10,0,unchanged
+US,app_store,books,top_paid,com.timbueno.boundapp,Bound - Audiobook Player,,1,,new
+US,app_store,books,top_paid,com.mirrorword.mirrorbible,Mirror Study Bible,2,2,0,unchanged
+US,app_store,books,top_paid,com.bookmobile.iphone.twentyfourhoursaday,Twenty-Four Hours a Day,3,3,0,unchanged
+US,app_store,books,top_paid,com.kehot.siddur.annotated,Siddur – Annotated Edition,4,4,0,unchanged
+US,app_store,books,top_paid,com.aabigbook.appstore,AA Big Book App  -  Unofficial,5,5,0,unchanged
+US,app_store,books,top_paid,com.cepherapp,Cepher,6,6,0,unchanged
+US,app_store,books,top_paid,com.artscroll.SAEEI,ArtScroll Smart Siddur סדור,7,7,0,unchanged
+US,app_store,books,top_paid,com.MotoJitsu.Books,MotoJitsu,8,8,0,unchanged
+US,app_store,books,top_paid,biz.bookdesign.librivox.pro,LibriVox Audiobooks – Ad-Free,9,9,0,unchanged
+US,app_store,books,top_paid,com.alepponline.nawranya,القاعدة النورانية,10,10,0,unchanged
+US,google_play,books,top_paid,com.tdr3.hs.android,HotSchedules,,1,,new
+US,google_play,books,top_paid,com.facer.pipboy_se,Fallout Pip-Boy SE Watch Face,2,2,0,unchanged
+US,google_play,books,top_paid,com.t11.skyview,SkyView® Explore the Universe,3,3,0,unchanged
+US,google_play,books,top_paid,org.prowl.torque,Torque Pro (OBD 2 & Car),4,4,0,unchanged
+US,google_play,books,top_paid,com.watchfacestudio.md307digital,MD307 Digital watch face,5,5,0,unchanged
+US,google_play,books,top_paid,com.fulldive.extension.fullroid.pro,Pro Emulator for Game Consoles,6,6,0,unchanged
+US,google_play,books,top_paid,net.dinglisch.android.taskerm,Tasker,7,7,0,unchanged
+US,google_play,books,top_paid,com.imageline.FLM,FL STUDIO MOBILE,8,8,0,unchanged
+US,google_play,books,top_paid,com.appslab.glass.widgets,Glass Widgets,9,9,0,unchanged
+US,google_play,books,top_paid,com.teslacoilsw.launcher.prime,Nova Launcher Prime,10,10,0,unchanged
+US,app_store,books,top_grossing,com.audible.iphone,Audible: Audiobooks & Podcasts,,1,,new
+US,app_store,books,top_grossing,com.gnovel.originalstation,"GoodNovel - Booktok, Stories",,2,,new
+US,app_store,books,top_grossing,com.viz.wsj,Shonen Jump Manga & Comics,,3,,new
+US,app_store,books,top_grossing,write.read.story.webnovel.book.anystories,AnyStories-Top Novels & Books,4,4,0,unchanged
+US,app_store,books,top_grossing,com.scribd.iscribd,Everand: Audiobooks & Ebooks,5,5,0,unchanged
+US,app_store,books,top_grossing,com.dreame.reader,Dreame - Read Best Romance,6,6,0,unchanged
+US,app_store,books,top_grossing,com.tapasmedia.Tapastic,Tapas – Comics and Novels,7,7,0,unchanged
+US,app_store,books,top_grossing,com.qvon.novellair,Novellair,8,8,0,unchanged
+US,app_store,books,top_grossing,com.fivemobile.wattpad,Wattpad - Read & Write Stories,9,9,0,unchanged
+US,app_store,books,top_grossing,com.qvon.novelbar,NovelBar,10,10,0,unchanged
+US,google_play,books,top_grossing,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+US,google_play,books,top_grossing,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+US,google_play,books,top_grossing,com.einnovation.temu,Temu: Shop Like a Billionaire,3,3,0,unchanged
+US,google_play,books,top_grossing,com.tiktok.lite.go,TikTok Lite - Faster TikTok,4,4,0,unchanged
+US,google_play,books,top_grossing,com.zhiliaoapp.musically,"TikTok - Videos, Shop & LIVE",,5,,new
+US,google_play,books,top_grossing,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+US,google_play,books,top_grossing,com.microsoft.copilot,​​Microsoft Copilot,7,7,0,unchanged
+US,google_play,books,top_grossing,com.instagram.android,Instagram,8,8,0,unchanged
+US,google_play,books,top_grossing,com.zzkko,SHEIN-Shopping Online,9,9,0,unchanged
+US,google_play,books,top_grossing,com.lemon.lvoverseas,CapCut - Video Editor,10,10,0,unchanged
+US,app_store,religion,top_free,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+US,app_store,religion,top_free,com.openai.chat,ChatGPT,,2,,new
+US,app_store,religion,top_free,com.google.gemini,Google Gemini,3,3,0,unchanged
+US,app_store,religion,top_free,com.burbn.barcelona,Threads,,4,,new
+US,app_store,religion,top_free,com.google.GoogleMobile,Google,5,5,0,unchanged
+US,app_store,religion,top_free,com.einnovation.temu,Temu: Shop Like a Billionaire,6,6,0,unchanged
+US,app_store,religion,top_free,net.whatsapp.WhatsApp,WhatsApp Messenger,7,7,0,unchanged
+US,app_store,religion,top_free,com.microsoft.skype.teams,Microsoft Teams,8,8,0,unchanged
+US,app_store,religion,top_free,com.google.Gmail,Gmail - Email by Google,9,9,0,unchanged
+US,app_store,religion,top_free,com.lemon.lvoverseas,CapCut: Photo & Video Editor,10,10,0,unchanged
+US,google_play,religion,top_free,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+US,google_play,religion,top_free,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+US,google_play,religion,top_free,com.einnovation.temu,Temu: Shop Like a Billionaire,3,3,0,unchanged
+US,google_play,religion,top_free,com.tiktok.lite.go,TikTok Lite - Faster TikTok,4,4,0,unchanged
+US,google_play,religion,top_free,com.zhiliaoapp.musically,"TikTok - Videos, Shop & LIVE",,5,,new
+US,google_play,religion,top_free,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+US,google_play,religion,top_free,com.microsoft.copilot,​​Microsoft Copilot,7,7,0,unchanged
+US,google_play,religion,top_free,com.instagram.android,Instagram,8,8,0,unchanged
+US,google_play,religion,top_free,com.zzkko,SHEIN-Shopping Online,9,9,0,unchanged
+US,google_play,religion,top_free,com.lemon.lvoverseas,CapCut - Video Editor,10,10,0,unchanged
+US,app_store,religion,top_paid,com.mojang.minecraftpe,"Minecraft: Dream it, Build it!",,1,,new
+US,app_store,religion,top_paid,com.robtop.geometryjump,Geometry Dash,2,2,0,unchanged
+US,app_store,religion,top_paid,com.liguangming.Shadowrocket,Shadowrocket,3,3,0,unchanged
+US,app_store,religion,top_paid,com.ndemiccreations.plagueinc,Plague Inc.,4,4,0,unchanged
+US,app_store,religion,top_paid,com.hotschedules.hotschedules,HotSchedules,5,5,0,unchanged
+US,app_store,religion,top_paid,com.wb.Ellen.HeadsUp,Heads Up!,6,6,0,unchanged
+US,app_store,religion,top_paid,com.ninjakiwi.bloonstd6,Bloons TD 6,7,7,0,unchanged
+US,app_store,religion,top_paid,com.chucklefish.stardewvalley,Stardew Valley,8,8,0,unchanged
+US,app_store,religion,top_paid,com.playstack.balatropremium,Balatro,9,9,0,unchanged
+US,app_store,religion,top_paid,com.rovio.abclassic22,Red's First Flight,10,10,0,unchanged
+US,google_play,religion,top_paid,com.tdr3.hs.android,HotSchedules,,1,,new
+US,google_play,religion,top_paid,com.facer.pipboy_se,Fallout Pip-Boy SE Watch Face,2,2,0,unchanged
+US,google_play,religion,top_paid,com.t11.skyview,SkyView® Explore the Universe,3,3,0,unchanged
+US,google_play,religion,top_paid,org.prowl.torque,Torque Pro (OBD 2 & Car),4,4,0,unchanged
+US,google_play,religion,top_paid,com.watchfacestudio.md307digital,MD307 Digital watch face,5,5,0,unchanged
+US,google_play,religion,top_paid,com.fulldive.extension.fullroid.pro,Pro Emulator for Game Consoles,6,6,0,unchanged
+US,google_play,religion,top_paid,net.dinglisch.android.taskerm,Tasker,7,7,0,unchanged
+US,google_play,religion,top_paid,com.imageline.FLM,FL STUDIO MOBILE,8,8,0,unchanged
+US,google_play,religion,top_paid,com.appslab.glass.widgets,Glass Widgets,9,9,0,unchanged
+US,google_play,religion,top_paid,com.teslacoilsw.launcher.prime,Nova Launcher Prime,10,10,0,unchanged
+US,app_store,religion,top_grossing,com.openai.chat,ChatGPT,,1,,new
+US,app_store,religion,top_grossing,com.google.ios.youtube,YouTube,2,2,0,unchanged
+US,app_store,religion,top_grossing,com.zhiliaoapp.musically,"TikTok - Videos, Shop & LIVE",,3,,new
+US,app_store,religion,top_grossing,com.peacocktv.peacock,Peacock TV: Stream TV & Movies,4,4,0,unchanged
+US,app_store,religion,top_grossing,com.cbsvideo.app,Paramount+,5,5,0,unchanged
+US,app_store,religion,top_grossing,com.scopely.monopolygo,MONOPOLY GO!,,6,,new
+US,app_store,religion,top_grossing,com.wbd.stream,HBO Max: Stream Movies & TV,,7,,new
+US,app_store,religion,top_grossing,com.nianticlabs.pokemongo,Pokémon GO,,8,,new
+US,app_store,religion,top_grossing,com.toyopagroup.picaboo,Snapchat,,9,,new
+US,app_store,religion,top_grossing,com.lastwar.ios,Last War:Survival,10,10,0,unchanged
+US,google_play,religion,top_grossing,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+US,google_play,religion,top_grossing,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+US,google_play,religion,top_grossing,com.einnovation.temu,Temu: Shop Like a Billionaire,3,3,0,unchanged
+US,google_play,religion,top_grossing,com.tiktok.lite.go,TikTok Lite - Faster TikTok,4,4,0,unchanged
+US,google_play,religion,top_grossing,com.zhiliaoapp.musically,"TikTok - Videos, Shop & LIVE",,5,,new
+US,google_play,religion,top_grossing,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+US,google_play,religion,top_grossing,com.microsoft.copilot,​​Microsoft Copilot,7,7,0,unchanged
+US,google_play,religion,top_grossing,com.instagram.android,Instagram,8,8,0,unchanged
+US,google_play,religion,top_grossing,com.zzkko,SHEIN-Shopping Online,9,9,0,unchanged
+US,google_play,religion,top_grossing,com.lemon.lvoverseas,CapCut - Video Editor,10,10,0,unchanged
+CA,app_store,tools,top_free,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+CA,app_store,tools,top_free,com.openai.chat,ChatGPT,,2,,new
+CA,app_store,tools,top_free,com.google.gemini,Google Gemini,3,3,0,unchanged
+CA,app_store,tools,top_free,com.burbn.barcelona,Threads,,4,,new
+CA,app_store,tools,top_free,com.microsoft.azureauthenticator,Microsoft Authenticator,5,5,0,unchanged
+CA,app_store,tools,top_free,com.microsoft.skype.teams,Microsoft Teams,6,6,0,unchanged
+CA,app_store,tools,top_free,com.rbi.TimHortons,Tim Hortons,7,7,0,unchanged
+CA,app_store,tools,top_free,ai.x.GrokApp,Grok,8,8,0,unchanged
+CA,app_store,tools,top_free,com.google.GoogleMobile,Google,9,9,0,unchanged
+CA,app_store,tools,top_free,com.wealthsimple.trade,Wealthsimple,10,10,0,unchanged
+CA,google_play,tools,top_free,com.google.android.apps.authenticator2,Google Authenticator,1,1,0,unchanged
+CA,google_play,tools,top_free,com.open.web.ai.browser,Open Browser - Smart & Safe,2,2,0,unchanged
+CA,google_play,tools,top_free,com.document.reader.cairety,Document Reader-PDF Launcher,3,3,0,unchanged
+CA,google_play,tools,top_free,com.gamma.scan,QR & Barcode Scanner,4,4,0,unchanged
+CA,google_play,tools,top_free,com.sweep.posie.annel,ViruSweep - Antivirus & Clean,5,5,0,unchanged
+CA,google_play,tools,top_free,ch.protonvpn.android,Proton VPN: Fast & Secure VPN,6,6,0,unchanged
+CA,google_play,tools,top_free,com.clean.forandroid.vidawe,Cleaner Launcher for Android,7,7,0,unchanged
+CA,google_play,tools,top_free,com.apple.movetoios,Move to iOS,8,8,0,unchanged
+CA,google_play,tools,top_free,com.nordvpn.android,NordVPN – fast VPN for privacy,9,9,0,unchanged
+CA,google_play,tools,top_free,pdf.reader.editor.office,PDF Reader - Editor & Viewer,10,10,0,unchanged
+CA,app_store,tools,top_paid,com.robtop.geometryjump,Geometry Dash,1,1,0,unchanged
+CA,app_store,tools,top_paid,com.mojang.minecraftpe,"Minecraft: Dream it, Build it!",,2,,new
+CA,app_store,tools,top_paid,com.chucklefish.stardewvalley,Stardew Valley,3,3,0,unchanged
+CA,app_store,tools,top_paid,com.ndemiccreations.plagueinc,Plague Inc.,4,4,0,unchanged
+CA,app_store,tools,top_paid,com.playstack.balatropremium,Balatro,5,5,0,unchanged
+CA,app_store,tools,top_paid,com.wb.Ellen.HeadsUp,Heads Up!,6,6,0,unchanged
+CA,app_store,tools,top_paid,com.liguangming.Shadowrocket,Shadowrocket,7,7,0,unchanged
+CA,app_store,tools,top_paid,net.ichi2.anki,AnkiMobile Flashcards,8,8,0,unchanged
+CA,app_store,tools,top_paid,com.sofarsogood.incredibox,Incredibox,9,9,0,unchanged
+CA,app_store,tools,top_paid,com.rovio.abclassic22,Red's First Flight,10,10,0,unchanged
+CA,google_play,tools,top_paid,com.fulldive.extension.fullroid.pro,Pro Emulator for Game Consoles,1,1,0,unchanged
+CA,google_play,tools,top_paid,net.dinglisch.android.taskerm,Tasker,2,2,0,unchanged
+CA,google_play,tools,top_paid,com.wakdev.nfctools.pro,NFC Tools - Pro Edition,3,3,0,unchanged
+CA,google_play,tools,top_paid,psplay.grill.com,PXPlay: Remote Play,4,4,0,unchanged
+CA,google_play,tools,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,5,5,0,unchanged
+CA,google_play,tools,top_paid,de.twokit.screen.mirroring.app.pro,Screen Mirroring Pro App,6,6,0,unchanged
+CA,google_play,tools,top_paid,com.samruston.buzzkill,BuzzKill Notification Manager,7,7,0,unchanged
+CA,google_play,tools,top_paid,com.Rocanda.LandTrackerPro,LandTracker Pro LSD Finder,8,8,0,unchanged
+CA,google_play,tools,top_paid,dev.vodik7.tvquickactions,tvQuickActions Pro,9,9,0,unchanged
+CA,google_play,tools,top_paid,bruenor.magicbox,Magic DosBox,10,10,0,unchanged
+CA,app_store,tools,top_grossing,com.openai.chat,ChatGPT,,1,,new
+CA,app_store,tools,top_grossing,com.google.ios.youtube,YouTube,2,2,0,unchanged
+CA,app_store,tools,top_grossing,com.zhiliaoapp.musically,TikTok,3,3,0,unchanged
+CA,app_store,tools,top_grossing,com.toyopagroup.picaboo,Snapchat,,4,,new
+CA,app_store,tools,top_grossing,com.cardify.tinder,Tinder Dating App: Date & Chat,5,5,0,unchanged
+CA,app_store,tools,top_grossing,ca.bellmedia.cravetv,Crave,6,6,0,unchanged
+CA,app_store,tools,top_grossing,com.linkedin.LinkedIn,LinkedIn: Job Search & News,7,7,0,unchanged
+CA,app_store,tools,top_grossing,com.disney.disneyplus,Disney+,8,8,0,unchanged
+CA,app_store,tools,top_grossing,com.nianticlabs.pokemongo,Pokémon GO,,9,,new
+CA,app_store,tools,top_grossing,com.duolingo.DuolingoMobile,Duolingo - Languages & Chess,10,10,0,unchanged
+CA,google_play,tools,top_grossing,com.google.android.apps.authenticator2,Google Authenticator,1,1,0,unchanged
+CA,google_play,tools,top_grossing,com.open.web.ai.browser,Open Browser - Smart & Safe,2,2,0,unchanged
+CA,google_play,tools,top_grossing,com.document.reader.cairety,Document Reader-PDF Launcher,3,3,0,unchanged
+CA,google_play,tools,top_grossing,com.gamma.scan,QR & Barcode Scanner,4,4,0,unchanged
+CA,google_play,tools,top_grossing,com.sweep.posie.annel,ViruSweep - Antivirus & Clean,5,5,0,unchanged
+CA,google_play,tools,top_grossing,ch.protonvpn.android,Proton VPN: Fast & Secure VPN,6,6,0,unchanged
+CA,google_play,tools,top_grossing,com.clean.forandroid.vidawe,Cleaner Launcher for Android,7,7,0,unchanged
+CA,google_play,tools,top_grossing,com.apple.movetoios,Move to iOS,8,8,0,unchanged
+CA,google_play,tools,top_grossing,com.nordvpn.android,NordVPN – fast VPN for privacy,9,9,0,unchanged
+CA,google_play,tools,top_grossing,pdf.reader.editor.office,PDF Reader - Editor & Viewer,10,10,0,unchanged
+CA,app_store,books,top_free,com.audible.iphone,Audible: Audiobooks & Podcasts,,1,,new
+CA,app_store,books,top_free,com.overdrive.dewey,"Libby, the library app",,2,,new
+CA,app_store,books,top_free,com.amazon.Lassen,Kindle,3,3,0,unchanged
+CA,app_store,books,top_free,com.goodreads.Goodreads,Goodreads: Book Tracker & More,4,4,0,unchanged
+CA,app_store,books,top_free,co.fable.Fable,Fable: Track & Discuss Books,5,5,0,unchanged
+CA,app_store,books,top_free,com.gnovel.originalstation,"GoodNovel - Booktok, Stories",,6,,new
+CA,app_store,books,top_free,com.hoopladigital.hoopla,Hoopla Digital,,7,,new
+CA,app_store,books,top_free,com.fivemobile.wattpad,Wattpad - Read & Write Stories,8,8,0,unchanged
+CA,app_store,books,top_free,com.iqraapp.Iqra,Tarteel: AI Quran Memorization,9,9,0,unchanged
+CA,app_store,books,top_free,com.shortcovers.shortcovers,Kobo Books & Audiobooks,10,10,0,unchanged
+CA,google_play,books,top_free,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+CA,google_play,books,top_free,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+CA,google_play,books,top_free,com.einnovation.temu,Temu: Shop Like a Billionaire,3,3,0,unchanged
+CA,google_play,books,top_free,com.zhiliaoapp.musically,TikTok,4,4,0,unchanged
+CA,google_play,books,top_free,digital.rbi.timhortons,Tim Hortons,5,5,0,unchanged
+CA,google_play,books,top_free,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+CA,google_play,books,top_free,com.microsoft.office.word,Microsoft Word: Edit Documents,7,7,0,unchanged
+CA,google_play,books,top_free,com.lemon.lvoverseas,CapCut: Photo & Video Editor,8,8,0,unchanged
+CA,google_play,books,top_free,com.azure.authenticator,Microsoft Authenticator,9,9,0,unchanged
+CA,google_play,books,top_free,com.microsoft.teams,Microsoft Teams,10,10,0,unchanged
+CA,app_store,books,top_paid,com.maplepop.bmsea,MapleRead SE,1,1,0,unchanged
+CA,app_store,books,top_paid,com.palreader.biblerussianaudiorus,Библия (текст и аудио)(audio)(Russian Bible),2,2,0,unchanged
+CA,app_store,books,top_paid,tw.org.twgbr.iHymn,電子詩歌,3,3,0,unchanged
+CA,app_store,books,top_paid,com.timbueno.boundapp,Bound - Audiobook Player,,4,,new
+CA,app_store,books,top_paid,com.mirrorword.mirrorbible,Mirror Study Bible,5,5,0,unchanged
+CA,app_store,books,top_paid,com.MotoJitsu.Books,MotoJitsu,6,6,0,unchanged
+CA,app_store,books,top_paid,com.artscroll.SAEEI,ArtScroll Smart Siddur סדור,7,7,0,unchanged
+CA,app_store,books,top_paid,fr.islamobile.assirah,As-Sira : Prophète Mohamed,8,8,0,unchanged
+CA,app_store,books,top_paid,com.liuhdevelop.diary,轻日记-记事本.备忘录.便签.待办,9,9,0,unchanged
+CA,app_store,books,top_paid,com.decaladan.focal,Focal reading,10,10,0,unchanged
+CA,google_play,books,top_paid,com.fulldive.extension.fullroid.pro,Pro Emulator for Game Consoles,1,1,0,unchanged
+CA,google_play,books,top_paid,com.monashuniversity.fodmap,Monash University FODMAP diet,2,2,0,unchanged
+CA,google_play,books,top_paid,com.appslab.glass.widgets,Glass Widgets,3,3,0,unchanged
+CA,google_play,books,top_paid,com.facer.pipboy_se,Fallout Pip-Boy SE Watch Face,4,4,0,unchanged
+CA,google_play,books,top_paid,org.prowl.torque,Torque Pro (OBD 2 & Car),5,5,0,unchanged
+CA,google_play,books,top_paid,net.dinglisch.android.taskerm,Tasker,6,6,0,unchanged
+CA,google_play,books,top_paid,ch.threema.app,Threema. The Secure Messenger,7,7,0,unchanged
+CA,google_play,books,top_paid,com.mvas.stb.emu.pro,StbEmu (Pro),8,8,0,unchanged
+CA,google_play,books,top_paid,com.elf.koalasampler,Koala Sampler,9,9,0,unchanged
+CA,google_play,books,top_paid,com.watchfacestudio.md307digital,MD307 Digital watch face,10,10,0,unchanged
+CA,app_store,books,top_grossing,com.audible.iphone,Audible: Audiobooks & Podcasts,,1,,new
+CA,app_store,books,top_grossing,com.gnovel.originalstation,"GoodNovel - Booktok, Stories",,2,,new
+CA,app_store,books,top_grossing,org.reactjs.native.Inkitt.App.Colt,GALATEA: Novels & Audiobooks,3,3,0,unchanged
+CA,app_store,books,top_grossing,com.dreame.reader,Dreame - Read Best Romance,4,4,0,unchanged
+CA,app_store,books,top_grossing,com.scribd.iscribd,Everand: Audiobooks & Ebooks,5,5,0,unchanged
+CA,app_store,books,top_grossing,write.read.story.webnovel.book.anystories,AnyStories-Top Novels & Books,6,6,0,unchanged
+CA,app_store,books,top_grossing,com.viz.wsj,Shonen Jump Manga & Comics,,7,,new
+CA,app_store,books,top_grossing,com.qvon.novelbar,NovelBar,8,8,0,unchanged
+CA,app_store,books,top_grossing,com.qvon.novellair,Novellair,9,9,0,unchanged
+CA,app_store,books,top_grossing,com.kw.literie,Literie,10,10,0,unchanged
+CA,google_play,books,top_grossing,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+CA,google_play,books,top_grossing,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+CA,google_play,books,top_grossing,com.einnovation.temu,Temu: Shop Like a Billionaire,3,3,0,unchanged
+CA,google_play,books,top_grossing,com.zhiliaoapp.musically,TikTok,4,4,0,unchanged
+CA,google_play,books,top_grossing,digital.rbi.timhortons,Tim Hortons,5,5,0,unchanged
+CA,google_play,books,top_grossing,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+CA,google_play,books,top_grossing,com.microsoft.office.word,Microsoft Word: Edit Documents,7,7,0,unchanged
+CA,google_play,books,top_grossing,com.lemon.lvoverseas,CapCut: Photo & Video Editor,8,8,0,unchanged
+CA,google_play,books,top_grossing,com.azure.authenticator,Microsoft Authenticator,9,9,0,unchanged
+CA,google_play,books,top_grossing,com.microsoft.teams,Microsoft Teams,10,10,0,unchanged
+CA,app_store,religion,top_free,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+CA,app_store,religion,top_free,com.openai.chat,ChatGPT,,2,,new
+CA,app_store,religion,top_free,com.google.gemini,Google Gemini,3,3,0,unchanged
+CA,app_store,religion,top_free,com.burbn.barcelona,Threads,,4,,new
+CA,app_store,religion,top_free,com.microsoft.azureauthenticator,Microsoft Authenticator,5,5,0,unchanged
+CA,app_store,religion,top_free,com.microsoft.skype.teams,Microsoft Teams,6,6,0,unchanged
+CA,app_store,religion,top_free,com.rbi.TimHortons,Tim Hortons,7,7,0,unchanged
+CA,app_store,religion,top_free,ai.x.GrokApp,Grok,8,8,0,unchanged
+CA,app_store,religion,top_free,com.google.GoogleMobile,Google,9,9,0,unchanged
+CA,app_store,religion,top_free,com.wealthsimple.trade,Wealthsimple,10,10,0,unchanged
+CA,google_play,religion,top_free,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+CA,google_play,religion,top_free,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+CA,google_play,religion,top_free,com.einnovation.temu,Temu: Shop Like a Billionaire,3,3,0,unchanged
+CA,google_play,religion,top_free,com.zhiliaoapp.musically,TikTok,4,4,0,unchanged
+CA,google_play,religion,top_free,digital.rbi.timhortons,Tim Hortons,5,5,0,unchanged
+CA,google_play,religion,top_free,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+CA,google_play,religion,top_free,com.microsoft.office.word,Microsoft Word: Edit Documents,7,7,0,unchanged
+CA,google_play,religion,top_free,com.lemon.lvoverseas,CapCut: Photo & Video Editor,8,8,0,unchanged
+CA,google_play,religion,top_free,com.azure.authenticator,Microsoft Authenticator,9,9,0,unchanged
+CA,google_play,religion,top_free,com.microsoft.teams,Microsoft Teams,10,10,0,unchanged
+CA,app_store,religion,top_paid,com.robtop.geometryjump,Geometry Dash,1,1,0,unchanged
+CA,app_store,religion,top_paid,com.mojang.minecraftpe,"Minecraft: Dream it, Build it!",,2,,new
+CA,app_store,religion,top_paid,com.chucklefish.stardewvalley,Stardew Valley,3,3,0,unchanged
+CA,app_store,religion,top_paid,com.ndemiccreations.plagueinc,Plague Inc.,4,4,0,unchanged
+CA,app_store,religion,top_paid,com.playstack.balatropremium,Balatro,5,5,0,unchanged
+CA,app_store,religion,top_paid,com.wb.Ellen.HeadsUp,Heads Up!,6,6,0,unchanged
+CA,app_store,religion,top_paid,com.liguangming.Shadowrocket,Shadowrocket,7,7,0,unchanged
+CA,app_store,religion,top_paid,net.ichi2.anki,AnkiMobile Flashcards,8,8,0,unchanged
+CA,app_store,religion,top_paid,com.sofarsogood.incredibox,Incredibox,9,9,0,unchanged
+CA,app_store,religion,top_paid,com.rovio.abclassic22,Red's First Flight,10,10,0,unchanged
+CA,google_play,religion,top_paid,com.fulldive.extension.fullroid.pro,Pro Emulator for Game Consoles,1,1,0,unchanged
+CA,google_play,religion,top_paid,com.monashuniversity.fodmap,Monash University FODMAP diet,2,2,0,unchanged
+CA,google_play,religion,top_paid,com.appslab.glass.widgets,Glass Widgets,3,3,0,unchanged
+CA,google_play,religion,top_paid,com.facer.pipboy_se,Fallout Pip-Boy SE Watch Face,4,4,0,unchanged
+CA,google_play,religion,top_paid,org.prowl.torque,Torque Pro (OBD 2 & Car),5,5,0,unchanged
+CA,google_play,religion,top_paid,net.dinglisch.android.taskerm,Tasker,6,6,0,unchanged
+CA,google_play,religion,top_paid,ch.threema.app,Threema. The Secure Messenger,7,7,0,unchanged
+CA,google_play,religion,top_paid,com.mvas.stb.emu.pro,StbEmu (Pro),8,8,0,unchanged
+CA,google_play,religion,top_paid,com.elf.koalasampler,Koala Sampler,9,9,0,unchanged
+CA,google_play,religion,top_paid,com.watchfacestudio.md307digital,MD307 Digital watch face,10,10,0,unchanged
+CA,app_store,religion,top_grossing,com.openai.chat,ChatGPT,,1,,new
+CA,app_store,religion,top_grossing,com.google.ios.youtube,YouTube,2,2,0,unchanged
+CA,app_store,religion,top_grossing,com.zhiliaoapp.musically,TikTok,3,3,0,unchanged
+CA,app_store,religion,top_grossing,com.toyopagroup.picaboo,Snapchat,,4,,new
+CA,app_store,religion,top_grossing,com.cardify.tinder,Tinder Dating App: Date & Chat,5,5,0,unchanged
+CA,app_store,religion,top_grossing,ca.bellmedia.cravetv,Crave,6,6,0,unchanged
+CA,app_store,religion,top_grossing,com.linkedin.LinkedIn,LinkedIn: Job Search & News,7,7,0,unchanged
+CA,app_store,religion,top_grossing,com.disney.disneyplus,Disney+,8,8,0,unchanged
+CA,app_store,religion,top_grossing,com.nianticlabs.pokemongo,Pokémon GO,,9,,new
+CA,app_store,religion,top_grossing,com.duolingo.DuolingoMobile,Duolingo - Languages & Chess,10,10,0,unchanged
+CA,google_play,religion,top_grossing,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+CA,google_play,religion,top_grossing,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+CA,google_play,religion,top_grossing,com.einnovation.temu,Temu: Shop Like a Billionaire,3,3,0,unchanged
+CA,google_play,religion,top_grossing,com.zhiliaoapp.musically,TikTok,4,4,0,unchanged
+CA,google_play,religion,top_grossing,digital.rbi.timhortons,Tim Hortons,5,5,0,unchanged
+CA,google_play,religion,top_grossing,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+CA,google_play,religion,top_grossing,com.microsoft.office.word,Microsoft Word: Edit Documents,7,7,0,unchanged
+CA,google_play,religion,top_grossing,com.lemon.lvoverseas,CapCut: Photo & Video Editor,8,8,0,unchanged
+CA,google_play,religion,top_grossing,com.azure.authenticator,Microsoft Authenticator,9,9,0,unchanged
+CA,google_play,religion,top_grossing,com.microsoft.teams,Microsoft Teams,10,10,0,unchanged
+AU,app_store,tools,top_free,au.com.redcat.eljannah,El Jannah,1,1,0,unchanged
+AU,app_store,tools,top_free,com.anthropic.claude,Claude by Anthropic,2,2,0,unchanged
+AU,app_store,tools,top_free,com.footytips.footytips,footytips - Footy Tipping App,3,3,0,unchanged
+AU,app_store,tools,top_free,com.openai.chat,ChatGPT,,4,,new
+AU,app_store,tools,top_free,com.pineconesoft.petrolspy,Petrol Spy Australia,5,5,0,unchanged
+AU,app_store,tools,top_free,com.lemon.lvoverseas,CapCut: Photo & Video Editor,6,6,0,unchanged
+AU,app_store,tools,top_free,com.humanservices.myGov,myGov,7,7,0,unchanged
+AU,app_store,tools,top_free,com.google.gemini,Google Gemini,8,8,0,unchanged
+AU,app_store,tools,top_free,au.com.ing.oneapp.banking,Do your thing - ING Banking,9,9,0,unchanged
+AU,app_store,tools,top_free,au.com.afl.tipping,Official AFL Tipping,10,10,0,unchanged
+AU,google_play,tools,top_free,skyview.star.map.stargazing,Star Gazer - Night Sky View,1,1,0,unchanged
+AU,google_play,tools,top_free,com.google.android.apps.authenticator2,Google Authenticator,2,2,0,unchanged
+AU,google_play,tools,top_free,com.document.reader.cairety,Document Reader-PDF Launcher,3,3,0,unchanged
+AU,google_play,tools,top_free,com.open.web.ai.browser,Open Browser - Smart & Safe,4,4,0,unchanged
+AU,google_play,tools,top_free,com.clean.forandroid.vidawe,Cleaner Launcher for Android,5,5,0,unchanged
+AU,google_play,tools,top_free,pdf.reader.editor.office,PDF Reader - Editor & Viewer,6,6,0,unchanged
+AU,google_play,tools,top_free,com.telstra.mobile.android.mytelstra,My Telstra,7,7,0,unchanged
+AU,google_play,tools,top_free,au.com.optus.selfservice,My Optus,8,8,0,unchanged
+AU,google_play,tools,top_free,au.gov.vic.myvicroads,myVicRoads,9,9,0,unchanged
+AU,google_play,tools,top_free,com.gamma.scan,QR & Barcode Scanner,10,10,0,unchanged
+AU,app_store,tools,top_paid,au.com.angryrobot.wikicamps,WikiCamps Australia,1,1,0,unchanged
+AU,app_store,tools,top_paid,com.robtop.geometryjump,Geometry Dash,2,2,0,unchanged
+AU,app_store,tools,top_paid,com.mojang.minecraftpe,"Minecraft: Dream it, Build it!",,3,,new
+AU,app_store,tools,top_paid,ch.threema.iapp,Threema. The Secure Messenger,4,4,0,unchanged
+AU,app_store,tools,top_paid,com.grofsoft.TripView,TripView,5,5,0,unchanged
+AU,app_store,tools,top_paid,net.ichi2.anki,AnkiMobile Flashcards,6,6,0,unchanged
+AU,app_store,tools,top_paid,com.Monash.FODMAP,Monash FODMAP Diet,7,7,0,unchanged
+AU,app_store,tools,top_paid,com.chucklefish.stardewvalley,Stardew Valley,8,8,0,unchanged
+AU,app_store,tools,top_paid,com.ndemiccreations.plagueinc,Plague Inc.,9,9,0,unchanged
+AU,app_store,tools,top_paid,com.ninjakiwi.bloonstd6,Bloons TD 6,10,10,0,unchanged
+AU,google_play,tools,top_paid,net.dinglisch.android.taskerm,Tasker,1,1,0,unchanged
+AU,google_play,tools,top_paid,com.wakdev.nfctools.pro,NFC Tools - Pro Edition,2,2,0,unchanged
+AU,google_play,tools,top_paid,com.fulldive.extension.fullroid.pro,Pro Emulator for Game Consoles,3,3,0,unchanged
+AU,google_play,tools,top_paid,com.samruston.buzzkill,BuzzKill Notification Manager,4,4,0,unchanged
+AU,google_play,tools,top_paid,psplay.grill.com,PXPlay: Remote Play,5,5,0,unchanged
+AU,google_play,tools,top_paid,org.kustom.widget.pro,KWGT Kustom Widget Pro Key,6,6,0,unchanged
+AU,google_play,tools,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,7,7,0,unchanged
+AU,google_play,tools,top_paid,de.twokit.screen.mirroring.app.pro,Screen Mirroring Pro App,8,8,0,unchanged
+AU,google_play,tools,top_paid,idm.internet.download.manager.plus,1DM+: Browser & Video Download,9,9,0,unchanged
+AU,google_play,tools,top_paid,com.wilysis.cellinfo,Network Cell Info & Wifi,,10,,new
+AU,app_store,tools,top_grossing,com.openai.chat,ChatGPT,,1,,new
+AU,app_store,tools,top_grossing,com.google.ios.youtube,YouTube,2,2,0,unchanged
+AU,app_store,tools,top_grossing,com.zhiliaoapp.musically,TikTok,3,3,0,unchanged
+AU,app_store,tools,top_grossing,com.cardify.tinder,Tinder Dating App: Date & Chat,4,4,0,unchanged
+AU,app_store,tools,top_grossing,com.productmadness.lightninglink,Lightning Link Casino Pokies,5,5,0,unchanged
+AU,app_store,tools,top_grossing,com.toyopagroup.picaboo,Snapchat: Chat with friends,,6,,new
+AU,app_store,tools,top_grossing,com.disney.disneyplus,Disney+,7,7,0,unchanged
+AU,app_store,tools,top_grossing,au.com.streamotion.kayo,Kayo Sports,8,8,0,unchanged
+AU,app_store,tools,top_grossing,co.hinge.mobile.ios,Hinge Dating App: Match & Date,,9,,new
+AU,app_store,tools,top_grossing,com.linkedin.LinkedIn,LinkedIn: Network & Job Search,10,10,0,unchanged
+AU,google_play,tools,top_grossing,skyview.star.map.stargazing,Star Gazer - Night Sky View,1,1,0,unchanged
+AU,google_play,tools,top_grossing,com.google.android.apps.authenticator2,Google Authenticator,2,2,0,unchanged
+AU,google_play,tools,top_grossing,com.document.reader.cairety,Document Reader-PDF Launcher,3,3,0,unchanged
+AU,google_play,tools,top_grossing,com.open.web.ai.browser,Open Browser - Smart & Safe,4,4,0,unchanged
+AU,google_play,tools,top_grossing,com.clean.forandroid.vidawe,Cleaner Launcher for Android,5,5,0,unchanged
+AU,google_play,tools,top_grossing,pdf.reader.editor.office,PDF Reader - Editor & Viewer,6,6,0,unchanged
+AU,google_play,tools,top_grossing,com.telstra.mobile.android.mytelstra,My Telstra,7,7,0,unchanged
+AU,google_play,tools,top_grossing,au.com.optus.selfservice,My Optus,8,8,0,unchanged
+AU,google_play,tools,top_grossing,au.gov.vic.myvicroads,myVicRoads,9,9,0,unchanged
+AU,google_play,tools,top_grossing,com.gamma.scan,QR & Barcode Scanner,10,10,0,unchanged
+AU,app_store,books,top_free,com.audible.iphone,Audible: Audiobooks & Podcasts,,1,,new
+AU,app_store,books,top_free,com.Scholastic.Book-Clubs,Book Clubs Loop For Parents,2,2,0,unchanged
+AU,app_store,books,top_free,com.amazon.Lassen,Kindle,3,3,0,unchanged
+AU,app_store,books,top_free,com.overdrive.dewey,"Libby, the library app",,4,,new
+AU,app_store,books,top_free,com.bolindadigital.BorrowBoxLibrary,BorrowBox,5,5,0,unchanged
+AU,app_store,books,top_free,com.goodreads.Goodreads,Goodreads: Book Tracker & More,6,6,0,unchanged
+AU,app_store,books,top_free,com.gnovel.originalstation,"GoodNovel - Booktok, Stories",,7,,new
+AU,app_store,books,top_free,com.zhangyue.read.rosanovela,Novelmates-Best Stories&Novels,8,8,0,unchanged
+AU,app_store,books,top_free,com.fivemobile.wattpad,Wattpad - Read & Write Stories,9,9,0,unchanged
+AU,app_store,books,top_free,com.getchaptrs.app,Chaptrs - Islamic Audiobooks,10,10,0,unchanged
+AU,google_play,books,top_free,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+AU,google_play,books,top_free,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+AU,google_play,books,top_free,au.gov.mygov.mygovapp,myGov,3,3,0,unchanged
+AU,google_play,books,top_free,com.wbd.stream,HBO Max: Stream TV & Movies,,4,,new
+AU,google_play,books,top_free,com.einnovation.temu,Temu: Shop Like a Billionaire,5,5,0,unchanged
+AU,google_play,books,top_free,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+AU,google_play,books,top_free,com.zhiliaoapp.musically,TikTok,7,7,0,unchanged
+AU,google_play,books,top_free,com.alibaba.aliexpresshd,AliExpress - Shopping App,8,8,0,unchanged
+AU,google_play,books,top_free,com.microsoft.office.word,Microsoft Word: Edit Documents,9,9,0,unchanged
+AU,google_play,books,top_free,com.zzkko,SHEIN-Shopping Online,10,10,0,unchanged
+AU,app_store,books,top_paid,com.kehot.siddur.annotated,Siddur – Annotated Edition,1,1,0,unchanged
+AU,app_store,books,top_paid,com.chin-dictionary.app,EngChinMyanmarDictionary,2,2,0,unchanged
+AU,app_store,books,top_paid,biz.bookdesign.librivox.pro,LibriVox Audiobooks – Ad-Free,3,3,0,unchanged
+AU,app_store,books,top_paid,com.equiinkpublications.equine,Equine Anatomy Learning Aid,,4,,new
+AU,app_store,books,top_paid,com.lazyyards.spells,Spells and Witchcraft Handbook,5,5,0,unchanged
+AU,app_store,books,top_paid,com.statusquotes,Funny Status Quotes Collection,6,6,0,unchanged
+AU,app_store,books,top_paid,com.smskidukan,Best Status Quotes Collection,7,7,0,unchanged
+AU,app_store,books,top_paid,com.timbueno.boundapp,Bound - Audiobook Player,,8,,new
+AU,app_store,books,top_paid,com.yourcompany.DialingGod,Dialing God,9,9,0,unchanged
+AU,app_store,books,top_paid,com.kimicoapps.BookBuddy,BookBuddy Pro: Book Tracker,,10,,new
+AU,google_play,books,top_paid,ch.threema.app,Threema. The Secure Messenger,1,1,0,unchanged
+AU,google_play,books,top_paid,com.grofsoft.tripview,TripView,2,2,0,unchanged
+AU,google_play,books,top_paid,com.monashuniversity.fodmap,Monash University FODMAP diet,3,3,0,unchanged
+AU,google_play,books,top_paid,org.prowl.torque,Torque Pro (OBD 2 & Car),4,4,0,unchanged
+AU,google_play,books,top_paid,com.t11.skyview,SkyView® Explore the Universe,5,5,0,unchanged
+AU,google_play,books,top_paid,com.appslab.glass.widgets,Glass Widgets,6,6,0,unchanged
+AU,google_play,books,top_paid,com.imageline.FLM,FL STUDIO MOBILE,7,7,0,unchanged
+AU,google_play,books,top_paid,com.photopills.android.photopills,PhotoPills,,8,,new
+AU,google_play,books,top_paid,net.dinglisch.android.taskerm,Tasker,9,9,0,unchanged
+AU,google_play,books,top_paid,com.watchfacestudio.md307digital,MD307 Digital watch face,10,10,0,unchanged
+AU,app_store,books,top_grossing,com.audible.iphone,Audible: Audiobooks & Podcasts,,1,,new
+AU,app_store,books,top_grossing,com.gnovel.originalstation,"GoodNovel - Booktok, Stories",,2,,new
+AU,app_store,books,top_grossing,com.dreame.reader,Dreame - Read Best Romance,3,3,0,unchanged
+AU,app_store,books,top_grossing,org.reactjs.native.Inkitt.App.Colt,GALATEA: Novels & Audiobooks,4,4,0,unchanged
+AU,app_store,books,top_grossing,com.qvon.novellair,Novellair,5,5,0,unchanged
+AU,app_store,books,top_grossing,write.read.story.webnovel.book.anystories,AnyStories-Top Novels & Books,6,6,0,unchanged
+AU,app_store,books,top_grossing,com.kw.literie,Literie,7,7,0,unchanged
+AU,app_store,books,top_grossing,com.fivemobile.wattpad,Wattpad - Read & Write Stories,8,8,0,unchanged
+AU,app_store,books,top_grossing,com.viz.wsj,Shonen Jump Manga & Comics,,9,,new
+AU,app_store,books,top_grossing,com.qvon.novelbar,NovelBar,10,10,0,unchanged
+AU,google_play,books,top_grossing,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+AU,google_play,books,top_grossing,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+AU,google_play,books,top_grossing,au.gov.mygov.mygovapp,myGov,3,3,0,unchanged
+AU,google_play,books,top_grossing,com.wbd.stream,HBO Max: Stream TV & Movies,,4,,new
+AU,google_play,books,top_grossing,com.einnovation.temu,Temu: Shop Like a Billionaire,5,5,0,unchanged
+AU,google_play,books,top_grossing,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+AU,google_play,books,top_grossing,com.zhiliaoapp.musically,TikTok,7,7,0,unchanged
+AU,google_play,books,top_grossing,com.alibaba.aliexpresshd,AliExpress - Shopping App,8,8,0,unchanged
+AU,google_play,books,top_grossing,com.microsoft.office.word,Microsoft Word: Edit Documents,9,9,0,unchanged
+AU,google_play,books,top_grossing,com.zzkko,SHEIN-Shopping Online,10,10,0,unchanged
+AU,app_store,religion,top_free,au.com.redcat.eljannah,El Jannah,1,1,0,unchanged
+AU,app_store,religion,top_free,com.anthropic.claude,Claude by Anthropic,2,2,0,unchanged
+AU,app_store,religion,top_free,com.footytips.footytips,footytips - Footy Tipping App,3,3,0,unchanged
+AU,app_store,religion,top_free,com.openai.chat,ChatGPT,,4,,new
+AU,app_store,religion,top_free,com.pineconesoft.petrolspy,Petrol Spy Australia,5,5,0,unchanged
+AU,app_store,religion,top_free,com.lemon.lvoverseas,CapCut: Photo & Video Editor,6,6,0,unchanged
+AU,app_store,religion,top_free,com.humanservices.myGov,myGov,7,7,0,unchanged
+AU,app_store,religion,top_free,com.google.gemini,Google Gemini,8,8,0,unchanged
+AU,app_store,religion,top_free,au.com.ing.oneapp.banking,Do your thing - ING Banking,9,9,0,unchanged
+AU,app_store,religion,top_free,au.com.afl.tipping,Official AFL Tipping,10,10,0,unchanged
+AU,google_play,religion,top_free,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+AU,google_play,religion,top_free,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+AU,google_play,religion,top_free,au.gov.mygov.mygovapp,myGov,3,3,0,unchanged
+AU,google_play,religion,top_free,com.wbd.stream,HBO Max: Stream TV & Movies,,4,,new
+AU,google_play,religion,top_free,com.einnovation.temu,Temu: Shop Like a Billionaire,5,5,0,unchanged
+AU,google_play,religion,top_free,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+AU,google_play,religion,top_free,com.zhiliaoapp.musically,TikTok,7,7,0,unchanged
+AU,google_play,religion,top_free,com.alibaba.aliexpresshd,AliExpress - Shopping App,8,8,0,unchanged
+AU,google_play,religion,top_free,com.microsoft.office.word,Microsoft Word: Edit Documents,9,9,0,unchanged
+AU,google_play,religion,top_free,com.zzkko,SHEIN-Shopping Online,10,10,0,unchanged
+AU,app_store,religion,top_paid,au.com.angryrobot.wikicamps,WikiCamps Australia,1,1,0,unchanged
+AU,app_store,religion,top_paid,com.robtop.geometryjump,Geometry Dash,2,2,0,unchanged
+AU,app_store,religion,top_paid,com.mojang.minecraftpe,"Minecraft: Dream it, Build it!",,3,,new
+AU,app_store,religion,top_paid,ch.threema.iapp,Threema. The Secure Messenger,4,4,0,unchanged
+AU,app_store,religion,top_paid,com.grofsoft.TripView,TripView,5,5,0,unchanged
+AU,app_store,religion,top_paid,net.ichi2.anki,AnkiMobile Flashcards,6,6,0,unchanged
+AU,app_store,religion,top_paid,com.Monash.FODMAP,Monash FODMAP Diet,7,7,0,unchanged
+AU,app_store,religion,top_paid,com.chucklefish.stardewvalley,Stardew Valley,8,8,0,unchanged
+AU,app_store,religion,top_paid,com.ndemiccreations.plagueinc,Plague Inc.,9,9,0,unchanged
+AU,app_store,religion,top_paid,com.ninjakiwi.bloonstd6,Bloons TD 6,10,10,0,unchanged
+AU,google_play,religion,top_paid,ch.threema.app,Threema. The Secure Messenger,1,1,0,unchanged
+AU,google_play,religion,top_paid,com.grofsoft.tripview,TripView,2,2,0,unchanged
+AU,google_play,religion,top_paid,com.monashuniversity.fodmap,Monash University FODMAP diet,3,3,0,unchanged
+AU,google_play,religion,top_paid,org.prowl.torque,Torque Pro (OBD 2 & Car),4,4,0,unchanged
+AU,google_play,religion,top_paid,com.t11.skyview,SkyView® Explore the Universe,5,5,0,unchanged
+AU,google_play,religion,top_paid,com.appslab.glass.widgets,Glass Widgets,6,6,0,unchanged
+AU,google_play,religion,top_paid,com.imageline.FLM,FL STUDIO MOBILE,7,7,0,unchanged
+AU,google_play,religion,top_paid,com.photopills.android.photopills,PhotoPills,,8,,new
+AU,google_play,religion,top_paid,net.dinglisch.android.taskerm,Tasker,9,9,0,unchanged
+AU,google_play,religion,top_paid,com.watchfacestudio.md307digital,MD307 Digital watch face,10,10,0,unchanged
+AU,app_store,religion,top_grossing,com.openai.chat,ChatGPT,,1,,new
+AU,app_store,religion,top_grossing,com.google.ios.youtube,YouTube,2,2,0,unchanged
+AU,app_store,religion,top_grossing,com.zhiliaoapp.musically,TikTok,3,3,0,unchanged
+AU,app_store,religion,top_grossing,com.cardify.tinder,Tinder Dating App: Date & Chat,4,4,0,unchanged
+AU,app_store,religion,top_grossing,com.productmadness.lightninglink,Lightning Link Casino Pokies,5,5,0,unchanged
+AU,app_store,religion,top_grossing,com.toyopagroup.picaboo,Snapchat: Chat with friends,,6,,new
+AU,app_store,religion,top_grossing,com.disney.disneyplus,Disney+,7,7,0,unchanged
+AU,app_store,religion,top_grossing,au.com.streamotion.kayo,Kayo Sports,8,8,0,unchanged
+AU,app_store,religion,top_grossing,co.hinge.mobile.ios,Hinge Dating App: Match & Date,,9,,new
+AU,app_store,religion,top_grossing,com.linkedin.LinkedIn,LinkedIn: Network & Job Search,10,10,0,unchanged
+AU,google_play,religion,top_grossing,com.anthropic.claude,Claude by Anthropic,1,1,0,unchanged
+AU,google_play,religion,top_grossing,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+AU,google_play,religion,top_grossing,au.gov.mygov.mygovapp,myGov,3,3,0,unchanged
+AU,google_play,religion,top_grossing,com.wbd.stream,HBO Max: Stream TV & Movies,,4,,new
+AU,google_play,religion,top_grossing,com.einnovation.temu,Temu: Shop Like a Billionaire,5,5,0,unchanged
+AU,google_play,religion,top_grossing,com.whatsapp,WhatsApp Messenger,6,6,0,unchanged
+AU,google_play,religion,top_grossing,com.zhiliaoapp.musically,TikTok,7,7,0,unchanged
+AU,google_play,religion,top_grossing,com.alibaba.aliexpresshd,AliExpress - Shopping App,8,8,0,unchanged
+AU,google_play,religion,top_grossing,com.microsoft.office.word,Microsoft Word: Edit Documents,9,9,0,unchanged
+AU,google_play,religion,top_grossing,com.zzkko,SHEIN-Shopping Online,10,10,0,unchanged
+BR,app_store,tools,top_free,com.openai.chat,ChatGPT,,1,,new
+BR,app_store,tools,top_free,br.gov.meugovbr,gov.br,2,2,0,unchanged
+BR,app_store,tools,top_free,com.google.gemini,Google Gemini,3,3,0,unchanged
+BR,app_store,tools,top_free,br.gov.serpro.cnhe,CNH do Brasil,4,4,0,unchanged
+BR,app_store,tools,top_free,com.3mosquitos.MercadoLibre,Mercado Livre: Compras Online,5,5,0,unchanged
+BR,app_store,tools,top_free,br.gov.mds.meusocial,Meu Social - Gás do Povo,6,6,0,unchanged
+BR,app_store,tools,top_free,com.mercadopago.MercadoPago,Mercado Pago: banco digital,7,7,0,unchanged
+BR,app_store,tools,top_free,br.gov.dataprev.ectps,Carteira de Trabalho Digital,8,8,0,unchanged
+BR,app_store,tools,top_free,com.beeasy.shopee.br,Shopee: 15.3 Dia do Consumidor,9,9,0,unchanged
+BR,app_store,tools,top_free,com.amazon.Amazon,Amazon Shopping,10,10,0,unchanged
+BR,google_play,tools,top_free,br.gov.mds.meusocial,Meu Social - Gás do Povo,1,1,0,unchanged
+BR,google_play,tools,top_free,br.gov.meugovbr,gov.br,2,2,0,unchanged
+BR,google_play,tools,top_free,br.gov.dataprev.carteiradigital,Carteira de Trabalho Digital,3,3,0,unchanged
+BR,google_play,tools,top_free,br.gov.serpro.cnhe,CNH do Brasil,4,4,0,unchanged
+BR,google_play,tools,top_free,com.enzo.paulo,Seekee - Ai Search & Assistant,5,5,0,unchanged
+BR,google_play,tools,top_free,com.skipads.oitube.official,OiTube,6,6,0,unchanged
+BR,google_play,tools,top_free,br.com.vivo,Vivo - Telefónica,7,7,0,unchanged
+BR,google_play,tools,top_free,com.nvt.cs,Minha Claro,8,8,0,unchanged
+BR,google_play,tools,top_free,com.videosaver.downloadvideo.mp4.app,"Video Player: Stream, Save MP4",,9,,new
+BR,google_play,tools,top_free,recorder.screenrecorder.videoeditor,Screen Recorder Video Recorder,10,10,0,unchanged
+BR,app_store,tools,top_paid,com.mojang.minecraftpe,Minecraft: Jogo de Construção,1,1,0,unchanged
+BR,app_store,tools,top_paid,com.ndemiccreations.plagueinc,Plague Inc.,2,2,0,unchanged
+BR,app_store,tools,top_paid,com.omolgamestudio.TheElevator,Só tem você aqui,3,3,0,unchanged
+BR,app_store,tools,top_paid,me.pou.app,Pou,4,4,0,unchanged
+BR,app_store,tools,top_paid,net.ichi2.anki,AnkiMobile Flashcards,5,5,0,unchanged
+BR,app_store,tools,top_paid,com.chucklefish.stardewvalley,Stardew Valley,6,6,0,unchanged
+BR,app_store,tools,top_paid,com.dedealbano.padlab,PadLab - Live Pads,7,7,0,unchanged
+BR,app_store,tools,top_paid,com.gamefirst.religioninc,Religion inc. Deus Simulador,8,8,0,unchanged
+BR,app_store,tools,top_paid,iliturgia,iLiturgia,9,9,0,unchanged
+BR,app_store,tools,top_paid,com.505games.terraria,Terraria,,10,,new
+BR,google_play,tools,top_paid,com.h4xhdv.ffh4xraistarmacrofire,Sensi FF Macro - Game Booster,1,1,0,unchanged
+BR,google_play,tools,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,2,2,0,unchanged
+BR,google_play,tools,top_paid,com.booster.gfxpro,Game Booster VIP Lag Fix & GFX,3,3,0,unchanged
+BR,google_play,tools,top_paid,com.panda.mouse,Panda Mouse Pro,4,4,0,unchanged
+BR,google_play,tools,top_paid,genz.white444.onetap.fire.macro.gfx.sensitivity,White444 Onetap Fire Macro GFX,5,5,0,unchanged
+BR,google_play,tools,top_paid,com.corridaboa,Corrida Boa - Lucro por km,6,6,0,unchanged
+BR,google_play,tools,top_paid,inc.trilokia.pubgfxtool,PGT+ : Pro GFX & Optimizer,7,7,0,unchanged
+BR,google_play,tools,top_paid,com.div0.stardeweditor,Stardew Valley Save Editor,8,8,0,unchanged
+BR,google_play,tools,top_paid,com.wakdev.nfctools.pro,NFC Tools - Pro Edition,9,9,0,unchanged
+BR,google_play,tools,top_paid,com.hypersen.app,HyperSen,10,10,0,unchanged
+BR,app_store,tools,top_grossing,com.openai.chat,ChatGPT,,1,,new
+BR,app_store,tools,top_grossing,com.google.ios.youtube,YouTube,2,2,0,unchanged
+BR,app_store,tools,top_grossing,com.lemon.lvoverseas,CapCut - Editor de vídeo,3,3,0,unchanged
+BR,app_store,tools,top_grossing,com.canva.canvaeditor,Canva: editor de fotos e vídeo,4,4,0,unchanged
+BR,app_store,tools,top_grossing,com.globo.hydra,"Globoplay: BBB, Brasileirão +",,5,,new
+BR,app_store,tools,top_grossing,com.google.Gmail,Gmail: o e-mail do Google,6,6,0,unchanged
+BR,app_store,tools,top_grossing,com.google.photos,Google Fotos,7,7,0,unchanged
+BR,app_store,tools,top_grossing,com.wbd.stream,HBO Max: programas e filmes,,8,,new
+BR,app_store,tools,top_grossing,com.amazon.aiv.AIVApp,Amazon Prime Video,9,9,0,unchanged
+BR,app_store,tools,top_grossing,com.duolingo.DuolingoMobile,Duolingo – Aprenda idiomas,10,10,0,unchanged
+BR,google_play,tools,top_grossing,br.gov.mds.meusocial,Meu Social - Gás do Povo,1,1,0,unchanged
+BR,google_play,tools,top_grossing,br.gov.meugovbr,gov.br,2,2,0,unchanged
+BR,google_play,tools,top_grossing,br.gov.dataprev.carteiradigital,Carteira de Trabalho Digital,3,3,0,unchanged
+BR,google_play,tools,top_grossing,br.gov.serpro.cnhe,CNH do Brasil,4,4,0,unchanged
+BR,google_play,tools,top_grossing,com.enzo.paulo,Seekee - Ai Search & Assistant,5,5,0,unchanged
+BR,google_play,tools,top_grossing,com.skipads.oitube.official,OiTube,6,6,0,unchanged
+BR,google_play,tools,top_grossing,br.com.vivo,Vivo - Telefónica,7,7,0,unchanged
+BR,google_play,tools,top_grossing,com.nvt.cs,Minha Claro,8,8,0,unchanged
+BR,google_play,tools,top_grossing,com.videosaver.downloadvideo.mp4.app,"Video Player: Stream, Save MP4",,9,,new
+BR,google_play,tools,top_grossing,recorder.screenrecorder.videoeditor,Screen Recorder Video Recorder,10,10,0,unchanged
+BR,app_store,books,top_free,com.amazon.Lassen,Kindle,1,1,0,unchanged
+BR,app_store,books,top_free,com.fivemobile.wattpad,Wattpad,2,2,0,unchanged
+BR,app_store,books,top_free,com.audible.iphone,Audible: Ouça Audiolivros,,3,,new
+BR,app_store,books,top_free,br.com.gold360.skeelo,Skeelo: Audiobooks & Ebooks,,4,,new
+BR,app_store,books,top_free,com.masterapps.bibliasagradaalmeida,Biblia Sagrada Almeida Offline,5,5,0,unchanged
+BR,app_store,books,top_free,br.com.skoob.Skoob,Skoob - Organize suas leituras,,6,,new
+BR,app_store,books,top_free,com.Mobidic.Biblia,Bíblia Sagrada Mobidic,7,7,0,unchanged
+BR,app_store,books,top_free,multi.book.Womens-Bible,Bíblia da Mulher em Português,8,8,0,unchanged
+BR,app_store,books,top_free,portugal.book.avemari.Biblia,Bíblia Ave Maria de Estudo,9,9,0,unchanged
+BR,app_store,books,top_free,com.read.buenovela,BueNovela - Ler bons romances,10,10,0,unchanged
+BR,google_play,books,top_free,br.gov.mds.meusocial,Meu Social - Gás do Povo,1,1,0,unchanged
+BR,google_play,books,top_free,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+BR,google_play,books,top_free,com.larus.wolf,Dola: Smart AI Assistant,3,3,0,unchanged
+BR,google_play,books,top_free,br.gov.meugovbr,gov.br,4,4,0,unchanged
+BR,google_play,books,top_free,com.zhiliaoapp.musically.go,TikTok Lite - Vídeo&Free Drama,5,5,0,unchanged
+BR,google_play,books,top_free,com.freereels.app,FreeReels - Dramas & Reels,6,6,0,unchanged
+BR,google_play,books,top_free,com.newleaf.app.android.victor,ReelShort - Stream Drama & TV,7,7,0,unchanged
+BR,google_play,books,top_free,com.shopee.br,Shopee: 15.3 Dia do Consumidor,8,8,0,unchanged
+BR,google_play,books,top_free,com.nu.production,Nu,9,9,0,unchanged
+BR,google_play,books,top_free,com.taxis99,"99: Rides, Food, Pay",,10,,new
+BR,app_store,books,top_paid,br.com.gm.HarpaCristaPro,Harpa Cristã +,1,1,0,unchanged
+BR,app_store,books,top_paid,dfos.leitura.biblica,Controle de Leitura da Bíblia,2,2,0,unchanged
+BR,app_store,books,top_paid,com.PG.biblia-de-jerusalem-portoghese,Biblia de Jerusalem Portoghese,3,3,0,unchanged
+BR,app_store,books,top_paid,OCeueoInferno,O Céu e o Inferno,4,4,0,unchanged
+BR,app_store,books,top_paid,com.kimicoapps.BookBuddy,BookBuddy Pro: Lista de Livros,,5,,new
+BR,app_store,books,top_paid,rcr.liturgiahorarum.premium,Liturgia Horarum Premium,6,6,0,unchanged
+BR,app_store,books,top_paid,Lionardos-Workshop.Lios-Calibre-Viewer,Lios Calibre Viewer,7,7,0,unchanged
+BR,app_store,books,top_paid,com.edsonteco.PocketBiblia.01,Pocket Biblia - Bíblia Católica,8,8,0,unchanged
+BR,app_store,books,top_paid,com.foxandsheep.nightynight3,Boa Noitinha Floresta,9,9,0,unchanged
+BR,app_store,books,top_paid,com.electriceggplant.beconfident,Be Confident in Who You Are,10,10,0,unchanged
+BR,google_play,books,top_paid,com.h4xhdv.ffh4xraistarmacrofire,Sensi FF Macro - Game Booster,1,1,0,unchanged
+BR,google_play,books,top_paid,org.prowl.torque,Torque Pro (OBD 2 & Car),2,2,0,unchanged
+BR,google_play,books,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,3,3,0,unchanged
+BR,google_play,books,top_paid,com.booster.gfxpro,Game Booster VIP Lag Fix & GFX,4,4,0,unchanged
+BR,google_play,books,top_paid,com.iliturgia,iLiturgia,5,5,0,unchanged
+BR,google_play,books,top_paid,com.panda.mouse,Panda Mouse Pro,6,6,0,unchanged
+BR,google_play,books,top_paid,com.imageline.FLM,FL STUDIO MOBILE,7,7,0,unchanged
+BR,google_play,books,top_paid,com.appslab.glass.widgets,Glass Widgets,8,8,0,unchanged
+BR,google_play,books,top_paid,com.extreamsd.aemobile,Audio Evolution Mobile Studio,9,9,0,unchanged
+BR,google_play,books,top_paid,com.appsgenz.launcherios.pro,Launcher OS™ Pro,10,10,0,unchanged
+BR,app_store,books,top_grossing,com.read.buenovela,BueNovela - Ler bons romances,1,1,0,unchanged
+BR,app_store,books,top_grossing,com.changduhk.readerpt,Lera: Livros Story & Audiobook,2,2,0,unchanged
+BR,app_store,books,top_grossing,com.gnovel.originalstation,GoodNovel - Ler bons romances,3,3,0,unchanged
+BR,app_store,books,top_grossing,com.dreame.reader,Dreame - Read Best Romance,4,4,0,unchanged
+BR,app_store,books,top_grossing,com.novelago.ios.app,NovelaGo - Romances e Livros,5,5,0,unchanged
+BR,app_store,books,top_grossing,org.reactjs.native.Inkitt.App.Colt,GALATEA: Livros imersivos,6,6,0,unchanged
+BR,app_store,books,top_grossing,com.audible.iphone,Audible: Ouça Audiolivros,,7,,new
+BR,app_store,books,top_grossing,com.fivemobile.wattpad,Wattpad,8,8,0,unchanged
+BR,app_store,books,top_grossing,com.webnovel.reader,WebNovel - Stories & Mangas,9,9,0,unchanged
+BR,app_store,books,top_grossing,com.changduhk.minireaderen,ReadNow: Romances e Contos,10,10,0,unchanged
+BR,google_play,books,top_grossing,br.gov.mds.meusocial,Meu Social - Gás do Povo,1,1,0,unchanged
+BR,google_play,books,top_grossing,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+BR,google_play,books,top_grossing,com.larus.wolf,Dola: Smart AI Assistant,3,3,0,unchanged
+BR,google_play,books,top_grossing,br.gov.meugovbr,gov.br,4,4,0,unchanged
+BR,google_play,books,top_grossing,com.zhiliaoapp.musically.go,TikTok Lite - Vídeo&Free Drama,5,5,0,unchanged
+BR,google_play,books,top_grossing,com.freereels.app,FreeReels - Dramas & Reels,6,6,0,unchanged
+BR,google_play,books,top_grossing,com.newleaf.app.android.victor,ReelShort - Stream Drama & TV,7,7,0,unchanged
+BR,google_play,books,top_grossing,com.shopee.br,Shopee: 15.3 Dia do Consumidor,8,8,0,unchanged
+BR,google_play,books,top_grossing,com.nu.production,Nu,9,9,0,unchanged
+BR,google_play,books,top_grossing,com.taxis99,"99: Rides, Food, Pay",,10,,new
+BR,app_store,religion,top_free,com.openai.chat,ChatGPT,,1,,new
+BR,app_store,religion,top_free,br.gov.meugovbr,gov.br,2,2,0,unchanged
+BR,app_store,religion,top_free,com.google.gemini,Google Gemini,3,3,0,unchanged
+BR,app_store,religion,top_free,br.gov.serpro.cnhe,CNH do Brasil,4,4,0,unchanged
+BR,app_store,religion,top_free,com.3mosquitos.MercadoLibre,Mercado Livre: Compras Online,5,5,0,unchanged
+BR,app_store,religion,top_free,br.gov.mds.meusocial,Meu Social - Gás do Povo,6,6,0,unchanged
+BR,app_store,religion,top_free,com.mercadopago.MercadoPago,Mercado Pago: banco digital,7,7,0,unchanged
+BR,app_store,religion,top_free,br.gov.dataprev.ectps,Carteira de Trabalho Digital,8,8,0,unchanged
+BR,app_store,religion,top_free,com.beeasy.shopee.br,Shopee: 15.3 Dia do Consumidor,9,9,0,unchanged
+BR,app_store,religion,top_free,com.amazon.Amazon,Amazon Shopping,10,10,0,unchanged
+BR,google_play,religion,top_free,br.gov.mds.meusocial,Meu Social - Gás do Povo,1,1,0,unchanged
+BR,google_play,religion,top_free,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+BR,google_play,religion,top_free,com.larus.wolf,Dola: Smart AI Assistant,3,3,0,unchanged
+BR,google_play,religion,top_free,br.gov.meugovbr,gov.br,4,4,0,unchanged
+BR,google_play,religion,top_free,com.zhiliaoapp.musically.go,TikTok Lite - Vídeo&Free Drama,5,5,0,unchanged
+BR,google_play,religion,top_free,com.freereels.app,FreeReels - Dramas & Reels,6,6,0,unchanged
+BR,google_play,religion,top_free,com.newleaf.app.android.victor,ReelShort - Stream Drama & TV,7,7,0,unchanged
+BR,google_play,religion,top_free,com.shopee.br,Shopee: 15.3 Dia do Consumidor,8,8,0,unchanged
+BR,google_play,religion,top_free,com.nu.production,Nu,9,9,0,unchanged
+BR,google_play,religion,top_free,com.taxis99,"99: Rides, Food, Pay",,10,,new
+BR,app_store,religion,top_paid,com.mojang.minecraftpe,Minecraft: Jogo de Construção,1,1,0,unchanged
+BR,app_store,religion,top_paid,com.ndemiccreations.plagueinc,Plague Inc.,2,2,0,unchanged
+BR,app_store,religion,top_paid,com.omolgamestudio.TheElevator,Só tem você aqui,3,3,0,unchanged
+BR,app_store,religion,top_paid,me.pou.app,Pou,4,4,0,unchanged
+BR,app_store,religion,top_paid,net.ichi2.anki,AnkiMobile Flashcards,5,5,0,unchanged
+BR,app_store,religion,top_paid,com.chucklefish.stardewvalley,Stardew Valley,6,6,0,unchanged
+BR,app_store,religion,top_paid,com.dedealbano.padlab,PadLab - Live Pads,7,7,0,unchanged
+BR,app_store,religion,top_paid,com.gamefirst.religioninc,Religion inc. Deus Simulador,8,8,0,unchanged
+BR,app_store,religion,top_paid,iliturgia,iLiturgia,9,9,0,unchanged
+BR,app_store,religion,top_paid,com.505games.terraria,Terraria,,10,,new
+BR,google_play,religion,top_paid,com.h4xhdv.ffh4xraistarmacrofire,Sensi FF Macro - Game Booster,1,1,0,unchanged
+BR,google_play,religion,top_paid,org.prowl.torque,Torque Pro (OBD 2 & Car),2,2,0,unchanged
+BR,google_play,religion,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,3,3,0,unchanged
+BR,google_play,religion,top_paid,com.booster.gfxpro,Game Booster VIP Lag Fix & GFX,4,4,0,unchanged
+BR,google_play,religion,top_paid,com.iliturgia,iLiturgia,5,5,0,unchanged
+BR,google_play,religion,top_paid,com.panda.mouse,Panda Mouse Pro,6,6,0,unchanged
+BR,google_play,religion,top_paid,com.imageline.FLM,FL STUDIO MOBILE,7,7,0,unchanged
+BR,google_play,religion,top_paid,com.appslab.glass.widgets,Glass Widgets,8,8,0,unchanged
+BR,google_play,religion,top_paid,com.extreamsd.aemobile,Audio Evolution Mobile Studio,9,9,0,unchanged
+BR,google_play,religion,top_paid,com.appsgenz.launcherios.pro,Launcher OS™ Pro,10,10,0,unchanged
+BR,app_store,religion,top_grossing,com.openai.chat,ChatGPT,,1,,new
+BR,app_store,religion,top_grossing,com.google.ios.youtube,YouTube,2,2,0,unchanged
+BR,app_store,religion,top_grossing,com.lemon.lvoverseas,CapCut - Editor de vídeo,3,3,0,unchanged
+BR,app_store,religion,top_grossing,com.canva.canvaeditor,Canva: editor de fotos e vídeo,4,4,0,unchanged
+BR,app_store,religion,top_grossing,com.globo.hydra,"Globoplay: BBB, Brasileirão +",,5,,new
+BR,app_store,religion,top_grossing,com.google.Gmail,Gmail: o e-mail do Google,6,6,0,unchanged
+BR,app_store,religion,top_grossing,com.google.photos,Google Fotos,7,7,0,unchanged
+BR,app_store,religion,top_grossing,com.wbd.stream,HBO Max: programas e filmes,,8,,new
+BR,app_store,religion,top_grossing,com.amazon.aiv.AIVApp,Amazon Prime Video,9,9,0,unchanged
+BR,app_store,religion,top_grossing,com.duolingo.DuolingoMobile,Duolingo – Aprenda idiomas,10,10,0,unchanged
+BR,google_play,religion,top_grossing,br.gov.mds.meusocial,Meu Social - Gás do Povo,1,1,0,unchanged
+BR,google_play,religion,top_grossing,com.openai.chatgpt,ChatGPT,2,2,0,unchanged
+BR,google_play,religion,top_grossing,com.larus.wolf,Dola: Smart AI Assistant,3,3,0,unchanged
+BR,google_play,religion,top_grossing,br.gov.meugovbr,gov.br,4,4,0,unchanged
+BR,google_play,religion,top_grossing,com.zhiliaoapp.musically.go,TikTok Lite - Vídeo&Free Drama,5,5,0,unchanged
+BR,google_play,religion,top_grossing,com.freereels.app,FreeReels - Dramas & Reels,6,6,0,unchanged
+BR,google_play,religion,top_grossing,com.newleaf.app.android.victor,ReelShort - Stream Drama & TV,7,7,0,unchanged
+BR,google_play,religion,top_grossing,com.shopee.br,Shopee: 15.3 Dia do Consumidor,8,8,0,unchanged
+BR,google_play,religion,top_grossing,com.nu.production,Nu,9,9,0,unchanged
+BR,google_play,religion,top_grossing,com.taxis99,"99: Rides, Food, Pay",,10,,new
+MX,app_store,tools,top_free,com.openai.chat,ChatGPT,,1,,new
+MX,app_store,tools,top_free,com.google.gemini,Google Gemini,2,2,0,unchanged
+MX,app_store,tools,top_free,com.google.GoogleMobile,Google,3,3,0,unchanged
+MX,app_store,tools,top_free,com.einnovation.temu,Temu: compra como millonario,4,4,0,unchanged
+MX,app_store,tools,top_free,com.3mosquitos.MercadoLibre,Mercado Libre: Compras Online,5,5,0,unchanged
+MX,app_store,tools,top_free,com.lemon.lvoverseas,CapCut: edita videos y fotos,6,6,0,unchanged
+MX,app_store,tools,top_free,com.canva.canvaeditor,Canva: editor de fotos y video,7,7,0,unchanged
+MX,app_store,tools,top_free,com.google.Gmail,El correo electr. de Google,8,8,0,unchanged
+MX,app_store,tools,top_free,com.google.Maps,Google Maps,9,9,0,unchanged
+MX,app_store,tools,top_free,com.bot.cici,Dola: asistente IA inteligente,10,10,0,unchanged
+MX,google_play,tools,top_free,com.enzo.paulo,Seekee - Ai Search & Assistant,1,1,0,unchanged
+MX,google_play,tools,top_free,reader.alldocuments.eternal,All Document Reader: PDF/Word,2,2,0,unchanged
+MX,google_play,tools,top_free,com.antivirusprotector,Antivirus Protector,3,3,0,unchanged
+MX,google_play,tools,top_free,com.gamma.scan,QR & Barcode Scanner,4,4,0,unchanged
+MX,google_play,tools,top_free,com.dubox.drive,TeraBox: Cloud Storage Space,5,5,0,unchanged
+MX,google_play,tools,top_free,com.casttv.castforchromecast.screencast,Cast for Chromecast & TV Cast,6,6,0,unchanged
+MX,google_play,tools,top_free,com.xstudios.fastscan,Scanner App - Scan PDF & Docs,7,7,0,unchanged
+MX,google_play,tools,top_free,com.recoue.mri.swift,Photo Recover Swift,8,8,0,unchanged
+MX,google_play,tools,top_free,com.rokutv.remote.app,Smart Remote - Easy TV Control,9,9,0,unchanged
+MX,google_play,tools,top_free,com.storage.androidcleaner,Cleanup: Phone Storage Cleaner,10,10,0,unchanged
+MX,app_store,tools,top_paid,com.mojang.minecraftpe,Minecraft: Explora con amigos,1,1,0,unchanged
+MX,app_store,tools,top_paid,com.robtop.geometryjump,Geometry Dash,2,2,0,unchanged
+MX,app_store,tools,top_paid,ch.threema.iapp,Threema. Mensajero seguro,3,3,0,unchanged
+MX,app_store,tools,top_paid,com.rovio.abclassic22,Rovio Classics: Angry Birds,4,4,0,unchanged
+MX,app_store,tools,top_paid,me.pou.app,Pou,5,5,0,unchanged
+MX,app_store,tools,top_paid,com.MobEntertainment.PoppyPlaytimeChapter4,Poppy Playtime Chapter 4,,6,,new
+MX,app_store,tools,top_paid,com.rockstargames.gta3sa,Grand Theft Auto: San Andreas,7,7,0,unchanged
+MX,app_store,tools,top_paid,com.ndemiccreations.plagueinc,Plague Inc.,8,8,0,unchanged
+MX,app_store,tools,top_paid,com.flipline.papasfreezeriatogo,Papa's Freezeria To Go!,9,9,0,unchanged
+MX,app_store,tools,top_paid,com.MOBGames.PoppyMobileChapterOne,Poppy Playtime Chapter 1,,10,,new
+MX,google_play,tools,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,1,1,0,unchanged
+MX,google_play,tools,top_paid,com.h4xhdv.ffh4xraistarmacrofire,Sensi FF Macro - Game Booster,2,2,0,unchanged
+MX,google_play,tools,top_paid,com.booster.gfxpro,Game Booster VIP Lag Fix & GFX,3,3,0,unchanged
+MX,google_play,tools,top_paid,genz.raistar.macro.fire.gfx.onetap.sensitivity,Raistar Macro Fire Ontap Sensi,4,4,0,unchanged
+MX,google_play,tools,top_paid,com.panda.mouse,Panda Mouse Pro,5,5,0,unchanged
+MX,google_play,tools,top_paid,com.addons.gamerbubbles,Crosshair & Nickname Pro,6,6,0,unchanged
+MX,google_play,tools,top_paid,com.fulldive.extension.fullroid.pro,Pro Emulator for Game Consoles,7,7,0,unchanged
+MX,google_play,tools,top_paid,genz.white444.onetap.fire.macro.gfx.sensitivity,White444 Onetap Fire Macro GFX,8,8,0,unchanged
+MX,google_play,tools,top_paid,cz.hipercalc.pro,HiPER Calc Pro,9,9,0,unchanged
+MX,google_play,tools,top_paid,com.esaudev.diezpesos,10 Pesos,10,10,0,unchanged
+MX,app_store,tools,top_grossing,com.openai.chat,ChatGPT,,1,,new
+MX,app_store,tools,top_grossing,com.google.ios.youtube,YouTube,2,2,0,unchanged
+MX,app_store,tools,top_grossing,com.zhiliaoapp.musically,TikTok,3,3,0,unchanged
+MX,app_store,tools,top_grossing,com.wbd.stream,HBO Max: Ve TV y películas,,4,,new
+MX,app_store,tools,top_grossing,com.lemon.lvoverseas,CapCut: edita videos y fotos,5,5,0,unchanged
+MX,app_store,tools,top_grossing,com.univision.prendetv,"ViX: TV, Deportes y Noticias",,6,,new
+MX,app_store,tools,top_grossing,com.dts.freefireth,Free Fire x JUJUTSU KAISEN,7,7,0,unchanged
+MX,app_store,tools,top_grossing,com.canva.canvaeditor,Canva: editor de fotos y video,8,8,0,unchanged
+MX,app_store,tools,top_grossing,com.disney.disneyplus,Disney+,9,9,0,unchanged
+MX,app_store,tools,top_grossing,com.google.Gmail,El correo electr. de Google,10,10,0,unchanged
+MX,google_play,tools,top_grossing,com.enzo.paulo,Seekee - Ai Search & Assistant,1,1,0,unchanged
+MX,google_play,tools,top_grossing,reader.alldocuments.eternal,All Document Reader: PDF/Word,2,2,0,unchanged
+MX,google_play,tools,top_grossing,com.antivirusprotector,Antivirus Protector,3,3,0,unchanged
+MX,google_play,tools,top_grossing,com.gamma.scan,QR & Barcode Scanner,4,4,0,unchanged
+MX,google_play,tools,top_grossing,com.dubox.drive,TeraBox: Cloud Storage Space,5,5,0,unchanged
+MX,google_play,tools,top_grossing,com.casttv.castforchromecast.screencast,Cast for Chromecast & TV Cast,6,6,0,unchanged
+MX,google_play,tools,top_grossing,com.xstudios.fastscan,Scanner App - Scan PDF & Docs,7,7,0,unchanged
+MX,google_play,tools,top_grossing,com.recoue.mri.swift,Photo Recover Swift,8,8,0,unchanged
+MX,google_play,tools,top_grossing,com.rokutv.remote.app,Smart Remote - Easy TV Control,9,9,0,unchanged
+MX,google_play,tools,top_grossing,com.storage.androidcleaner,Cleanup: Phone Storage Cleaner,10,10,0,unchanged
+MX,app_store,books,top_free,com.fivemobile.wattpad,Wattpad,1,1,0,unchanged
+MX,app_store,books,top_free,com.amazon.Lassen,Kindle,2,2,0,unchanged
+MX,app_store,books,top_free,com.audible.iphone,Audible: Audiolibros y podcast,,3,,new
+MX,app_store,books,top_free,com.read.buenovela,BueNovela - leer novela libro,4,4,0,unchanged
+MX,app_store,books,top_free,com.bibliasagrada.consigo,Biblia Reina Valera con Audio,5,5,0,unchanged
+MX,app_store,books,top_free,com.readmio.Readmio-iOS,Readmio: Libros para niños,6,6,0,unchanged
+MX,app_store,books,top_free,com.storytel.iphone,Storytel: audiolibros y ebooks,7,7,0,unchanged
+MX,app_store,books,top_free,com.google.GoogleBooks,Google Play Libros,8,8,0,unchanged
+MX,app_store,books,top_free,com.dreame.reader,Dreame - Read Best Romance,9,9,0,unchanged
+MX,app_store,books,top_free,com.goodreads.Goodreads,Goodreads: Book Tracker & More,10,10,0,unchanged
+MX,google_play,books,top_free,com.larus.wolf,Dola: Smart AI Assistant,1,1,0,unchanged
+MX,google_play,books,top_free,com.freereels.app,FreeReels - Dramas & Reels,2,2,0,unchanged
+MX,google_play,books,top_free,com.openai.chatgpt,ChatGPT,3,3,0,unchanged
+MX,google_play,books,top_free,com.zhiliaoapp.musically.go,TikTok Lite - Save Data & Fast,4,4,0,unchanged
+MX,google_play,books,top_free,com.einnovation.temu,Temu: Shop Like a Billionaire,5,5,0,unchanged
+MX,google_play,books,top_free,com.mercadolibre,Mercado Libre,6,6,0,unchanged
+MX,google_play,books,top_free,com.netshort.abroad,NetShort - Popular Dramas & TV,7,7,0,unchanged
+MX,google_play,books,top_free,com.newleaf.app.android.victor,ReelShort - Stream Drama & TV,8,8,0,unchanged
+MX,google_play,books,top_free,com.whatsapp,WhatsApp Messenger,9,9,0,unchanged
+MX,google_play,books,top_free,com.zhiliaoapp.musically,TikTok,10,10,0,unchanged
+MX,app_store,books,top_paid,PG.biblia-de-jerusalem,Biblia de Jerusalén,1,1,0,unchanged
+MX,app_store,books,top_paid,com.yourcompany.DialingGod,Dialing God,2,2,0,unchanged
+MX,app_store,books,top_paid,com.publicacioneselfaro.himnia,Himnario INPM Letra,,3,,new
+MX,app_store,books,top_paid,tv.bluefire.bluefirereader,Bluefire Reader,4,4,0,unchanged
+MX,app_store,books,top_paid,com.inkstonesoftware.inkstoneaudiobooks,Audiobooks HQ audiolibros,,5,,new
+MX,app_store,books,top_paid,com.libromovil.guerra,El Arte de la Guerra - Audiolibro,6,6,0,unchanged
+MX,app_store,books,top_paid,com.playcreatividad.ipoe,iPoe Vol. 1 - Edgar Allan Poe,,7,,new
+MX,app_store,books,top_paid,com.palreader.spanishbible1960reinavaleraaudio,Santa Biblia Version Reina Valera (con audio),8,8,0,unchanged
+MX,app_store,books,top_paid,com.playcreatividad.ipoe2,iPoe Vol. 2 - Edgar Allan Poe,,9,,new
+MX,app_store,books,top_paid,com.iclassicscollection.ilovecraft,iLovecraft Collection Vol. 1,,10,,new
+MX,google_play,books,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,1,1,0,unchanged
+MX,google_play,books,top_paid,com.h4xhdv.ffh4xraistarmacrofire,Sensi FF Macro - Game Booster,2,2,0,unchanged
+MX,google_play,books,top_paid,ch.threema.app,Threema. The Secure Messenger,3,3,0,unchanged
+MX,google_play,books,top_paid,com.peso1peso,1 Peso,4,4,0,unchanged
+MX,google_play,books,top_paid,com.booster.gfxpro,Game Booster VIP Lag Fix & GFX,5,5,0,unchanged
+MX,google_play,books,top_paid,com.appslab.glass.widgets,Glass Widgets,6,6,0,unchanged
+MX,google_play,books,top_paid,com.imageline.FLM,FL STUDIO MOBILE,7,7,0,unchanged
+MX,google_play,books,top_paid,org.prowl.torque,Torque Pro (OBD 2 & Car),8,8,0,unchanged
+MX,google_play,books,top_paid,com.jndapp.oneui.widgets.pack,OneUI Widgets,9,9,0,unchanged
+MX,google_play,books,top_paid,isoftcom.dinero,5 pesos,10,10,0,unchanged
+MX,app_store,books,top_grossing,com.audible.iphone,Audible: Audiolibros y podcast,,1,,new
+MX,app_store,books,top_grossing,com.storytel.iphone,Storytel: audiolibros y ebooks,2,2,0,unchanged
+MX,app_store,books,top_grossing,com.read.buenovela,BueNovela - leer novela libro,3,3,0,unchanged
+MX,app_store,books,top_grossing,com.fivemobile.wattpad,Wattpad,4,4,0,unchanged
+MX,app_store,books,top_grossing,com.scribd.iscribd,Everand: audiolibros y libros,5,5,0,unchanged
+MX,app_store,books,top_grossing,com.changduhk.spainreader,Manobook: My Good Story Reader,6,6,0,unchanged
+MX,app_store,books,top_grossing,com.dreame.reader,Dreame - Read Best Romance,7,7,0,unchanged
+MX,app_store,books,top_grossing,com.gnovel.originalstation,GoodNovel - leer novela libro,8,8,0,unchanged
+MX,app_store,books,top_grossing,com.novelago.ios.app,NovelaGo - Novelas y Libros,9,9,0,unchanged
+MX,app_store,books,top_grossing,com.webnovel.reader,WebNovel - Fictions & Comics,10,10,0,unchanged
+MX,google_play,books,top_grossing,com.larus.wolf,Dola: Smart AI Assistant,1,1,0,unchanged
+MX,google_play,books,top_grossing,com.freereels.app,FreeReels - Dramas & Reels,2,2,0,unchanged
+MX,google_play,books,top_grossing,com.openai.chatgpt,ChatGPT,3,3,0,unchanged
+MX,google_play,books,top_grossing,com.zhiliaoapp.musically.go,TikTok Lite - Save Data & Fast,4,4,0,unchanged
+MX,google_play,books,top_grossing,com.einnovation.temu,Temu: Shop Like a Billionaire,5,5,0,unchanged
+MX,google_play,books,top_grossing,com.mercadolibre,Mercado Libre,6,6,0,unchanged
+MX,google_play,books,top_grossing,com.netshort.abroad,NetShort - Popular Dramas & TV,7,7,0,unchanged
+MX,google_play,books,top_grossing,com.newleaf.app.android.victor,ReelShort - Stream Drama & TV,8,8,0,unchanged
+MX,google_play,books,top_grossing,com.whatsapp,WhatsApp Messenger,9,9,0,unchanged
+MX,google_play,books,top_grossing,com.zhiliaoapp.musically,TikTok,10,10,0,unchanged
+MX,app_store,religion,top_free,com.openai.chat,ChatGPT,,1,,new
+MX,app_store,religion,top_free,com.google.gemini,Google Gemini,2,2,0,unchanged
+MX,app_store,religion,top_free,com.google.GoogleMobile,Google,3,3,0,unchanged
+MX,app_store,religion,top_free,com.einnovation.temu,Temu: compra como millonario,4,4,0,unchanged
+MX,app_store,religion,top_free,com.3mosquitos.MercadoLibre,Mercado Libre: Compras Online,5,5,0,unchanged
+MX,app_store,religion,top_free,com.lemon.lvoverseas,CapCut: edita videos y fotos,6,6,0,unchanged
+MX,app_store,religion,top_free,com.canva.canvaeditor,Canva: editor de fotos y video,7,7,0,unchanged
+MX,app_store,religion,top_free,com.google.Gmail,El correo electr. de Google,8,8,0,unchanged
+MX,app_store,religion,top_free,com.google.Maps,Google Maps,9,9,0,unchanged
+MX,app_store,religion,top_free,com.bot.cici,Dola: asistente IA inteligente,10,10,0,unchanged
+MX,google_play,religion,top_free,com.larus.wolf,Dola: Smart AI Assistant,1,1,0,unchanged
+MX,google_play,religion,top_free,com.freereels.app,FreeReels - Dramas & Reels,2,2,0,unchanged
+MX,google_play,religion,top_free,com.openai.chatgpt,ChatGPT,3,3,0,unchanged
+MX,google_play,religion,top_free,com.zhiliaoapp.musically.go,TikTok Lite - Save Data & Fast,4,4,0,unchanged
+MX,google_play,religion,top_free,com.einnovation.temu,Temu: Shop Like a Billionaire,5,5,0,unchanged
+MX,google_play,religion,top_free,com.mercadolibre,Mercado Libre,6,6,0,unchanged
+MX,google_play,religion,top_free,com.netshort.abroad,NetShort - Popular Dramas & TV,7,7,0,unchanged
+MX,google_play,religion,top_free,com.newleaf.app.android.victor,ReelShort - Stream Drama & TV,8,8,0,unchanged
+MX,google_play,religion,top_free,com.whatsapp,WhatsApp Messenger,9,9,0,unchanged
+MX,google_play,religion,top_free,com.zhiliaoapp.musically,TikTok,10,10,0,unchanged
+MX,app_store,religion,top_paid,com.mojang.minecraftpe,Minecraft: Explora con amigos,1,1,0,unchanged
+MX,app_store,religion,top_paid,com.robtop.geometryjump,Geometry Dash,2,2,0,unchanged
+MX,app_store,religion,top_paid,ch.threema.iapp,Threema. Mensajero seguro,3,3,0,unchanged
+MX,app_store,religion,top_paid,com.rovio.abclassic22,Rovio Classics: Angry Birds,4,4,0,unchanged
+MX,app_store,religion,top_paid,me.pou.app,Pou,5,5,0,unchanged
+MX,app_store,religion,top_paid,com.MobEntertainment.PoppyPlaytimeChapter4,Poppy Playtime Chapter 4,,6,,new
+MX,app_store,religion,top_paid,com.rockstargames.gta3sa,Grand Theft Auto: San Andreas,7,7,0,unchanged
+MX,app_store,religion,top_paid,com.ndemiccreations.plagueinc,Plague Inc.,8,8,0,unchanged
+MX,app_store,religion,top_paid,com.flipline.papasfreezeriatogo,Papa's Freezeria To Go!,9,9,0,unchanged
+MX,app_store,religion,top_paid,com.MOBGames.PoppyMobileChapterOne,Poppy Playtime Chapter 1,,10,,new
+MX,google_play,religion,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,1,1,0,unchanged
+MX,google_play,religion,top_paid,com.h4xhdv.ffh4xraistarmacrofire,Sensi FF Macro - Game Booster,2,2,0,unchanged
+MX,google_play,religion,top_paid,ch.threema.app,Threema. The Secure Messenger,3,3,0,unchanged
+MX,google_play,religion,top_paid,com.peso1peso,1 Peso,4,4,0,unchanged
+MX,google_play,religion,top_paid,com.booster.gfxpro,Game Booster VIP Lag Fix & GFX,5,5,0,unchanged
+MX,google_play,religion,top_paid,com.appslab.glass.widgets,Glass Widgets,6,6,0,unchanged
+MX,google_play,religion,top_paid,com.imageline.FLM,FL STUDIO MOBILE,7,7,0,unchanged
+MX,google_play,religion,top_paid,org.prowl.torque,Torque Pro (OBD 2 & Car),8,8,0,unchanged
+MX,google_play,religion,top_paid,com.jndapp.oneui.widgets.pack,OneUI Widgets,9,9,0,unchanged
+MX,google_play,religion,top_paid,isoftcom.dinero,5 pesos,10,10,0,unchanged
+MX,app_store,religion,top_grossing,com.openai.chat,ChatGPT,,1,,new
+MX,app_store,religion,top_grossing,com.google.ios.youtube,YouTube,2,2,0,unchanged
+MX,app_store,religion,top_grossing,com.zhiliaoapp.musically,TikTok,3,3,0,unchanged
+MX,app_store,religion,top_grossing,com.wbd.stream,HBO Max: Ve TV y películas,,4,,new
+MX,app_store,religion,top_grossing,com.lemon.lvoverseas,CapCut: edita videos y fotos,5,5,0,unchanged
+MX,app_store,religion,top_grossing,com.univision.prendetv,"ViX: TV, Deportes y Noticias",,6,,new
+MX,app_store,religion,top_grossing,com.dts.freefireth,Free Fire x JUJUTSU KAISEN,7,7,0,unchanged
+MX,app_store,religion,top_grossing,com.canva.canvaeditor,Canva: editor de fotos y video,8,8,0,unchanged
+MX,app_store,religion,top_grossing,com.disney.disneyplus,Disney+,9,9,0,unchanged
+MX,app_store,religion,top_grossing,com.google.Gmail,El correo electr. de Google,10,10,0,unchanged
+MX,google_play,religion,top_grossing,com.larus.wolf,Dola: Smart AI Assistant,1,1,0,unchanged
+MX,google_play,religion,top_grossing,com.freereels.app,FreeReels - Dramas & Reels,2,2,0,unchanged
+MX,google_play,religion,top_grossing,com.openai.chatgpt,ChatGPT,3,3,0,unchanged
+MX,google_play,religion,top_grossing,com.zhiliaoapp.musically.go,TikTok Lite - Save Data & Fast,4,4,0,unchanged
+MX,google_play,religion,top_grossing,com.einnovation.temu,Temu: Shop Like a Billionaire,5,5,0,unchanged
+MX,google_play,religion,top_grossing,com.mercadolibre,Mercado Libre,6,6,0,unchanged
+MX,google_play,religion,top_grossing,com.netshort.abroad,NetShort - Popular Dramas & TV,7,7,0,unchanged
+MX,google_play,religion,top_grossing,com.newleaf.app.android.victor,ReelShort - Stream Drama & TV,8,8,0,unchanged
+MX,google_play,religion,top_grossing,com.whatsapp,WhatsApp Messenger,9,9,0,unchanged
+MX,google_play,religion,top_grossing,com.zhiliaoapp.musically,TikTok,10,10,0,unchanged
+ID,app_store,tools,top_free,com.shop.msp,MOVA: More Cashback,,1,,new
+ID,app_store,tools,top_free,com.beeasy.shopee.id,Shopee Indonesia,,2,,new
+ID,app_store,tools,top_free,id.dana.app,DANA Dompet Digital Indonesia,,3,,new
+ID,app_store,tools,top_free,com.go-jek.gopay,"GoPay: Transfer, Payment, QRIS",,4,,new
+ID,app_store,tools,top_free,com.shopeepay.id,ShopeePay – Dompet Serba Bisa,5,5,0,unchanged
+ID,app_store,tools,top_free,com.google.GoogleMobile,Google - More ways to search,6,6,0,unchanged
+ID,app_store,tools,top_free,com.lemon.lvoverseas,CapCut: Photo & Video Editor,7,7,0,unchanged
+ID,app_store,tools,top_free,com.google.Maps,Google Maps,8,8,0,unchanged
+ID,app_store,tools,top_free,com.facebook.Facebook,Facebook,,9,,new
+ID,app_store,tools,top_free,id.co.bankbkemobile.digitalbank,SeaBank,10,10,0,unchanged
+ID,google_play,tools,top_free,com.telkomsel.telkomselcm,MyTelkomsel – Buy Internet,1,1,0,unchanged
+ID,google_play,tools,top_free,ru.zdevs.zarchiver,ZArchiver,2,2,0,unchanged
+ID,google_play,tools,top_free,com.pure.indosat.care,myIM3: Data Plan & Buy Package,3,3,0,unchanged
+ID,google_play,tools,top_free,com.lenovo.anyshare.gps,"SHAREit: Transfer, Share Files",,4,,new
+ID,google_play,tools,top_free,com.axis.net,AXISnet Cek & Beli Kuota Data,5,5,0,unchanged
+ID,google_play,tools,top_free,com.dubox.drive,TeraBox: 1TB Cloud & Ruang AI,6,6,0,unchanged
+ID,google_play,tools,top_free,free.vpn.unblock.proxy.turbovpn,Turbo VPN - Secure VPN Proxy,7,7,0,unchanged
+ID,google_play,tools,top_free,superapps.polri.presisi.presisi,Super App Polri,8,8,0,unchanged
+ID,google_play,tools,top_free,com.apps.MyXL,"myXL - XL, PRIORITAS & HOME",,9,,new
+ID,google_play,tools,top_free,com.ChronosClean.godfa,Chronos Clean,10,10,0,unchanged
+ID,app_store,tools,top_paid,com.mojang.minecraftpe,"Minecraft: Dream it, Build it!",,1,,new
+ID,app_store,tools,top_paid,com.andiios.quran.id,Al Quran Translation,2,2,0,unchanged
+ID,app_store,tools,top_paid,it.rortos.realflightsimulator,RFS - Real Flight Simulator,3,3,0,unchanged
+ID,app_store,tools,top_paid,com.chucklefish.stardewvalley,Stardew Valley,4,4,0,unchanged
+ID,app_store,tools,top_paid,com.rockstargames.gta3sa,Grand Theft Auto: San Andreas,5,5,0,unchanged
+ID,app_store,tools,top_paid,tiennvan.FakeMessages,iFake - Funny Fake Messages Creator,6,6,0,unchanged
+ID,app_store,tools,top_paid,me.pou.app,Pou,7,7,0,unchanged
+ID,app_store,tools,top_paid,com.realbyteapps.MoneyManager,Money Manager (Remove Ads),8,8,0,unchanged
+ID,app_store,tools,top_paid,com.liguangming.Shadowrocket,Shadowrocket,9,9,0,unchanged
+ID,app_store,tools,top_paid,com.bitzooma.blackborder2,Black Border 2,10,10,0,unchanged
+ID,google_play,tools,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,1,1,0,unchanged
+ID,google_play,tools,top_paid,com.h4xhdv.ffh4xraistarmacrofire,Sensi FF Macro - Game Booster,2,2,0,unchanged
+ID,google_play,tools,top_paid,com.booster.gfxpro,Game Booster VIP Lag Fix & GFX,3,3,0,unchanged
+ID,google_play,tools,top_paid,net.dinglisch.android.taskerm,Tasker,4,4,0,unchanged
+ID,google_play,tools,top_paid,com.fulldive.extension.fullroid.pro,Pro Emulator for Game Consoles,5,5,0,unchanged
+ID,google_play,tools,top_paid,com.wakdev.nfctools.pro,NFC Tools - Pro Edition,6,6,0,unchanged
+ID,google_play,tools,top_paid,inc.trilokia.pubgfxtool,PGT+ : Pro GFX & Optimizer,7,7,0,unchanged
+ID,google_play,tools,top_paid,genz.raistar.macro.fire.gfx.onetap.sensitivity,Raistar Macro Fire Ontap Sensi,8,8,0,unchanged
+ID,google_play,tools,top_paid,psplay.grill.com,PXPlay: Remote Play,9,9,0,unchanged
+ID,google_play,tools,top_paid,com.panda.mouse,Panda Mouse Pro,10,10,0,unchanged
+ID,app_store,tools,top_grossing,com.lemon.lvoverseas,CapCut: Photo & Video Editor,1,1,0,unchanged
+ID,app_store,tools,top_grossing,com.openai.chat,ChatGPT,,2,,new
+ID,app_store,tools,top_grossing,com.google.ios.youtube,YouTube,3,3,0,unchanged
+ID,app_store,tools,top_grossing,com.mobile.legends,Mobile Legends: Bang Bang,4,4,0,unchanged
+ID,app_store,tools,top_grossing,com.kmk.vidio,"Vidio: Sports, Movies, Series",,5,,new
+ID,app_store,tools,top_grossing,com.storymatrix.drama,DramaBox - Stream Drama Shorts,6,6,0,unchanged
+ID,app_store,tools,top_grossing,com.bigwinepot.nwdn.international,Remini - AI Photo Enhancer,7,7,0,unchanged
+ID,app_store,tools,top_grossing,com.lastwar.ios,Last War:Survival,8,8,0,unchanged
+ID,app_store,tools,top_grossing,com.kontakt.getcontact,Getcontact,9,9,0,unchanged
+ID,app_store,tools,top_grossing,com.canva.canvaeditor,Canva: AI Video & Photo Editor,10,10,0,unchanged
+ID,google_play,tools,top_grossing,com.telkomsel.telkomselcm,MyTelkomsel – Buy Internet,1,1,0,unchanged
+ID,google_play,tools,top_grossing,ru.zdevs.zarchiver,ZArchiver,2,2,0,unchanged
+ID,google_play,tools,top_grossing,com.pure.indosat.care,myIM3: Data Plan & Buy Package,3,3,0,unchanged
+ID,google_play,tools,top_grossing,com.lenovo.anyshare.gps,"SHAREit: Transfer, Share Files",,4,,new
+ID,google_play,tools,top_grossing,com.axis.net,AXISnet Cek & Beli Kuota Data,5,5,0,unchanged
+ID,google_play,tools,top_grossing,com.dubox.drive,TeraBox: 1TB Cloud & Ruang AI,6,6,0,unchanged
+ID,google_play,tools,top_grossing,free.vpn.unblock.proxy.turbovpn,Turbo VPN - Secure VPN Proxy,7,7,0,unchanged
+ID,google_play,tools,top_grossing,superapps.polri.presisi.presisi,Super App Polri,8,8,0,unchanged
+ID,google_play,tools,top_grossing,com.apps.MyXL,"myXL - XL, PRIORITAS & HOME",,9,,new
+ID,google_play,tools,top_grossing,com.ChronosClean.godfa,Chronos Clean,10,10,0,unchanged
+ID,app_store,books,top_free,indonesian.alquranindonesia,Al Quran Standar Indonesia,1,1,0,unchanged
+ID,app_store,books,top_free,com.greentechapps.quran,Al Quran (Tafsir & by Word),2,2,0,unchanged
+ID,app_store,books,top_free,com.gnovel.originalstation,"GoodNovel - Booktok, Stories",,3,,new
+ID,app_store,books,top_free,com.iqraapp.Iqra,Tarteel: AI Quran Memorisation,4,4,0,unchanged
+ID,app_store,books,top_free,com.fivemobile.wattpad,Wattpad - Read & Write Stories,5,5,0,unchanged
+ID,app_store,books,top_free,com.quran.ios,Quran - by Quran.com - قرآن,,6,,new
+ID,app_store,books,top_free,e.books.reading.apps,Fizzo - Read Good Novels,7,7,0,unchanged
+ID,app_store,books,top_free,com.tws.apps.MyQuranLite,MyQuran Al Quran Translation,8,8,0,unchanged
+ID,app_store,books,top_free,id.kbm.application,KBM App,9,9,0,unchanged
+ID,app_store,books,top_free,com.muslimidia.alquran,AlQuran 30 Juz Tanpa Internet,10,10,0,unchanged
+ID,google_play,books,top_free,com.freereels.app,FreeReels - Dramas & Reels,1,1,0,unchanged
+ID,google_play,books,top_free,com.worldance.drama,Melolo - Short Dramas & Reels,2,2,0,unchanged
+ID,google_play,books,top_free,com.larus.wolf,Dola: Smart AI Assistant,3,3,0,unchanged
+ID,google_play,books,top_free,id.dana,DANA Indonesia Digital Wallet,4,4,0,unchanged
+ID,google_play,books,top_free,com.shopeepay.id,ShopeePay – Dompet Serba Bisa,5,5,0,unchanged
+ID,google_play,books,top_free,com.shopee.id,Shopee Indonesia,6,6,0,unchanged
+ID,google_play,books,top_free,com.openai.chatgpt,ChatGPT,7,7,0,unchanged
+ID,google_play,books,top_free,com.ss.android.ugc.trill,TikTok,8,8,0,unchanged
+ID,google_play,books,top_free,com.UCMobile.intl,"UC Browser-Safe, Fast, Private",,9,,new
+ID,google_play,books,top_free,com.netshort.abroad,NetShort - Popular Dramas & TV,10,10,0,unchanged
+ID,app_store,books,top_paid,com.inkstonesoftware.ebooksearchpro,eBook Search Pro - Book Finder,,1,,new
+ID,app_store,books,top_paid,com.alepponline.nawranya,القاعدة النورانية,2,2,0,unchanged
+ID,app_store,books,top_paid,com.maplepop.bmsea,MapleRead SE,3,3,0,unchanged
+ID,app_store,books,top_paid,com.yasperin.alkitab,Alkitab Versi Pemulihan,4,4,0,unchanged
+ID,app_store,books,top_paid,com.medanincode.dodinghaleluya,Doding Haleluya Simalungun,5,5,0,unchanged
+ID,app_store,books,top_paid,com.kossanapps.doadandzikirlengkap,Doa dan Dzikir Terlengkap,6,6,0,unchanged
+ID,app_store,books,top_paid,com.hadisshahihlengkap.islam.ios,Hadist Shahih Lengkap,7,7,0,unchanged
+ID,app_store,books,top_paid,biz.litmir.smcp,cMate-SMCP IMO Phrases,8,8,0,unchanged
+ID,app_store,books,top_paid,com.yasperin.kidung-pemulihan,Kidung Pemulihan,9,9,0,unchanged
+ID,app_store,books,top_paid,fr.islamobile.hadith.bukhari.texte.id,Sahih Al-Bukhari in Indonesian,10,10,0,unchanged
+ID,google_play,books,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,1,1,0,unchanged
+ID,google_play,books,top_paid,com.booster.gfxpro,Game Booster VIP Lag Fix & GFX,2,2,0,unchanged
+ID,google_play,books,top_paid,com.appslab.glass.widgets,Glass Widgets,3,3,0,unchanged
+ID,google_play,books,top_paid,com.cbt.exam.browser.pro,CBT Exam Browser PRO - Exambro,4,4,0,unchanged
+ID,google_play,books,top_paid,com.imageline.FLM,FL STUDIO MOBILE,5,5,0,unchanged
+ID,google_play,books,top_paid,com.gps.maps.camera.geotag.pro,Map Camera Pro : Geotag Photos,6,6,0,unchanged
+ID,google_play,books,top_paid,com.dekikurnia.exambro.noads,Exambro Pro - Exam Browser,7,7,0,unchanged
+ID,google_play,books,top_paid,com.jndapp.nothing.widgets.pack,Everything Widgets,8,8,0,unchanged
+ID,google_play,books,top_paid,com.bintangracingteam.juken,JUKEN 5+,9,9,0,unchanged
+ID,google_play,books,top_paid,idm.internet.download.manager.plus,1DM+: Browser & Video Download,10,10,0,unchanged
+ID,app_store,books,top_grossing,com.gnovel.originalstation,"GoodNovel - Booktok, Stories",,1,,new
+ID,app_store,books,top_grossing,id.kbm.application,KBM App,2,2,0,unchanged
+ID,app_store,books,top_grossing,com.dreame.reader,Dreame - Read Best Romance,3,3,0,unchanged
+ID,app_store,books,top_grossing,com.fivemobile.wattpad,Wattpad - Read & Write Stories,4,4,0,unchanged
+ID,app_store,books,top_grossing,com.ywwebfic.webficnovel,Webfic-Make Reading Fantastic,5,5,0,unchanged
+ID,app_store,books,top_grossing,com.webnovel.reader,WebNovel - Read Novels & Manga,6,6,0,unchanged
+ID,app_store,books,top_grossing,com.whaledream.novel,JoyRead-Enjoy Novels & Shorts,7,7,0,unchanged
+ID,app_store,books,top_grossing,com.tapon.read,Tapon - Stories & Novels,8,8,0,unchanged
+ID,app_store,books,top_grossing,write.read.story.webnovel.book.anystories,AnyStories-Top Novels & Books,9,9,0,unchanged
+ID,app_store,books,top_grossing,jp.co.shueisha.mangaplus,MANGA Plus by SHUEISHA,10,10,0,unchanged
+ID,google_play,books,top_grossing,com.freereels.app,FreeReels - Dramas & Reels,1,1,0,unchanged
+ID,google_play,books,top_grossing,com.worldance.drama,Melolo - Short Dramas & Reels,2,2,0,unchanged
+ID,google_play,books,top_grossing,com.larus.wolf,Dola: Smart AI Assistant,3,3,0,unchanged
+ID,google_play,books,top_grossing,id.dana,DANA Indonesia Digital Wallet,4,4,0,unchanged
+ID,google_play,books,top_grossing,com.shopeepay.id,ShopeePay – Dompet Serba Bisa,5,5,0,unchanged
+ID,google_play,books,top_grossing,com.shopee.id,Shopee Indonesia,6,6,0,unchanged
+ID,google_play,books,top_grossing,com.openai.chatgpt,ChatGPT,7,7,0,unchanged
+ID,google_play,books,top_grossing,com.ss.android.ugc.trill,TikTok,8,8,0,unchanged
+ID,google_play,books,top_grossing,com.UCMobile.intl,"UC Browser-Safe, Fast, Private",,9,,new
+ID,google_play,books,top_grossing,com.netshort.abroad,NetShort - Popular Dramas & TV,10,10,0,unchanged
+ID,app_store,religion,top_free,com.shop.msp,MOVA: More Cashback,,1,,new
+ID,app_store,religion,top_free,com.beeasy.shopee.id,Shopee Indonesia,,2,,new
+ID,app_store,religion,top_free,id.dana.app,DANA Dompet Digital Indonesia,,3,,new
+ID,app_store,religion,top_free,com.go-jek.gopay,"GoPay: Transfer, Payment, QRIS",,4,,new
+ID,app_store,religion,top_free,com.shopeepay.id,ShopeePay – Dompet Serba Bisa,5,5,0,unchanged
+ID,app_store,religion,top_free,com.google.GoogleMobile,Google - More ways to search,6,6,0,unchanged
+ID,app_store,religion,top_free,com.lemon.lvoverseas,CapCut: Photo & Video Editor,7,7,0,unchanged
+ID,app_store,religion,top_free,com.google.Maps,Google Maps,8,8,0,unchanged
+ID,app_store,religion,top_free,com.facebook.Facebook,Facebook,,9,,new
+ID,app_store,religion,top_free,id.co.bankbkemobile.digitalbank,SeaBank,10,10,0,unchanged
+ID,google_play,religion,top_free,com.freereels.app,FreeReels - Dramas & Reels,1,1,0,unchanged
+ID,google_play,religion,top_free,com.worldance.drama,Melolo - Short Dramas & Reels,2,2,0,unchanged
+ID,google_play,religion,top_free,com.larus.wolf,Dola: Smart AI Assistant,3,3,0,unchanged
+ID,google_play,religion,top_free,id.dana,DANA Indonesia Digital Wallet,4,4,0,unchanged
+ID,google_play,religion,top_free,com.shopeepay.id,ShopeePay – Dompet Serba Bisa,5,5,0,unchanged
+ID,google_play,religion,top_free,com.shopee.id,Shopee Indonesia,6,6,0,unchanged
+ID,google_play,religion,top_free,com.openai.chatgpt,ChatGPT,7,7,0,unchanged
+ID,google_play,religion,top_free,com.ss.android.ugc.trill,TikTok,8,8,0,unchanged
+ID,google_play,religion,top_free,com.UCMobile.intl,"UC Browser-Safe, Fast, Private",,9,,new
+ID,google_play,religion,top_free,com.netshort.abroad,NetShort - Popular Dramas & TV,10,10,0,unchanged
+ID,app_store,religion,top_paid,com.mojang.minecraftpe,"Minecraft: Dream it, Build it!",,1,,new
+ID,app_store,religion,top_paid,com.andiios.quran.id,Al Quran Translation,2,2,0,unchanged
+ID,app_store,religion,top_paid,it.rortos.realflightsimulator,RFS - Real Flight Simulator,3,3,0,unchanged
+ID,app_store,religion,top_paid,com.chucklefish.stardewvalley,Stardew Valley,4,4,0,unchanged
+ID,app_store,religion,top_paid,com.rockstargames.gta3sa,Grand Theft Auto: San Andreas,5,5,0,unchanged
+ID,app_store,religion,top_paid,tiennvan.FakeMessages,iFake - Funny Fake Messages Creator,6,6,0,unchanged
+ID,app_store,religion,top_paid,me.pou.app,Pou,7,7,0,unchanged
+ID,app_store,religion,top_paid,com.realbyteapps.MoneyManager,Money Manager (Remove Ads),8,8,0,unchanged
+ID,app_store,religion,top_paid,com.liguangming.Shadowrocket,Shadowrocket,9,9,0,unchanged
+ID,app_store,religion,top_paid,com.bitzooma.blackborder2,Black Border 2,10,10,0,unchanged
+ID,google_play,religion,top_paid,com.g19mobile.gameboosterplus,Game Booster 4x Faster Pro,1,1,0,unchanged
+ID,google_play,religion,top_paid,com.booster.gfxpro,Game Booster VIP Lag Fix & GFX,2,2,0,unchanged
+ID,google_play,religion,top_paid,com.appslab.glass.widgets,Glass Widgets,3,3,0,unchanged
+ID,google_play,religion,top_paid,com.cbt.exam.browser.pro,CBT Exam Browser PRO - Exambro,4,4,0,unchanged
+ID,google_play,religion,top_paid,com.imageline.FLM,FL STUDIO MOBILE,5,5,0,unchanged
+ID,google_play,religion,top_paid,com.gps.maps.camera.geotag.pro,Map Camera Pro : Geotag Photos,6,6,0,unchanged
+ID,google_play,religion,top_paid,com.dekikurnia.exambro.noads,Exambro Pro - Exam Browser,7,7,0,unchanged
+ID,google_play,religion,top_paid,com.jndapp.nothing.widgets.pack,Everything Widgets,8,8,0,unchanged
+ID,google_play,religion,top_paid,com.bintangracingteam.juken,JUKEN 5+,9,9,0,unchanged
+ID,google_play,religion,top_paid,idm.internet.download.manager.plus,1DM+: Browser & Video Download,10,10,0,unchanged
+ID,app_store,religion,top_grossing,com.lemon.lvoverseas,CapCut: Photo & Video Editor,1,1,0,unchanged
+ID,app_store,religion,top_grossing,com.openai.chat,ChatGPT,,2,,new
+ID,app_store,religion,top_grossing,com.google.ios.youtube,YouTube,3,3,0,unchanged
+ID,app_store,religion,top_grossing,com.mobile.legends,Mobile Legends: Bang Bang,4,4,0,unchanged
+ID,app_store,religion,top_grossing,com.kmk.vidio,"Vidio: Sports, Movies, Series",,5,,new
+ID,app_store,religion,top_grossing,com.storymatrix.drama,DramaBox - Stream Drama Shorts,6,6,0,unchanged
+ID,app_store,religion,top_grossing,com.bigwinepot.nwdn.international,Remini - AI Photo Enhancer,7,7,0,unchanged
+ID,app_store,religion,top_grossing,com.lastwar.ios,Last War:Survival,8,8,0,unchanged
+ID,app_store,religion,top_grossing,com.kontakt.getcontact,Getcontact,9,9,0,unchanged
+ID,app_store,religion,top_grossing,com.canva.canvaeditor,Canva: AI Video & Photo Editor,10,10,0,unchanged
+ID,google_play,religion,top_grossing,com.freereels.app,FreeReels - Dramas & Reels,1,1,0,unchanged
+ID,google_play,religion,top_grossing,com.worldance.drama,Melolo - Short Dramas & Reels,2,2,0,unchanged
+ID,google_play,religion,top_grossing,com.larus.wolf,Dola: Smart AI Assistant,3,3,0,unchanged
+ID,google_play,religion,top_grossing,id.dana,DANA Indonesia Digital Wallet,4,4,0,unchanged
+ID,google_play,religion,top_grossing,com.shopeepay.id,ShopeePay – Dompet Serba Bisa,5,5,0,unchanged
+ID,google_play,religion,top_grossing,com.shopee.id,Shopee Indonesia,6,6,0,unchanged
+ID,google_play,religion,top_grossing,com.openai.chatgpt,ChatGPT,7,7,0,unchanged
+ID,google_play,religion,top_grossing,com.ss.android.ugc.trill,TikTok,8,8,0,unchanged
+ID,google_play,religion,top_grossing,com.UCMobile.intl,"UC Browser-Safe, Fast, Private",,9,,new
+ID,google_play,religion,top_grossing,com.netshort.abroad,NetShort - Popular Dramas & TV,10,10,0,unchanged
+US,app_store,tools,top_free," LLC""",ChatGPT,2,,,dropped
+US,app_store,tools,top_free," Inc.""",Threads,4,,,dropped
+US,app_store,tools,top_paid,Mojang,"""Minecraft: Dream it",1,,,dropped
+US,app_store,tools,top_grossing," LLC""",HBO Max: Stream Movies & TV,7,,,dropped
+US,app_store,tools,top_grossing,TikTok Ltd.,"""TikTok - Videos",3,,,dropped
+US,app_store,tools,top_grossing," Inc.""",Snapchat,9,,,dropped
+US,app_store,books,top_free," Inc.""",Audible: Audiobooks & Podcasts,1,,,dropped
+US,app_store,books,top_free,"""OverDrive","""Libby",2,,,dropped
+US,app_store,books,top_free," LLC""",Hoopla Digital,4,,,dropped
+US,app_store,books,top_free,SINGAPORE NEW READING TECHNOLOGY PTE. LTD.,"""GoodNovel - Booktok",6,,,dropped
+US,google_play,books,top_free,TikTok Pte. Ltd.,"""TikTok - Videos",5,,,dropped
+US,app_store,books,top_paid," LLC""",Bound - Audiobook Player,1,,,dropped
+US,google_play,books,top_paid," LLC""",HotSchedules,1,,,dropped
+US,app_store,books,top_grossing," Inc.""",Audible: Audiobooks & Podcasts,1,,,dropped
+US,app_store,books,top_grossing,SINGAPORE NEW READING TECHNOLOGY PTE. LTD.,"""GoodNovel - Booktok",2,,,dropped
+US,app_store,books,top_grossing," LLC""",Shonen Jump Manga & Comics,3,,,dropped
+US,google_play,books,top_grossing,TikTok Pte. Ltd.,"""TikTok - Videos",5,,,dropped
+US,app_store,religion,top_free," LLC""",ChatGPT,2,,,dropped
+US,app_store,religion,top_free," Inc.""",Threads,4,,,dropped
+US,google_play,religion,top_free,TikTok Pte. Ltd.,"""TikTok - Videos",5,,,dropped
+US,app_store,religion,top_paid,Mojang,"""Minecraft: Dream it",1,,,dropped
+US,google_play,religion,top_paid," LLC""",HotSchedules,1,,,dropped
+US,app_store,religion,top_grossing," LLC""",HBO Max: Stream Movies & TV,7,,,dropped
+US,app_store,religion,top_grossing,TikTok Ltd.,"""TikTok - Videos",3,,,dropped
+US,app_store,religion,top_grossing," Inc.""",Snapchat,9,,,dropped
+US,google_play,religion,top_grossing,TikTok Pte. Ltd.,"""TikTok - Videos",5,,,dropped
+CA,app_store,tools,top_free," LLC""",ChatGPT,2,,,dropped
+CA,app_store,tools,top_free," Inc.""",Threads,4,,,dropped
+CA,app_store,tools,top_paid,Mojang,"""Minecraft: Dream it",2,,,dropped
+CA,app_store,tools,top_grossing," LLC""",ChatGPT,1,,,dropped
+CA,app_store,tools,top_grossing," Inc.""",Pokémon GO,9,,,dropped
+CA,app_store,books,top_free," Inc.""",Audible: Audiobooks & Podcasts,1,,,dropped
+CA,app_store,books,top_free,"""OverDrive","""Libby",2,,,dropped
+CA,app_store,books,top_free,SINGAPORE NEW READING TECHNOLOGY PTE. LTD.,"""GoodNovel - Booktok",6,,,dropped
+CA,app_store,books,top_free," LLC""",Hoopla Digital,7,,,dropped
+CA,app_store,books,top_paid," LLC""",Bound - Audiobook Player,4,,,dropped
+CA,app_store,books,top_grossing," Inc.""",Audible: Audiobooks & Podcasts,1,,,dropped
+CA,app_store,books,top_grossing,SINGAPORE NEW READING TECHNOLOGY PTE. LTD.,"""GoodNovel - Booktok",2,,,dropped
+CA,app_store,books,top_grossing," LLC""",Shonen Jump Manga & Comics,7,,,dropped
+CA,app_store,religion,top_free," LLC""",ChatGPT,2,,,dropped
+CA,app_store,religion,top_free," Inc.""",Threads,4,,,dropped
+CA,app_store,religion,top_paid,Mojang,"""Minecraft: Dream it",2,,,dropped
+CA,app_store,religion,top_grossing," LLC""",ChatGPT,1,,,dropped
+CA,app_store,religion,top_grossing," Inc.""",Pokémon GO,9,,,dropped
+AU,app_store,tools,top_free," LLC""",ChatGPT,4,,,dropped
+AU,app_store,tools,top_paid,Mojang,"""Minecraft: Dream it",3,,,dropped
+AU,google_play,tools,top_paid," LLC.""",Network Cell Info & Wifi,10,,,dropped
+AU,app_store,tools,top_grossing," LLC""",ChatGPT,1,,,dropped
+AU,app_store,tools,top_grossing," Inc.""",Hinge Dating App: Match & Date,9,,,dropped
+AU,app_store,books,top_free," Inc.""",Audible: Audiobooks & Podcasts,1,,,dropped
+AU,app_store,books,top_free,"""OverDrive","""Libby",4,,,dropped
+AU,app_store,books,top_free,SINGAPORE NEW READING TECHNOLOGY PTE. LTD.,"""GoodNovel - Booktok",7,,,dropped
+AU,google_play,books,top_free," LLC""",HBO Max: Stream TV & Movies,4,,,dropped
+AU,app_store,books,top_paid," LLC""",Bound - Audiobook Player,8,,,dropped
+AU,app_store,books,top_paid," Ltd.""",BookBuddy Pro: Book Tracker,10,,,dropped
+AU,google_play,books,top_paid," SL""",PhotoPills,8,,,dropped
+AU,app_store,books,top_grossing," Inc.""",Audible: Audiobooks & Podcasts,1,,,dropped
+AU,app_store,books,top_grossing,SINGAPORE NEW READING TECHNOLOGY PTE. LTD.,"""GoodNovel - Booktok",2,,,dropped
+AU,app_store,books,top_grossing," LLC""",Shonen Jump Manga & Comics,9,,,dropped
+AU,google_play,books,top_grossing," LLC""",HBO Max: Stream TV & Movies,4,,,dropped
+AU,app_store,religion,top_free," LLC""",ChatGPT,4,,,dropped
+AU,google_play,religion,top_free," LLC""",HBO Max: Stream TV & Movies,4,,,dropped
+AU,app_store,religion,top_paid,Mojang,"""Minecraft: Dream it",3,,,dropped
+AU,google_play,religion,top_paid," SL""",PhotoPills,8,,,dropped
+AU,app_store,religion,top_grossing," LLC""",ChatGPT,1,,,dropped
+AU,app_store,religion,top_grossing," Inc.""",Hinge Dating App: Match & Date,9,,,dropped
+AU,google_play,religion,top_grossing," LLC""",HBO Max: Stream TV & Movies,4,,,dropped
+BR,app_store,tools,top_free," LLC""",ChatGPT,1,,,dropped
+BR,google_play,tools,top_free,Skytechlab Global App,"""Video Player: Stream",9,,,dropped
+BR,app_store,tools,top_paid," Inc.""",Terraria,10,,,dropped
+BR,app_store,tools,top_grossing," LLC""",HBO Max: programas e filmes,8,,,dropped
+BR,app_store,tools,top_grossing,GLOBO COM. E PART. S/A,"""Globoplay: BBB",5,,,dropped
+BR,google_play,tools,top_grossing,Skytechlab Global App,"""Video Player: Stream",9,,,dropped
+BR,app_store,books,top_free," Inc.""",Audible: Ouça Audiolivros,3,,,dropped
+BR,app_store,books,top_free," PRODUTOS E SERVICOS DIGITAIS LTDA""",Skoob - Organize suas leituras,6,,,dropped
+BR,google_play,books,top_free," Pay""","""99: Rides",10,,,dropped
+BR,app_store,books,top_paid," Ltd.""",BookBuddy Pro: Lista de Livros,5,,,dropped
+BR,app_store,books,top_grossing," Inc.""",Audible: Ouça Audiolivros,7,,,dropped
+BR,google_play,books,top_grossing," Pay""","""99: Rides",10,,,dropped
+BR,app_store,religion,top_free," LLC""",ChatGPT,1,,,dropped
+BR,google_play,religion,top_free," Pay""","""99: Rides",10,,,dropped
+BR,app_store,religion,top_paid," Inc.""",Terraria,10,,,dropped
+BR,app_store,religion,top_grossing," LLC""",HBO Max: programas e filmes,8,,,dropped
+BR,app_store,religion,top_grossing,GLOBO COM. E PART. S/A,"""Globoplay: BBB",5,,,dropped
+BR,google_play,religion,top_grossing," Pay""","""99: Rides",10,,,dropped
+MX,app_store,tools,top_free," LLC""",ChatGPT,1,,,dropped
+MX,app_store,tools,top_paid," Inc""",Poppy Playtime Chapter 1,10,,,dropped
+MX,app_store,tools,top_grossing," LLC""",HBO Max: Ve TV y películas,4,,,dropped
+MX,app_store,tools,top_grossing,Univision Communications Inc.,"""ViX: TV",6,,,dropped
+MX,app_store,books,top_free," Inc.""",Audible: Audiolibros y podcast,3,,,dropped
+MX,app_store,books,top_paid," S.A. de C.V.""",Himnario INPM Letra,3,,,dropped
+MX,app_store,books,top_paid," Inc.""",Audiobooks HQ audiolibros,5,,,dropped
+MX,app_store,books,top_paid," S.L.""",iLovecraft Collection Vol. 1,10,,,dropped
+MX,app_store,books,top_grossing," Inc.""",Audible: Audiolibros y podcast,1,,,dropped
+MX,app_store,religion,top_free," LLC""",ChatGPT,1,,,dropped
+MX,app_store,religion,top_paid," Inc""",Poppy Playtime Chapter 1,10,,,dropped
+MX,app_store,religion,top_grossing," LLC""",HBO Max: Ve TV y películas,4,,,dropped
+MX,app_store,religion,top_grossing,Univision Communications Inc.,"""ViX: TV",6,,,dropped
+ID,app_store,tools,top_free," Ltd.""",MOVA: More Cashback,1,,,dropped
+ID,app_store,tools,top_free," PT""",DANA Dompet Digital Indonesia,3,,,dropped
+ID,app_store,tools,top_free," QRIS""","""GoPay: Transfer",4,,,dropped
+ID,app_store,tools,top_free," Inc.""",Facebook,9,,,dropped
+ID,google_play,tools,top_free,Smart Media4U Technology Pte.Ltd.,"""SHAREit: Transfer",4,,,dropped
+ID,google_play,tools,top_free,XLSMART,"""myXL - XL",9,,,dropped
+ID,app_store,tools,top_paid,Mojang,"""Minecraft: Dream it",1,,,dropped
+ID,app_store,tools,top_grossing," LLC""",ChatGPT,2,,,dropped
+ID,app_store,tools,top_grossing," Series""","""Vidio: Sports",5,,,dropped
+ID,google_play,tools,top_grossing,Smart Media4U Technology Pte.Ltd.,"""SHAREit: Transfer",4,,,dropped
+ID,google_play,tools,top_grossing,XLSMART,"""myXL - XL",9,,,dropped
+ID,app_store,books,top_free,SINGAPORE NEW READING TECHNOLOGY PTE. LTD.,"""GoodNovel - Booktok",3,,,dropped
+ID,app_store,books,top_free," Inc""",Quran - by Quran.com - قرآن,6,,,dropped
+ID,google_play,books,top_free," Private""","""UC Browser-Safe",9,,,dropped
+ID,app_store,books,top_paid," Inc.""",eBook Search Pro - Book Finder,1,,,dropped
+ID,app_store,books,top_grossing,SINGAPORE NEW READING TECHNOLOGY PTE. LTD.,"""GoodNovel - Booktok",1,,,dropped
+ID,google_play,books,top_grossing," Private""","""UC Browser-Safe",9,,,dropped
+ID,app_store,religion,top_free," Ltd.""",MOVA: More Cashback,1,,,dropped
+ID,app_store,religion,top_free," PT""",DANA Dompet Digital Indonesia,3,,,dropped
+ID,app_store,religion,top_free," QRIS""","""GoPay: Transfer",4,,,dropped
+ID,app_store,religion,top_free," Inc.""",Facebook,9,,,dropped
+ID,google_play,religion,top_free," Private""","""UC Browser-Safe",9,,,dropped
+ID,app_store,religion,top_paid,Mojang,"""Minecraft: Dream it",1,,,dropped
+ID,app_store,religion,top_grossing," LLC""",ChatGPT,2,,,dropped
+ID,app_store,religion,top_grossing," Series""","""Vidio: Sports",5,,,dropped
+ID,google_play,religion,top_grossing," Private""","""UC Browser-Safe",9,,,dropped

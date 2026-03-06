@@ -1,0 +1,134 @@
+[2026-03-05T01:10:33.276Z] [INFO] Starting crawl at 20260305_011033 UTC
+[2026-03-05T01:10:33.282Z] [INFO] Loaded 6 countries
+[2026-03-05T01:10:33.287Z] [INFO] Fetching App Store US tools top_free
+[2026-03-05T01:10:33.298Z] [INFO] Fetching Google Play US tools top_free
+[2026-03-05T01:10:33.304Z] [INFO] Fetching App Store US tools top_paid
+[2026-03-05T01:10:33.306Z] [INFO] Fetching Google Play US tools top_paid
+[2026-03-05T01:10:33.307Z] [INFO] Fetching App Store US tools top_grossing
+[2026-03-05T01:10:34.352Z] [INFO] Fetching Google Play US tools top_grossing
+[2026-03-05T01:10:34.369Z] [INFO] Fetching App Store US books top_free
+[2026-03-05T01:10:34.766Z] [INFO] Fetching Google Play US books top_free
+[2026-03-05T01:10:34.815Z] [INFO] Fetching App Store US books top_paid
+[2026-03-05T01:10:34.824Z] [INFO] Fetching Google Play US books top_paid
+[2026-03-05T01:10:34.911Z] [INFO] Fetching App Store US books top_grossing
+[2026-03-05T01:10:35.324Z] [INFO] Fetching Google Play US books top_grossing
+[2026-03-05T01:10:35.449Z] [INFO] Fetching App Store US religion top_free
+[2026-03-05T01:10:35.450Z] [ERROR] App Store US religion top_free failed: Invalid category 6019
+[2026-03-05T01:10:35.450Z] [INFO] Fetching Google Play US religion top_free
+[2026-03-05T01:10:35.784Z] [INFO] Fetching App Store US religion top_paid
+[2026-03-05T01:10:35.784Z] [ERROR] App Store US religion top_paid failed: Invalid category 6019
+[2026-03-05T01:10:35.784Z] [INFO] Fetching Google Play US religion top_paid
+[2026-03-05T01:10:35.788Z] [INFO] Fetching App Store US religion top_grossing
+[2026-03-05T01:10:35.789Z] [ERROR] App Store US religion top_grossing failed: Invalid category 6019
+[2026-03-05T01:10:35.789Z] [INFO] Fetching Google Play US religion top_grossing
+[2026-03-05T01:10:36.010Z] [INFO] Fetching App Store CA tools top_free
+[2026-03-05T01:10:36.031Z] [INFO] Fetching Google Play CA tools top_free
+[2026-03-05T01:10:36.243Z] [INFO] Fetching App Store CA tools top_paid
+[2026-03-05T01:10:36.442Z] [INFO] Fetching Google Play CA tools top_paid
+[2026-03-05T01:10:36.553Z] [INFO] Fetching App Store CA tools top_grossing
+[2026-03-05T01:10:36.787Z] [INFO] Fetching Google Play CA tools top_grossing
+[2026-03-05T01:10:36.907Z] [INFO] Fetching App Store CA books top_free
+[2026-03-05T01:10:37.159Z] [INFO] Fetching Google Play CA books top_free
+[2026-03-05T01:10:37.277Z] [INFO] Fetching App Store CA books top_paid
+[2026-03-05T01:10:37.485Z] [INFO] Fetching Google Play CA books top_paid
+[2026-03-05T01:10:37.615Z] [INFO] Fetching App Store CA books top_grossing
+[2026-03-05T01:10:37.846Z] [INFO] Fetching Google Play CA books top_grossing
+[2026-03-05T01:10:37.850Z] [INFO] Fetching App Store CA religion top_free
+[2026-03-05T01:10:37.850Z] [ERROR] App Store CA religion top_free failed: Invalid category 6019
+[2026-03-05T01:10:37.850Z] [INFO] Fetching Google Play CA religion top_free
+[2026-03-05T01:10:38.327Z] [INFO] Fetching App Store CA religion top_paid
+[2026-03-05T01:10:38.328Z] [ERROR] App Store CA religion top_paid failed: Invalid category 6019
+[2026-03-05T01:10:38.328Z] [INFO] Fetching Google Play CA religion top_paid
+[2026-03-05T01:10:38.390Z] [INFO] Fetching App Store CA religion top_grossing
+[2026-03-05T01:10:38.390Z] [ERROR] App Store CA religion top_grossing failed: Invalid category 6019
+[2026-03-05T01:10:38.390Z] [INFO] Fetching Google Play CA religion top_grossing
+[2026-03-05T01:10:38.488Z] [INFO] Fetching App Store AU tools top_free
+[2026-03-05T01:10:38.712Z] [INFO] Fetching Google Play AU tools top_free
+[2026-03-05T01:10:38.796Z] [INFO] Fetching App Store AU tools top_paid
+[2026-03-05T01:10:38.962Z] [INFO] Fetching Google Play AU tools top_paid
+[2026-03-05T01:10:38.966Z] [INFO] Fetching App Store AU tools top_grossing
+[2026-03-05T01:10:39.117Z] [INFO] Fetching Google Play AU tools top_grossing
+[2026-03-05T01:10:39.413Z] [INFO] Fetching App Store AU books top_free
+[2026-03-05T01:10:39.591Z] [INFO] Fetching Google Play AU books top_free
+[2026-03-05T01:10:39.895Z] [INFO] Fetching App Store AU books top_paid
+[2026-03-05T01:10:40.052Z] [INFO] Fetching Google Play AU books top_paid
+[2026-03-05T01:10:40.108Z] [INFO] Fetching App Store AU books top_grossing
+[2026-03-05T01:10:40.392Z] [INFO] Fetching Google Play AU books top_grossing
+[2026-03-05T01:10:40.397Z] [INFO] Fetching App Store AU religion top_free
+[2026-03-05T01:10:40.398Z] [ERROR] App Store AU religion top_free failed: Invalid category 6019
+[2026-03-05T01:10:40.398Z] [INFO] Fetching Google Play AU religion top_free
+[2026-03-05T01:10:40.533Z] [INFO] Fetching App Store AU religion top_paid
+[2026-03-05T01:10:40.534Z] [ERROR] App Store AU religion top_paid failed: Invalid category 6019
+[2026-03-05T01:10:40.534Z] [INFO] Fetching Google Play AU religion top_paid
+[2026-03-05T01:10:40.893Z] [INFO] Fetching App Store AU religion top_grossing
+[2026-03-05T01:10:40.893Z] [ERROR] App Store AU religion top_grossing failed: Invalid category 6019
+[2026-03-05T01:10:40.894Z] [INFO] Fetching Google Play AU religion top_grossing
+[2026-03-05T01:10:41.013Z] [INFO] Fetching App Store BR tools top_free
+[2026-03-05T01:10:41.053Z] [INFO] Fetching Google Play BR tools top_free
+[2026-03-05T01:10:41.257Z] [INFO] Fetching App Store BR tools top_paid
+[2026-03-05T01:10:41.406Z] [INFO] Fetching Google Play BR tools top_paid
+[2026-03-05T01:10:41.532Z] [INFO] Fetching App Store BR tools top_grossing
+[2026-03-05T01:10:41.785Z] [INFO] Fetching Google Play BR tools top_grossing
+[2026-03-05T01:10:42.294Z] [INFO] Fetching App Store BR books top_free
+[2026-03-05T01:10:42.558Z] [INFO] Fetching Google Play BR books top_free
+[2026-03-05T01:10:43.134Z] [INFO] Fetching App Store BR books top_paid
+[2026-03-05T01:10:43.156Z] [INFO] Fetching Google Play BR books top_paid
+[2026-03-05T01:10:43.299Z] [INFO] Fetching App Store BR books top_grossing
+[2026-03-05T01:10:43.495Z] [INFO] Fetching Google Play BR books top_grossing
+[2026-03-05T01:10:43.506Z] [INFO] Fetching App Store BR religion top_free
+[2026-03-05T01:10:43.506Z] [ERROR] App Store BR religion top_free failed: Invalid category 6019
+[2026-03-05T01:10:43.507Z] [INFO] Fetching Google Play BR religion top_free
+[2026-03-05T01:10:43.833Z] [INFO] Fetching App Store BR religion top_paid
+[2026-03-05T01:10:43.833Z] [ERROR] App Store BR religion top_paid failed: Invalid category 6019
+[2026-03-05T01:10:43.834Z] [INFO] Fetching Google Play BR religion top_paid
+[2026-03-05T01:10:44.092Z] [INFO] Fetching App Store BR religion top_grossing
+[2026-03-05T01:10:44.092Z] [ERROR] App Store BR religion top_grossing failed: Invalid category 6019
+[2026-03-05T01:10:44.093Z] [INFO] Fetching Google Play BR religion top_grossing
+[2026-03-05T01:10:44.295Z] [INFO] Fetching App Store MX tools top_free
+[2026-03-05T01:10:44.440Z] [INFO] Fetching Google Play MX tools top_free
+[2026-03-05T01:10:44.474Z] [INFO] Fetching App Store MX tools top_paid
+[2026-03-05T01:10:44.507Z] [INFO] Fetching Google Play MX tools top_paid
+[2026-03-05T01:10:44.628Z] [INFO] Fetching App Store MX tools top_grossing
+[2026-03-05T01:10:44.960Z] [INFO] Fetching Google Play MX tools top_grossing
+[2026-03-05T01:10:45.064Z] [INFO] Fetching App Store MX books top_free
+[2026-03-05T01:10:45.302Z] [INFO] Fetching Google Play MX books top_free
+[2026-03-05T01:10:45.671Z] [INFO] Fetching App Store MX books top_paid
+[2026-03-05T01:10:45.920Z] [INFO] Fetching Google Play MX books top_paid
+[2026-03-05T01:10:46.036Z] [INFO] Fetching App Store MX books top_grossing
+[2026-03-05T01:10:46.094Z] [INFO] Fetching Google Play MX books top_grossing
+[2026-03-05T01:10:46.323Z] [INFO] Fetching App Store MX religion top_free
+[2026-03-05T01:10:46.323Z] [ERROR] App Store MX religion top_free failed: Invalid category 6019
+[2026-03-05T01:10:46.324Z] [INFO] Fetching Google Play MX religion top_free
+[2026-03-05T01:10:46.519Z] [INFO] Fetching App Store MX religion top_paid
+[2026-03-05T01:10:46.520Z] [ERROR] App Store MX religion top_paid failed: Invalid category 6019
+[2026-03-05T01:10:46.520Z] [INFO] Fetching Google Play MX religion top_paid
+[2026-03-05T01:10:46.796Z] [INFO] Fetching App Store MX religion top_grossing
+[2026-03-05T01:10:46.797Z] [ERROR] App Store MX religion top_grossing failed: Invalid category 6019
+[2026-03-05T01:10:46.797Z] [INFO] Fetching Google Play MX religion top_grossing
+[2026-03-05T01:10:46.800Z] [INFO] Fetching App Store ID tools top_free
+[2026-03-05T01:10:46.911Z] [INFO] Fetching Google Play ID tools top_free
+[2026-03-05T01:10:46.918Z] [INFO] Fetching App Store ID tools top_paid
+[2026-03-05T01:10:47.235Z] [INFO] Fetching Google Play ID tools top_paid
+[2026-03-05T01:10:47.255Z] [INFO] Fetching App Store ID tools top_grossing
+[2026-03-05T01:10:47.418Z] [INFO] Fetching Google Play ID tools top_grossing
+[2026-03-05T01:10:47.556Z] [INFO] Fetching App Store ID books top_free
+[2026-03-05T01:10:47.690Z] [INFO] Fetching Google Play ID books top_free
+[2026-03-05T01:10:47.891Z] [INFO] Fetching App Store ID books top_paid
+[2026-03-05T01:10:48.043Z] [INFO] Fetching Google Play ID books top_paid
+[2026-03-05T01:10:48.133Z] [INFO] Fetching App Store ID books top_grossing
+[2026-03-05T01:10:48.435Z] [INFO] Fetching Google Play ID books top_grossing
+[2026-03-05T01:10:48.781Z] [INFO] Fetching App Store ID religion top_free
+[2026-03-05T01:10:48.781Z] [ERROR] App Store ID religion top_free failed: Invalid category 6019
+[2026-03-05T01:10:48.782Z] [INFO] Fetching Google Play ID religion top_free
+[2026-03-05T01:10:48.809Z] [INFO] Fetching App Store ID religion top_paid
+[2026-03-05T01:10:48.810Z] [ERROR] App Store ID religion top_paid failed: Invalid category 6019
+[2026-03-05T01:10:48.810Z] [INFO] Fetching Google Play ID religion top_paid
+[2026-03-05T01:10:48.826Z] [INFO] Fetching App Store ID religion top_grossing
+[2026-03-05T01:10:48.826Z] [ERROR] App Store ID religion top_grossing failed: Invalid category 6019
+[2026-03-05T01:10:48.826Z] [INFO] Fetching Google Play ID religion top_grossing
+[2026-03-05T01:10:49.499Z] [INFO] Fetched total 900 records
+[2026-03-05T01:10:49.507Z] [INFO] Saved 900 raw records to /root/.openclaw/workspace/app_rank_scraper/data/rankings_raw.jsonl
+[2026-03-05T01:10:49.520Z] [INFO] Saved summary to /root/.openclaw/workspace/app_rank_scraper/data/rankings_summary.csv
+[2026-03-05T01:10:50.407Z] [INFO] Saved 994 changes to /root/.openclaw/workspace/app_rank_scraper/data/rank_changes_20260305_011033.csv
+[2026-03-05T01:10:50.410Z] [INFO] Generated report at /root/.openclaw/workspace/app_rank_scraper/report_20260305_011033.md
+[2026-03-05T01:10:50.411Z] [INFO] Crawl completed successfully!

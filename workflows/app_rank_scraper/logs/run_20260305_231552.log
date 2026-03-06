@@ -1,0 +1,80 @@
+[2026-03-05T23:15:52.439Z] [INFO] Starting crawl at 20260305_231552 UTC
+[2026-03-05T23:15:52.441Z] [INFO] Loaded 6 countries
+[2026-03-05T23:15:52.443Z] [INFO] Fetching App Store US books top_free
+[2026-03-05T23:15:52.448Z] [INFO] Fetching Google Play US books top_free
+[2026-03-05T23:15:52.458Z] [INFO] Fetching App Store US books top_paid
+[2026-03-05T23:15:52.459Z] [INFO] Fetching Google Play US books top_paid
+[2026-03-05T23:15:52.460Z] [INFO] Fetching App Store US books top_grossing
+[2026-03-05T23:15:53.414Z] [INFO] Fetching Google Play US books top_grossing
+[2026-03-05T23:15:53.526Z] [INFO] Fetching App Store US browser top_free
+[2026-03-05T23:15:53.562Z] [INFO] Fetching Google Play US browser top_free
+[2026-03-05T23:15:53.710Z] [INFO] Fetching App Store US browser top_paid
+[2026-03-05T23:15:53.714Z] [INFO] Fetching Google Play US browser top_paid
+[2026-03-05T23:15:54.089Z] [INFO] Fetching App Store US browser top_grossing
+[2026-03-05T23:15:54.293Z] [INFO] Fetching Google Play US browser top_grossing
+[2026-03-05T23:15:54.408Z] [INFO] Fetching App Store CA books top_free
+[2026-03-05T23:15:54.578Z] [INFO] Fetching Google Play CA books top_free
+[2026-03-05T23:15:54.681Z] [INFO] Fetching App Store CA books top_paid
+[2026-03-05T23:15:54.692Z] [INFO] Fetching Google Play CA books top_paid
+[2026-03-05T23:15:55.083Z] [INFO] Fetching App Store CA books top_grossing
+[2026-03-05T23:15:55.245Z] [INFO] Fetching Google Play CA books top_grossing
+[2026-03-05T23:15:55.287Z] [INFO] Fetching App Store CA browser top_free
+[2026-03-05T23:15:55.417Z] [INFO] Fetching Google Play CA browser top_free
+[2026-03-05T23:15:55.567Z] [INFO] Fetching App Store CA browser top_paid
+[2026-03-05T23:15:55.608Z] [INFO] Fetching Google Play CA browser top_paid
+[2026-03-05T23:15:55.955Z] [INFO] Fetching App Store CA browser top_grossing
+[2026-03-05T23:15:56.197Z] [INFO] Fetching Google Play CA browser top_grossing
+[2026-03-05T23:15:56.325Z] [INFO] Fetching App Store AU books top_free
+[2026-03-05T23:15:56.419Z] [INFO] Fetching Google Play AU books top_free
+[2026-03-05T23:15:56.533Z] [INFO] Fetching App Store AU books top_paid
+[2026-03-05T23:15:56.589Z] [INFO] Fetching Google Play AU books top_paid
+[2026-03-05T23:15:56.726Z] [INFO] Fetching App Store AU books top_grossing
+[2026-03-05T23:15:56.936Z] [INFO] Fetching Google Play AU books top_grossing
+[2026-03-05T23:15:56.957Z] [INFO] Fetching App Store AU browser top_free
+[2026-03-05T23:15:56.979Z] [INFO] Fetching Google Play AU browser top_free
+[2026-03-05T23:15:57.319Z] [INFO] Fetching App Store AU browser top_paid
+[2026-03-05T23:15:57.376Z] [INFO] Fetching Google Play AU browser top_paid
+[2026-03-05T23:15:57.438Z] [INFO] Fetching App Store AU browser top_grossing
+[2026-03-05T23:15:57.547Z] [INFO] Fetching Google Play AU browser top_grossing
+[2026-03-05T23:15:57.769Z] [INFO] Fetching App Store BR books top_free
+[2026-03-05T23:15:57.845Z] [INFO] Fetching Google Play BR books top_free
+[2026-03-05T23:15:57.932Z] [INFO] Fetching App Store BR books top_paid
+[2026-03-05T23:15:58.006Z] [INFO] Fetching Google Play BR books top_paid
+[2026-03-05T23:15:58.498Z] [INFO] Fetching App Store BR books top_grossing
+[2026-03-05T23:15:58.541Z] [INFO] Fetching Google Play BR books top_grossing
+[2026-03-05T23:15:58.698Z] [INFO] Fetching App Store BR browser top_free
+[2026-03-05T23:15:58.765Z] [INFO] Fetching Google Play BR browser top_free
+[2026-03-05T23:15:58.816Z] [INFO] Fetching App Store BR browser top_paid
+[2026-03-05T23:15:59.444Z] [INFO] Fetching Google Play BR browser top_paid
+[2026-03-05T23:15:59.459Z] [INFO] Fetching App Store BR browser top_grossing
+[2026-03-05T23:15:59.461Z] [INFO] Fetching Google Play BR browser top_grossing
+[2026-03-05T23:15:59.539Z] [INFO] Fetching App Store MX books top_free
+[2026-03-05T23:15:59.761Z] [INFO] Fetching Google Play MX books top_free
+[2026-03-05T23:15:59.930Z] [INFO] Fetching App Store MX books top_paid
+[2026-03-05T23:15:59.983Z] [INFO] Fetching Google Play MX books top_paid
+[2026-03-05T23:16:00.364Z] [INFO] Fetching App Store MX books top_grossing
+[2026-03-05T23:16:00.410Z] [INFO] Fetching Google Play MX books top_grossing
+[2026-03-05T23:16:00.474Z] [INFO] Fetching App Store MX browser top_free
+[2026-03-05T23:16:00.490Z] [INFO] Fetching Google Play MX browser top_free
+[2026-03-05T23:16:00.767Z] [INFO] Fetching App Store MX browser top_paid
+[2026-03-05T23:16:00.909Z] [INFO] Fetching Google Play MX browser top_paid
+[2026-03-05T23:16:00.959Z] [INFO] Fetching App Store MX browser top_grossing
+[2026-03-05T23:16:01.258Z] [INFO] Fetching Google Play MX browser top_grossing
+[2026-03-05T23:16:01.305Z] [INFO] Fetching App Store ID books top_free
+[2026-03-05T23:16:01.383Z] [INFO] Fetching Google Play ID books top_free
+[2026-03-05T23:16:01.602Z] [INFO] Fetching App Store ID books top_paid
+[2026-03-05T23:16:01.622Z] [INFO] Fetching Google Play ID books top_paid
+[2026-03-05T23:16:01.847Z] [INFO] Fetching App Store ID books top_grossing
+[2026-03-05T23:16:01.982Z] [INFO] Fetching Google Play ID books top_grossing
+[2026-03-05T23:16:02.294Z] [INFO] Fetching App Store ID browser top_free
+[2026-03-05T23:16:02.317Z] [INFO] Fetching Google Play ID browser top_free
+[2026-03-05T23:16:02.606Z] [INFO] Fetching App Store ID browser top_paid
+[2026-03-05T23:16:02.624Z] [INFO] Fetching Google Play ID browser top_paid
+[2026-03-05T23:16:02.632Z] [INFO] Fetching App Store ID browser top_grossing
+[2026-03-05T23:16:02.836Z] [INFO] Fetching Google Play ID browser top_grossing
+[2026-03-05T23:16:03.513Z] [INFO] Fetched total 720 records
+[2026-03-05T23:16:03.520Z] [INFO] Saved 720 raw records to /root/.openclaw/workspace/app_rank_scraper/data/rankings_raw.jsonl
+[2026-03-05T23:16:03.533Z] [INFO] Saved summary to /root/.openclaw/workspace/app_rank_scraper/data/rankings_summary.csv
+[2026-03-05T23:16:04.527Z] [INFO] Saved 801 changes to /root/.openclaw/workspace/app_rank_scraper/data/rank_changes_20260305_231552.csv
+[2026-03-05T23:16:04.532Z] [INFO] Generated report at /root/.openclaw/workspace/app_rank_scraper/report_20260305_231552.md
+[2026-03-05T23:16:04.532Z] [INFO] Crawl completed successfully!
