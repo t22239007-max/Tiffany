@@ -1,0 +1,17 @@
+name: CI Check
+on: [pull_request, push]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install dependencies
+        run: npm install -g eslint
+      - name: Syntax check
+        run: find . -name "*.mjs" -o -name "*.js" | xargs node --check
+      - name: Lint check
+        run: eslint . --ext .js,.mjs --quiet
