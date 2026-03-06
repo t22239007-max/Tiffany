@@ -1,0 +1,15 @@
+{
+  "name": "app-rank-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "dayjs": "^1.11.10",
+    "p-limit": "^5.0.0",
+    "csv-writer": "^1.6.0",
+    "fs-extra": "^11.2.0",
+    "app-store-scraper": "*",
+    "google-play-scraper": "*"
+  }
+}

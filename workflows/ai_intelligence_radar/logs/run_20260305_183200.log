@@ -1,0 +1,40 @@
+[2026-03-05T18:32:00+08:00] [INFO] Starting AI Intelligence Radar run at 20260305_183200 HKT
+[2026-03-05T18:32:00+08:00] [INFO] Found 22 sources to crawl
+[2026-03-05T18:32:00+08:00] [WARN] Retry 1 for https://openai.com/blog, wait 2000ms
+[2026-03-05T18:32:00+08:00] [WARN] Retry 1 for https://ai.meta.com/blog, wait 2000ms
+[2026-03-05T18:32:01+08:00] [WARN] Retry 1 for https://venturebeat.com/ai/, wait 2000ms
+[2026-03-05T18:32:02+08:00] [WARN] Retry 2 for https://openai.com/blog, wait 4000ms
+[2026-03-05T18:32:03+08:00] [WARN] Retry 2 for https://ai.meta.com/blog, wait 4000ms
+[2026-03-05T18:32:03+08:00] [WARN] Retry 2 for https://venturebeat.com/ai/, wait 4000ms
+[2026-03-05T18:32:03+08:00] [WARN] Retry 1 for https://www.reddit.com/r/artificial/, wait 2000ms
+[2026-03-05T18:32:03+08:00] [WARN] Retry 1 for https://www.reddit.com/r/MachineLearning/, wait 2000ms
+[2026-03-05T18:32:05+08:00] [WARN] Retry 2 for https://www.reddit.com/r/artificial/, wait 4000ms
+[2026-03-05T18:32:05+08:00] [WARN] Retry 2 for https://www.reddit.com/r/MachineLearning/, wait 4000ms
+[2026-03-05T18:32:06+08:00] [WARN] Retry 3 for https://openai.com/blog, wait 8000ms
+[2026-03-05T18:32:07+08:00] [WARN] Retry 3 for https://venturebeat.com/ai/, wait 8000ms
+[2026-03-05T18:32:07+08:00] [WARN] Retry 3 for https://ai.meta.com/blog, wait 8000ms
+[2026-03-05T18:32:09+08:00] [WARN] Retry 3 for https://www.reddit.com/r/artificial/, wait 8000ms
+[2026-03-05T18:32:09+08:00] [WARN] Retry 3 for https://www.reddit.com/r/MachineLearning/, wait 8000ms
+[2026-03-05T18:32:14+08:00] [ERROR] Failed to fetch https://openai.com/blog: Request failed with status code 403
+[2026-03-05T18:32:14+08:00] [WARN] Retry 1 for https://www.producthunt.com/, wait 2000ms
+[2026-03-05T18:32:15+08:00] [ERROR] Failed to fetch https://venturebeat.com/ai/: Request failed with status code 429
+[2026-03-05T18:32:15+08:00] [ERROR] Failed to fetch https://ai.meta.com/blog: Request failed with status code 400
+[2026-03-05T18:32:15+08:00] [WARN] Retry 1 for https://theresanaiforthat.com/, wait 2000ms
+[2026-03-05T18:32:16+08:00] [WARN] Retry 2 for https://www.producthunt.com/, wait 4000ms
+[2026-03-05T18:32:17+08:00] [ERROR] Failed to fetch https://www.reddit.com/r/artificial/: Request failed with status code 403
+[2026-03-05T18:32:17+08:00] [ERROR] Failed to fetch https://www.reddit.com/r/MachineLearning/: Request failed with status code 403
+[2026-03-05T18:32:17+08:00] [WARN] Retry 2 for https://theresanaiforthat.com/, wait 4000ms
+[2026-03-05T18:32:20+08:00] [WARN] Retry 3 for https://www.producthunt.com/, wait 8000ms
+[2026-03-05T18:32:21+08:00] [WARN] Retry 3 for https://theresanaiforthat.com/, wait 8000ms
+[2026-03-05T18:32:28+08:00] [ERROR] Failed to fetch https://www.producthunt.com/: Request failed with status code 403
+[2026-03-05T18:32:29+08:00] [ERROR] Failed to fetch https://theresanaiforthat.com/: Request failed with status code 403
+[2026-03-05T18:32:29+08:00] [INFO] Extracted 52 total links
+[2026-03-05T18:32:29+08:00] [INFO] Deduplicated to 50 unique links
+[2026-03-05T18:32:35+08:00] [WARN] Retry 1 for /tag/artificial-intelligence/?page=2, wait 2000ms
+[2026-03-05T18:32:37+08:00] [WARN] Retry 2 for /tag/artificial-intelligence/?page=2, wait 4000ms
+[2026-03-05T18:32:41+08:00] [WARN] Retry 3 for /tag/artificial-intelligence/?page=2, wait 8000ms
+[2026-03-05T18:32:49+08:00] [ERROR] Failed to fetch /tag/artificial-intelligence/?page=2: Invalid URL
+[2026-03-05T18:32:49+08:00] [INFO] Successfully processed 49 articles
+[2026-03-05T18:32:49+08:00] [INFO] Selected top 10 articles
+[2026-03-05T18:32:49+08:00] [INFO] Generated report at /root/.openclaw/workspace/ai_intelligence_radar/report_20260305_183200.md
+[2026-03-05T18:32:49+08:00] [INFO] Run completed successfully

@@ -1,0 +1,392 @@
+[2026-03-04T11:50:51.562Z] [INFO] Starting crawl at 20260304_115051 UTC
+[2026-03-04T11:50:51.565Z] [INFO] Loaded 40 countries
+[2026-03-04T11:50:51.568Z] [INFO] Fetching App Store US tools top_free
+[2026-03-04T11:50:51.597Z] [INFO] Fetching App Store US tools top_paid
+[2026-03-04T11:50:51.600Z] [INFO] Fetching App Store US tools top_grossing
+[2026-03-04T11:50:51.658Z] [WARN] Retry 1 for https://apps.apple.com/us/iphone/charts/top-paid/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:50:51.669Z] [WARN] Retry 1 for https://apps.apple.com/us/iphone/charts/top-grossing/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:50:51.683Z] [WARN] Retry 1 for https://apps.apple.com/us/iphone/charts/top-free/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:50:53.668Z] [WARN] Retry 2 for https://apps.apple.com/us/iphone/charts/top-paid/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:50:53.675Z] [WARN] Retry 2 for https://apps.apple.com/us/iphone/charts/top-grossing/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:50:53.690Z] [WARN] Retry 2 for https://apps.apple.com/us/iphone/charts/top-free/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:50:57.680Z] [WARN] Retry 3 for https://apps.apple.com/us/iphone/charts/top-paid/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:50:57.694Z] [WARN] Retry 3 for https://apps.apple.com/us/iphone/charts/top-grossing/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:50:57.699Z] [WARN] Retry 3 for https://apps.apple.com/us/iphone/charts/top-free/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:51:05.721Z] [ERROR] Failed to fetch https://apps.apple.com/us/iphone/charts/top-paid/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:51:05.722Z] [ERROR] App Store US tools top_paid failed: Request failed with status code 404
+[2026-03-04T11:51:05.722Z] [INFO] Fetching App Store US books top_free
+[2026-03-04T11:51:05.725Z] [ERROR] Failed to fetch https://apps.apple.com/us/iphone/charts/top-grossing/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:51:05.726Z] [ERROR] App Store US tools top_grossing failed: Request failed with status code 404
+[2026-03-04T11:51:05.726Z] [INFO] Fetching App Store US books top_paid
+[2026-03-04T11:51:05.741Z] [ERROR] Failed to fetch https://apps.apple.com/us/iphone/charts/top-free/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:51:05.742Z] [ERROR] App Store US tools top_free failed: Request failed with status code 404
+[2026-03-04T11:51:05.742Z] [INFO] Fetching App Store US books top_grossing
+[2026-03-04T11:51:05.755Z] [WARN] Retry 1 for https://apps.apple.com/us/iphone/charts/top-paid/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:51:05.762Z] [WARN] Retry 1 for https://apps.apple.com/us/iphone/charts/top-free/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:51:05.766Z] [WARN] Retry 1 for https://apps.apple.com/us/iphone/charts/top-grossing/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:51:07.763Z] [WARN] Retry 2 for https://apps.apple.com/us/iphone/charts/top-paid/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:51:07.766Z] [WARN] Retry 2 for https://apps.apple.com/us/iphone/charts/top-free/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:51:07.771Z] [WARN] Retry 2 for https://apps.apple.com/us/iphone/charts/top-grossing/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:51:11.778Z] [WARN] Retry 3 for https://apps.apple.com/us/iphone/charts/top-free/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:51:11.780Z] [WARN] Retry 3 for https://apps.apple.com/us/iphone/charts/top-paid/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:51:11.782Z] [WARN] Retry 3 for https://apps.apple.com/us/iphone/charts/top-grossing/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:51:19.821Z] [ERROR] Failed to fetch https://apps.apple.com/us/iphone/charts/top-grossing/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:51:19.822Z] [ERROR] App Store US books top_grossing failed: Request failed with status code 404
+[2026-03-04T11:51:19.822Z] [INFO] Fetching Google Play US tools top_free
+[2026-03-04T11:51:19.832Z] [ERROR] Failed to fetch https://apps.apple.com/us/iphone/charts/top-free/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:51:19.833Z] [ERROR] App Store US books top_free failed: Request failed with status code 404
+[2026-03-04T11:51:19.833Z] [INFO] Fetching Google Play US tools top_paid
+[2026-03-04T11:51:19.860Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=us&num=20, wait 2000ms
+[2026-03-04T11:51:19.861Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=us&num=20, wait 2000ms
+[2026-03-04T11:51:19.877Z] [ERROR] Failed to fetch https://apps.apple.com/us/iphone/charts/top-paid/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:51:19.879Z] [ERROR] App Store US books top_paid failed: Request failed with status code 404
+[2026-03-04T11:51:19.879Z] [INFO] Fetching Google Play US tools top_grossing
+[2026-03-04T11:51:19.897Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=us&num=20, wait 2000ms
+[2026-03-04T11:51:21.875Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=us&num=20, wait 4000ms
+[2026-03-04T11:51:21.896Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=us&num=20, wait 4000ms
+[2026-03-04T11:51:21.941Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=us&num=20, wait 4000ms
+[2026-03-04T11:51:25.904Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=us&num=20, wait 8000ms
+[2026-03-04T11:51:25.917Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=us&num=20, wait 8000ms
+[2026-03-04T11:51:25.961Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=us&num=20, wait 8000ms
+[2026-03-04T11:51:33.935Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=us&num=20: Request failed with status code 404
+[2026-03-04T11:51:33.936Z] [ERROR] Google Play US tools top_free failed: Request failed with status code 404
+[2026-03-04T11:51:33.936Z] [INFO] Fetching Google Play US books top_free
+[2026-03-04T11:51:33.943Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=us&num=20: Request failed with status code 404
+[2026-03-04T11:51:33.944Z] [ERROR] Google Play US tools top_paid failed: Request failed with status code 404
+[2026-03-04T11:51:33.944Z] [INFO] Fetching Google Play US books top_paid
+[2026-03-04T11:51:33.953Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=us&num=20, wait 2000ms
+[2026-03-04T11:51:33.965Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=us&num=20, wait 2000ms
+[2026-03-04T11:51:33.988Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=us&num=20: Request failed with status code 404
+[2026-03-04T11:51:33.989Z] [ERROR] Google Play US tools top_grossing failed: Request failed with status code 404
+[2026-03-04T11:51:33.990Z] [INFO] Fetching Google Play US books top_grossing
+[2026-03-04T11:51:34.006Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=us&num=20, wait 2000ms
+[2026-03-04T11:51:35.974Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=us&num=20, wait 4000ms
+[2026-03-04T11:51:35.982Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=us&num=20, wait 4000ms
+[2026-03-04T11:51:36.028Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=us&num=20, wait 4000ms
+[2026-03-04T11:51:40.004Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=us&num=20, wait 8000ms
+[2026-03-04T11:51:40.012Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=us&num=20, wait 8000ms
+[2026-03-04T11:51:40.054Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=us&num=20, wait 8000ms
+[2026-03-04T11:51:48.031Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=us&num=20: Request failed with status code 404
+[2026-03-04T11:51:48.032Z] [ERROR] Google Play US books top_paid failed: Request failed with status code 404
+[2026-03-04T11:51:48.032Z] [INFO] Fetching App Store GB tools top_free
+[2026-03-04T11:51:48.051Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=us&num=20: Request failed with status code 404
+[2026-03-04T11:51:48.052Z] [ERROR] Google Play US books top_free failed: Request failed with status code 404
+[2026-03-04T11:51:48.052Z] [INFO] Fetching App Store GB tools top_paid
+[2026-03-04T11:51:48.077Z] [WARN] Retry 1 for https://apps.apple.com/gb/iphone/charts/top-free/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:51:48.078Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=us&num=20: Request failed with status code 404
+[2026-03-04T11:51:48.079Z] [ERROR] Google Play US books top_grossing failed: Request failed with status code 404
+[2026-03-04T11:51:48.079Z] [INFO] Fetching App Store GB tools top_grossing
+[2026-03-04T11:51:48.091Z] [WARN] Retry 1 for https://apps.apple.com/gb/iphone/charts/top-paid/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:51:48.125Z] [WARN] Retry 1 for https://apps.apple.com/gb/iphone/charts/top-grossing/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:51:50.087Z] [WARN] Retry 2 for https://apps.apple.com/gb/iphone/charts/top-free/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:51:50.097Z] [WARN] Retry 2 for https://apps.apple.com/gb/iphone/charts/top-paid/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:51:50.130Z] [WARN] Retry 2 for https://apps.apple.com/gb/iphone/charts/top-grossing/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:51:54.107Z] [WARN] Retry 3 for https://apps.apple.com/gb/iphone/charts/top-paid/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:51:54.113Z] [WARN] Retry 3 for https://apps.apple.com/gb/iphone/charts/top-free/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:51:54.136Z] [WARN] Retry 3 for https://apps.apple.com/gb/iphone/charts/top-grossing/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:52:02.150Z] [ERROR] Failed to fetch https://apps.apple.com/gb/iphone/charts/top-paid/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:52:02.151Z] [ERROR] App Store GB tools top_paid failed: Request failed with status code 404
+[2026-03-04T11:52:02.151Z] [INFO] Fetching App Store GB books top_free
+[2026-03-04T11:52:02.192Z] [WARN] Retry 1 for https://apps.apple.com/gb/iphone/charts/top-free/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:52:02.198Z] [ERROR] Failed to fetch https://apps.apple.com/gb/iphone/charts/top-free/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:52:02.198Z] [ERROR] App Store GB tools top_free failed: Request failed with status code 404
+[2026-03-04T11:52:02.198Z] [INFO] Fetching App Store GB books top_paid
+[2026-03-04T11:52:02.219Z] [ERROR] Failed to fetch https://apps.apple.com/gb/iphone/charts/top-grossing/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:52:02.219Z] [ERROR] App Store GB tools top_grossing failed: Request failed with status code 404
+[2026-03-04T11:52:02.220Z] [INFO] Fetching App Store GB books top_grossing
+[2026-03-04T11:52:02.223Z] [WARN] Retry 1 for https://apps.apple.com/gb/iphone/charts/top-paid/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:52:02.245Z] [WARN] Retry 1 for https://apps.apple.com/gb/iphone/charts/top-grossing/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:52:04.200Z] [WARN] Retry 2 for https://apps.apple.com/gb/iphone/charts/top-free/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:52:04.237Z] [WARN] Retry 2 for https://apps.apple.com/gb/iphone/charts/top-paid/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:52:04.249Z] [WARN] Retry 2 for https://apps.apple.com/gb/iphone/charts/top-grossing/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:52:08.207Z] [WARN] Retry 3 for https://apps.apple.com/gb/iphone/charts/top-free/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:52:08.251Z] [WARN] Retry 3 for https://apps.apple.com/gb/iphone/charts/top-paid/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:52:08.266Z] [WARN] Retry 3 for https://apps.apple.com/gb/iphone/charts/top-grossing/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:52:16.241Z] [ERROR] Failed to fetch https://apps.apple.com/gb/iphone/charts/top-free/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:52:16.241Z] [ERROR] App Store GB books top_free failed: Request failed with status code 404
+[2026-03-04T11:52:16.242Z] [INFO] Fetching Google Play GB tools top_free
+[2026-03-04T11:52:16.266Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=gb&num=20, wait 2000ms
+[2026-03-04T11:52:16.303Z] [ERROR] Failed to fetch https://apps.apple.com/gb/iphone/charts/top-grossing/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:52:16.304Z] [ERROR] App Store GB books top_grossing failed: Request failed with status code 404
+[2026-03-04T11:52:16.304Z] [INFO] Fetching Google Play GB tools top_paid
+[2026-03-04T11:52:16.308Z] [ERROR] Failed to fetch https://apps.apple.com/gb/iphone/charts/top-paid/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:52:16.309Z] [ERROR] App Store GB books top_paid failed: Request failed with status code 404
+[2026-03-04T11:52:16.309Z] [INFO] Fetching Google Play GB tools top_grossing
+[2026-03-04T11:52:16.320Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=gb&num=20, wait 2000ms
+[2026-03-04T11:52:16.342Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=gb&num=20, wait 2000ms
+[2026-03-04T11:52:18.287Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=gb&num=20, wait 4000ms
+[2026-03-04T11:52:18.349Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=gb&num=20, wait 4000ms
+[2026-03-04T11:52:18.359Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=gb&num=20, wait 4000ms
+[2026-03-04T11:52:22.320Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=gb&num=20, wait 8000ms
+[2026-03-04T11:52:22.374Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=gb&num=20, wait 8000ms
+[2026-03-04T11:52:22.397Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=gb&num=20, wait 8000ms
+[2026-03-04T11:52:30.353Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=gb&num=20: Request failed with status code 404
+[2026-03-04T11:52:30.354Z] [ERROR] Google Play GB tools top_free failed: Request failed with status code 404
+[2026-03-04T11:52:30.354Z] [INFO] Fetching Google Play GB books top_free
+[2026-03-04T11:52:30.371Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=gb&num=20, wait 2000ms
+[2026-03-04T11:52:30.395Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=gb&num=20: Request failed with status code 404
+[2026-03-04T11:52:30.397Z] [ERROR] Google Play GB tools top_grossing failed: Request failed with status code 404
+[2026-03-04T11:52:30.397Z] [INFO] Fetching Google Play GB books top_paid
+[2026-03-04T11:52:30.415Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=gb&num=20: Request failed with status code 404
+[2026-03-04T11:52:30.416Z] [ERROR] Google Play GB tools top_paid failed: Request failed with status code 404
+[2026-03-04T11:52:30.417Z] [INFO] Fetching Google Play GB books top_grossing
+[2026-03-04T11:52:30.431Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=gb&num=20, wait 2000ms
+[2026-03-04T11:52:30.435Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=gb&num=20, wait 2000ms
+[2026-03-04T11:52:32.389Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=gb&num=20, wait 4000ms
+[2026-03-04T11:52:32.452Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=gb&num=20, wait 4000ms
+[2026-03-04T11:52:32.453Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=gb&num=20, wait 4000ms
+[2026-03-04T11:52:36.408Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=gb&num=20, wait 8000ms
+[2026-03-04T11:52:36.471Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=gb&num=20, wait 8000ms
+[2026-03-04T11:52:36.484Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=gb&num=20, wait 8000ms
+[2026-03-04T11:52:44.440Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=gb&num=20: Request failed with status code 404
+[2026-03-04T11:52:44.441Z] [ERROR] Google Play GB books top_free failed: Request failed with status code 404
+[2026-03-04T11:52:44.441Z] [INFO] Fetching App Store DE tools top_free
+[2026-03-04T11:52:44.476Z] [WARN] Retry 1 for https://apps.apple.com/de/iphone/charts/top-free/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:52:44.515Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=gb&num=20: Request failed with status code 404
+[2026-03-04T11:52:44.516Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=gb&num=20: Request failed with status code 404
+[2026-03-04T11:52:44.517Z] [ERROR] Google Play GB books top_paid failed: Request failed with status code 404
+[2026-03-04T11:52:44.517Z] [INFO] Fetching App Store DE tools top_paid
+[2026-03-04T11:52:44.518Z] [ERROR] Google Play GB books top_grossing failed: Request failed with status code 404
+[2026-03-04T11:52:44.518Z] [INFO] Fetching App Store DE tools top_grossing
+[2026-03-04T11:52:44.542Z] [WARN] Retry 1 for https://apps.apple.com/de/iphone/charts/top-paid/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:52:44.552Z] [WARN] Retry 1 for https://apps.apple.com/de/iphone/charts/top-grossing/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:52:46.485Z] [WARN] Retry 2 for https://apps.apple.com/de/iphone/charts/top-free/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:52:46.555Z] [WARN] Retry 2 for https://apps.apple.com/de/iphone/charts/top-paid/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:52:46.557Z] [WARN] Retry 2 for https://apps.apple.com/de/iphone/charts/top-grossing/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:52:50.492Z] [WARN] Retry 3 for https://apps.apple.com/de/iphone/charts/top-free/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:52:50.562Z] [WARN] Retry 3 for https://apps.apple.com/de/iphone/charts/top-paid/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:52:50.564Z] [WARN] Retry 3 for https://apps.apple.com/de/iphone/charts/top-grossing/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:52:58.528Z] [ERROR] Failed to fetch https://apps.apple.com/de/iphone/charts/top-free/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:52:58.529Z] [ERROR] App Store DE tools top_free failed: Request failed with status code 404
+[2026-03-04T11:52:58.529Z] [INFO] Fetching App Store DE books top_free
+[2026-03-04T11:52:58.554Z] [WARN] Retry 1 for https://apps.apple.com/de/iphone/charts/top-free/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:52:58.595Z] [ERROR] Failed to fetch https://apps.apple.com/de/iphone/charts/top-paid/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:52:58.596Z] [ERROR] App Store DE tools top_paid failed: Request failed with status code 404
+[2026-03-04T11:52:58.596Z] [INFO] Fetching App Store DE books top_paid
+[2026-03-04T11:52:58.609Z] [ERROR] Failed to fetch https://apps.apple.com/de/iphone/charts/top-grossing/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:52:58.610Z] [ERROR] App Store DE tools top_grossing failed: Request failed with status code 404
+[2026-03-04T11:52:58.610Z] [INFO] Fetching App Store DE books top_grossing
+[2026-03-04T11:52:58.636Z] [WARN] Retry 1 for https://apps.apple.com/de/iphone/charts/top-grossing/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:52:58.648Z] [WARN] Retry 1 for https://apps.apple.com/de/iphone/charts/top-paid/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:53:00.560Z] [WARN] Retry 2 for https://apps.apple.com/de/iphone/charts/top-free/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:53:00.641Z] [WARN] Retry 2 for https://apps.apple.com/de/iphone/charts/top-grossing/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:53:00.653Z] [WARN] Retry 2 for https://apps.apple.com/de/iphone/charts/top-paid/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:53:04.568Z] [WARN] Retry 3 for https://apps.apple.com/de/iphone/charts/top-free/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:53:04.648Z] [WARN] Retry 3 for https://apps.apple.com/de/iphone/charts/top-grossing/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:53:04.658Z] [WARN] Retry 3 for https://apps.apple.com/de/iphone/charts/top-paid/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:53:12.613Z] [ERROR] Failed to fetch https://apps.apple.com/de/iphone/charts/top-free/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:53:12.614Z] [ERROR] App Store DE books top_free failed: Request failed with status code 404
+[2026-03-04T11:53:12.614Z] [INFO] Fetching Google Play DE tools top_free
+[2026-03-04T11:53:12.650Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=de&num=20, wait 2000ms
+[2026-03-04T11:53:12.678Z] [ERROR] Failed to fetch https://apps.apple.com/de/iphone/charts/top-grossing/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:53:12.681Z] [ERROR] App Store DE books top_grossing failed: Request failed with status code 404
+[2026-03-04T11:53:12.681Z] [INFO] Fetching Google Play DE tools top_paid
+[2026-03-04T11:53:12.709Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=de&num=20, wait 2000ms
+[2026-03-04T11:53:12.725Z] [ERROR] Failed to fetch https://apps.apple.com/de/iphone/charts/top-paid/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:53:12.726Z] [ERROR] App Store DE books top_paid failed: Request failed with status code 404
+[2026-03-04T11:53:12.726Z] [INFO] Fetching Google Play DE tools top_grossing
+[2026-03-04T11:53:12.752Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=de&num=20, wait 2000ms
+[2026-03-04T11:53:14.668Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=de&num=20, wait 4000ms
+[2026-03-04T11:53:14.729Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=de&num=20, wait 4000ms
+[2026-03-04T11:53:14.781Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=de&num=20, wait 4000ms
+[2026-03-04T11:53:18.685Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=de&num=20, wait 8000ms
+[2026-03-04T11:53:18.760Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=de&num=20, wait 8000ms
+[2026-03-04T11:53:18.813Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=de&num=20, wait 8000ms
+[2026-03-04T11:53:26.713Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=de&num=20: Request failed with status code 404
+[2026-03-04T11:53:26.714Z] [ERROR] Google Play DE tools top_free failed: Request failed with status code 404
+[2026-03-04T11:53:26.714Z] [INFO] Fetching Google Play DE books top_free
+[2026-03-04T11:53:26.731Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=de&num=20, wait 2000ms
+[2026-03-04T11:53:26.780Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=de&num=20: Request failed with status code 404
+[2026-03-04T11:53:26.781Z] [ERROR] Google Play DE tools top_paid failed: Request failed with status code 404
+[2026-03-04T11:53:26.781Z] [INFO] Fetching Google Play DE books top_paid
+[2026-03-04T11:53:26.798Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=de&num=20, wait 2000ms
+[2026-03-04T11:53:26.853Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=de&num=20: Request failed with status code 404
+[2026-03-04T11:53:26.853Z] [ERROR] Google Play DE tools top_grossing failed: Request failed with status code 404
+[2026-03-04T11:53:26.854Z] [INFO] Fetching Google Play DE books top_grossing
+[2026-03-04T11:53:26.868Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=de&num=20, wait 2000ms
+[2026-03-04T11:53:28.764Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=de&num=20, wait 4000ms
+[2026-03-04T11:53:28.820Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=de&num=20, wait 4000ms
+[2026-03-04T11:53:28.885Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=de&num=20, wait 4000ms
+[2026-03-04T11:53:32.783Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=de&num=20, wait 8000ms
+[2026-03-04T11:53:32.837Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=de&num=20, wait 8000ms
+[2026-03-04T11:53:32.947Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=de&num=20, wait 8000ms
+[2026-03-04T11:53:40.826Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=de&num=20: Request failed with status code 404
+[2026-03-04T11:53:40.827Z] [ERROR] Google Play DE books top_free failed: Request failed with status code 404
+[2026-03-04T11:53:40.828Z] [INFO] Fetching App Store FR tools top_free
+[2026-03-04T11:53:40.854Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=de&num=20: Request failed with status code 404
+[2026-03-04T11:53:40.855Z] [ERROR] Google Play DE books top_paid failed: Request failed with status code 404
+[2026-03-04T11:53:40.855Z] [INFO] Fetching App Store FR tools top_paid
+[2026-03-04T11:53:40.876Z] [WARN] Retry 1 for https://apps.apple.com/fr/iphone/charts/top-free/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:53:40.906Z] [WARN] Retry 1 for https://apps.apple.com/fr/iphone/charts/top-paid/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:53:40.978Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=de&num=20: Request failed with status code 404
+[2026-03-04T11:53:40.979Z] [ERROR] Google Play DE books top_grossing failed: Request failed with status code 404
+[2026-03-04T11:53:40.979Z] [INFO] Fetching App Store FR tools top_grossing
+[2026-03-04T11:53:41.004Z] [WARN] Retry 1 for https://apps.apple.com/fr/iphone/charts/top-grossing/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:53:42.883Z] [WARN] Retry 2 for https://apps.apple.com/fr/iphone/charts/top-free/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:53:42.911Z] [WARN] Retry 2 for https://apps.apple.com/fr/iphone/charts/top-paid/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:53:43.010Z] [WARN] Retry 2 for https://apps.apple.com/fr/iphone/charts/top-grossing/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:53:46.890Z] [WARN] Retry 3 for https://apps.apple.com/fr/iphone/charts/top-free/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:53:46.917Z] [WARN] Retry 3 for https://apps.apple.com/fr/iphone/charts/top-paid/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:53:47.017Z] [WARN] Retry 3 for https://apps.apple.com/fr/iphone/charts/top-grossing/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:53:54.928Z] [ERROR] Failed to fetch https://apps.apple.com/fr/iphone/charts/top-free/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:53:54.929Z] [ERROR] App Store FR tools top_free failed: Request failed with status code 404
+[2026-03-04T11:53:54.929Z] [INFO] Fetching App Store FR books top_free
+[2026-03-04T11:53:54.950Z] [ERROR] Failed to fetch https://apps.apple.com/fr/iphone/charts/top-paid/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:53:54.951Z] [ERROR] App Store FR tools top_paid failed: Request failed with status code 404
+[2026-03-04T11:53:54.952Z] [INFO] Fetching App Store FR books top_paid
+[2026-03-04T11:53:54.970Z] [WARN] Retry 1 for https://apps.apple.com/fr/iphone/charts/top-free/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:53:54.975Z] [WARN] Retry 1 for https://apps.apple.com/fr/iphone/charts/top-paid/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:53:55.044Z] [ERROR] Failed to fetch https://apps.apple.com/fr/iphone/charts/top-grossing/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:53:55.045Z] [ERROR] App Store FR tools top_grossing failed: Request failed with status code 404
+[2026-03-04T11:53:55.045Z] [INFO] Fetching App Store FR books top_grossing
+[2026-03-04T11:53:55.069Z] [WARN] Retry 1 for https://apps.apple.com/fr/iphone/charts/top-grossing/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:53:56.975Z] [WARN] Retry 2 for https://apps.apple.com/fr/iphone/charts/top-free/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:53:56.978Z] [WARN] Retry 2 for https://apps.apple.com/fr/iphone/charts/top-paid/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:53:57.076Z] [WARN] Retry 2 for https://apps.apple.com/fr/iphone/charts/top-grossing/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:54:00.988Z] [WARN] Retry 3 for https://apps.apple.com/fr/iphone/charts/top-paid/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:54:00.992Z] [WARN] Retry 3 for https://apps.apple.com/fr/iphone/charts/top-free/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:54:01.082Z] [WARN] Retry 3 for https://apps.apple.com/fr/iphone/charts/top-grossing/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:54:09.023Z] [ERROR] Failed to fetch https://apps.apple.com/fr/iphone/charts/top-paid/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:54:09.023Z] [ERROR] App Store FR books top_paid failed: Request failed with status code 404
+[2026-03-04T11:54:09.023Z] [INFO] Fetching Google Play FR tools top_free
+[2026-03-04T11:54:09.060Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=fr&num=20, wait 2000ms
+[2026-03-04T11:54:09.095Z] [ERROR] Failed to fetch https://apps.apple.com/fr/iphone/charts/top-free/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:54:09.096Z] [ERROR] App Store FR books top_free failed: Request failed with status code 404
+[2026-03-04T11:54:09.096Z] [INFO] Fetching Google Play FR tools top_paid
+[2026-03-04T11:54:09.107Z] [ERROR] Failed to fetch https://apps.apple.com/fr/iphone/charts/top-grossing/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:54:09.117Z] [ERROR] App Store FR books top_grossing failed: Request failed with status code 404
+[2026-03-04T11:54:09.117Z] [INFO] Fetching Google Play FR tools top_grossing
+[2026-03-04T11:54:09.140Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=fr&num=20, wait 2000ms
+[2026-03-04T11:54:09.222Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=fr&num=20, wait 2000ms
+[2026-03-04T11:54:11.078Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=fr&num=20, wait 4000ms
+[2026-03-04T11:54:11.155Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=fr&num=20, wait 4000ms
+[2026-03-04T11:54:11.248Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=fr&num=20, wait 4000ms
+[2026-03-04T11:54:15.121Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=fr&num=20, wait 8000ms
+[2026-03-04T11:54:15.175Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=fr&num=20, wait 8000ms
+[2026-03-04T11:54:15.276Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=fr&num=20, wait 8000ms
+[2026-03-04T11:54:23.158Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=fr&num=20: Request failed with status code 404
+[2026-03-04T11:54:23.159Z] [ERROR] Google Play FR tools top_free failed: Request failed with status code 404
+[2026-03-04T11:54:23.159Z] [INFO] Fetching Google Play FR books top_free
+[2026-03-04T11:54:23.175Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=fr&num=20, wait 2000ms
+[2026-03-04T11:54:23.195Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=fr&num=20: Request failed with status code 404
+[2026-03-04T11:54:23.196Z] [ERROR] Google Play FR tools top_paid failed: Request failed with status code 404
+[2026-03-04T11:54:23.197Z] [INFO] Fetching Google Play FR books top_paid
+[2026-03-04T11:54:23.211Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=fr&num=20, wait 2000ms
+[2026-03-04T11:54:23.294Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=fr&num=20: Request failed with status code 404
+[2026-03-04T11:54:23.296Z] [ERROR] Google Play FR tools top_grossing failed: Request failed with status code 404
+[2026-03-04T11:54:23.296Z] [INFO] Fetching Google Play FR books top_grossing
+[2026-03-04T11:54:23.312Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=fr&num=20, wait 2000ms
+[2026-03-04T11:54:25.206Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=fr&num=20, wait 4000ms
+[2026-03-04T11:54:25.273Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=fr&num=20, wait 4000ms
+[2026-03-04T11:54:25.333Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=fr&num=20, wait 4000ms
+[2026-03-04T11:54:29.229Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=fr&num=20, wait 8000ms
+[2026-03-04T11:54:29.288Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=fr&num=20, wait 8000ms
+[2026-03-04T11:54:29.350Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=fr&num=20, wait 8000ms
+[2026-03-04T11:54:37.269Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=fr&num=20: Request failed with status code 404
+[2026-03-04T11:54:37.270Z] [ERROR] Google Play FR books top_free failed: Request failed with status code 404
+[2026-03-04T11:54:37.270Z] [INFO] Fetching App Store CA tools top_free
+[2026-03-04T11:54:37.302Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=fr&num=20: Request failed with status code 404
+[2026-03-04T11:54:37.303Z] [ERROR] Google Play FR books top_paid failed: Request failed with status code 404
+[2026-03-04T11:54:37.303Z] [INFO] Fetching App Store CA tools top_paid
+[2026-03-04T11:54:37.331Z] [WARN] Retry 1 for https://apps.apple.com/ca/iphone/charts/top-free/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:54:37.362Z] [WARN] Retry 1 for https://apps.apple.com/ca/iphone/charts/top-paid/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:54:37.372Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=fr&num=20: Request failed with status code 404
+[2026-03-04T11:54:37.372Z] [ERROR] Google Play FR books top_grossing failed: Request failed with status code 404
+[2026-03-04T11:54:37.373Z] [INFO] Fetching App Store CA tools top_grossing
+[2026-03-04T11:54:37.397Z] [WARN] Retry 1 for https://apps.apple.com/ca/iphone/charts/top-grossing/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:54:39.350Z] [WARN] Retry 2 for https://apps.apple.com/ca/iphone/charts/top-free/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:54:39.371Z] [WARN] Retry 2 for https://apps.apple.com/ca/iphone/charts/top-paid/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:54:39.408Z] [WARN] Retry 2 for https://apps.apple.com/ca/iphone/charts/top-grossing/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:54:43.360Z] [WARN] Retry 3 for https://apps.apple.com/ca/iphone/charts/top-free/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:54:43.383Z] [WARN] Retry 3 for https://apps.apple.com/ca/iphone/charts/top-paid/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:54:43.414Z] [WARN] Retry 3 for https://apps.apple.com/ca/iphone/charts/top-grossing/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:54:51.433Z] [ERROR] Failed to fetch https://apps.apple.com/ca/iphone/charts/top-free/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:54:51.433Z] [ERROR] App Store CA tools top_free failed: Request failed with status code 404
+[2026-03-04T11:54:51.434Z] [INFO] Fetching App Store CA books top_free
+[2026-03-04T11:54:51.442Z] [ERROR] Failed to fetch https://apps.apple.com/ca/iphone/charts/top-paid/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:54:51.442Z] [ERROR] App Store CA tools top_paid failed: Request failed with status code 404
+[2026-03-04T11:54:51.442Z] [INFO] Fetching App Store CA books top_paid
+[2026-03-04T11:54:51.456Z] [ERROR] Failed to fetch https://apps.apple.com/ca/iphone/charts/top-grossing/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:54:51.458Z] [WARN] Retry 1 for https://apps.apple.com/ca/iphone/charts/top-free/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:54:51.459Z] [ERROR] App Store CA tools top_grossing failed: Request failed with status code 404
+[2026-03-04T11:54:51.459Z] [INFO] Fetching App Store CA books top_grossing
+[2026-03-04T11:54:51.484Z] [WARN] Retry 1 for https://apps.apple.com/ca/iphone/charts/top-paid/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:54:51.490Z] [WARN] Retry 1 for https://apps.apple.com/ca/iphone/charts/top-grossing/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:54:53.465Z] [WARN] Retry 2 for https://apps.apple.com/ca/iphone/charts/top-free/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:54:53.488Z] [WARN] Retry 2 for https://apps.apple.com/ca/iphone/charts/top-paid/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:54:53.495Z] [WARN] Retry 2 for https://apps.apple.com/ca/iphone/charts/top-grossing/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:54:57.475Z] [WARN] Retry 3 for https://apps.apple.com/ca/iphone/charts/top-free/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:54:57.493Z] [WARN] Retry 3 for https://apps.apple.com/ca/iphone/charts/top-paid/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:54:57.499Z] [WARN] Retry 3 for https://apps.apple.com/ca/iphone/charts/top-grossing/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:55:05.531Z] [ERROR] Failed to fetch https://apps.apple.com/ca/iphone/charts/top-free/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:55:05.532Z] [ERROR] App Store CA books top_free failed: Request failed with status code 404
+[2026-03-04T11:55:05.532Z] [INFO] Fetching Google Play CA tools top_free
+[2026-03-04T11:55:05.536Z] [ERROR] Failed to fetch https://apps.apple.com/ca/iphone/charts/top-grossing/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:55:05.537Z] [ERROR] App Store CA books top_grossing failed: Request failed with status code 404
+[2026-03-04T11:55:05.537Z] [INFO] Fetching Google Play CA tools top_paid
+[2026-03-04T11:55:05.563Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=ca&num=20, wait 2000ms
+[2026-03-04T11:55:05.568Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=ca&num=20, wait 2000ms
+[2026-03-04T11:55:05.573Z] [ERROR] Failed to fetch https://apps.apple.com/ca/iphone/charts/top-paid/apps/6018?limit=20: Request failed with status code 404
+[2026-03-04T11:55:05.574Z] [ERROR] App Store CA books top_paid failed: Request failed with status code 404
+[2026-03-04T11:55:05.574Z] [INFO] Fetching Google Play CA tools top_grossing
+[2026-03-04T11:55:05.588Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=ca&num=20, wait 2000ms
+[2026-03-04T11:55:07.586Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=ca&num=20, wait 4000ms
+[2026-03-04T11:55:07.590Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=ca&num=20, wait 4000ms
+[2026-03-04T11:55:07.601Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=ca&num=20, wait 4000ms
+[2026-03-04T11:55:11.606Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=ca&num=20, wait 8000ms
+[2026-03-04T11:55:11.627Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=ca&num=20, wait 8000ms
+[2026-03-04T11:55:11.656Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=ca&num=20, wait 8000ms
+[2026-03-04T11:55:19.634Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topselling_paid?hl=en&gl=ca&num=20: Request failed with status code 404
+[2026-03-04T11:55:19.635Z] [ERROR] Google Play CA tools top_paid failed: Request failed with status code 404
+[2026-03-04T11:55:19.635Z] [INFO] Fetching Google Play CA books top_free
+[2026-03-04T11:55:19.655Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topselling_free?hl=en&gl=ca&num=20: Request failed with status code 404
+[2026-03-04T11:55:19.658Z] [ERROR] Google Play CA tools top_free failed: Request failed with status code 404
+[2026-03-04T11:55:19.658Z] [INFO] Fetching Google Play CA books top_paid
+[2026-03-04T11:55:19.659Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=ca&num=20, wait 2000ms
+[2026-03-04T11:55:19.676Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/TOOLS/collection/topgrossing?hl=en&gl=ca&num=20: Request failed with status code 404
+[2026-03-04T11:55:19.677Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=ca&num=20, wait 2000ms
+[2026-03-04T11:55:19.677Z] [ERROR] Google Play CA tools top_grossing failed: Request failed with status code 404
+[2026-03-04T11:55:19.678Z] [INFO] Fetching Google Play CA books top_grossing
+[2026-03-04T11:55:19.693Z] [WARN] Retry 1 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=ca&num=20, wait 2000ms
+[2026-03-04T11:55:21.679Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=ca&num=20, wait 4000ms
+[2026-03-04T11:55:21.705Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=ca&num=20, wait 4000ms
+[2026-03-04T11:55:21.708Z] [WARN] Retry 2 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=ca&num=20, wait 4000ms
+[2026-03-04T11:55:25.700Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=ca&num=20, wait 8000ms
+[2026-03-04T11:55:25.724Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=ca&num=20, wait 8000ms
+[2026-03-04T11:55:25.733Z] [WARN] Retry 3 for https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=ca&num=20, wait 8000ms
+[2026-03-04T11:55:33.737Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topselling_free?hl=en&gl=ca&num=20: Request failed with status code 404
+[2026-03-04T11:55:33.739Z] [ERROR] Google Play CA books top_free failed: Request failed with status code 404
+[2026-03-04T11:55:33.739Z] [INFO] Fetching App Store AU tools top_free
+[2026-03-04T11:55:33.759Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topselling_paid?hl=en&gl=ca&num=20: Request failed with status code 404
+[2026-03-04T11:55:33.760Z] [ERROR] Google Play CA books top_paid failed: Request failed with status code 404
+[2026-03-04T11:55:33.760Z] [INFO] Fetching App Store AU tools top_paid
+[2026-03-04T11:55:33.792Z] [ERROR] Failed to fetch https://play.google.com/store/apps/category/BOOKS/collection/topgrossing?hl=en&gl=ca&num=20: Request failed with status code 404
+[2026-03-04T11:55:33.793Z] [ERROR] Google Play CA books top_grossing failed: Request failed with status code 404
+[2026-03-04T11:55:33.793Z] [INFO] Fetching App Store AU tools top_grossing
+[2026-03-04T11:55:33.833Z] [WARN] Retry 1 for https://apps.apple.com/au/iphone/charts/top-grossing/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:55:33.863Z] [WARN] Retry 1 for https://apps.apple.com/au/iphone/charts/top-paid/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:55:34.070Z] [WARN] Retry 1 for https://apps.apple.com/au/iphone/charts/top-free/apps/6002?limit=20, wait 2000ms
+[2026-03-04T11:55:35.841Z] [WARN] Retry 2 for https://apps.apple.com/au/iphone/charts/top-grossing/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:55:35.869Z] [WARN] Retry 2 for https://apps.apple.com/au/iphone/charts/top-paid/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:55:36.077Z] [WARN] Retry 2 for https://apps.apple.com/au/iphone/charts/top-free/apps/6002?limit=20, wait 4000ms
+[2026-03-04T11:55:39.856Z] [WARN] Retry 3 for https://apps.apple.com/au/iphone/charts/top-grossing/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:55:39.874Z] [WARN] Retry 3 for https://apps.apple.com/au/iphone/charts/top-paid/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:55:40.083Z] [WARN] Retry 3 for https://apps.apple.com/au/iphone/charts/top-free/apps/6002?limit=20, wait 8000ms
+[2026-03-04T11:55:47.898Z] [ERROR] Failed to fetch https://apps.apple.com/au/iphone/charts/top-grossing/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:55:47.899Z] [ERROR] App Store AU tools top_grossing failed: Request failed with status code 404
+[2026-03-04T11:55:47.899Z] [INFO] Fetching App Store AU books top_free
+[2026-03-04T11:55:47.926Z] [WARN] Retry 1 for https://apps.apple.com/au/iphone/charts/top-free/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:55:47.949Z] [ERROR] Failed to fetch https://apps.apple.com/au/iphone/charts/top-paid/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:55:47.949Z] [ERROR] App Store AU tools top_paid failed: Request failed with status code 404
+[2026-03-04T11:55:47.950Z] [INFO] Fetching App Store AU books top_paid
+[2026-03-04T11:55:47.976Z] [WARN] Retry 1 for https://apps.apple.com/au/iphone/charts/top-paid/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:55:48.201Z] [ERROR] Failed to fetch https://apps.apple.com/au/iphone/charts/top-free/apps/6002?limit=20: Request failed with status code 404
+[2026-03-04T11:55:48.202Z] [ERROR] App Store AU tools top_free failed: Request failed with status code 404
+[2026-03-04T11:55:48.202Z] [INFO] Fetching App Store AU books top_grossing
+[2026-03-04T11:55:48.226Z] [WARN] Retry 1 for https://apps.apple.com/au/iphone/charts/top-grossing/apps/6018?limit=20, wait 2000ms
+[2026-03-04T11:55:49.936Z] [WARN] Retry 2 for https://apps.apple.com/au/iphone/charts/top-free/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:55:49.982Z] [WARN] Retry 2 for https://apps.apple.com/au/iphone/charts/top-paid/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:55:50.232Z] [WARN] Retry 2 for https://apps.apple.com/au/iphone/charts/top-grossing/apps/6018?limit=20, wait 4000ms
+[2026-03-04T11:55:53.943Z] [WARN] Retry 3 for https://apps.apple.com/au/iphone/charts/top-free/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:55:53.988Z] [WARN] Retry 3 for https://apps.apple.com/au/iphone/charts/top-paid/apps/6018?limit=20, wait 8000ms
+[2026-03-04T11:55:54.237Z] [WARN] Retry 3 for https://apps.apple.com/au/iphone/charts/top-grossing/apps/6018?limit=20, wait 8000ms
