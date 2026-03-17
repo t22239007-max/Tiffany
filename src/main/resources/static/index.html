@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Boobi Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; }
+        .card { border: 1px solid #eee; border-radius: 8px; padding: 16px; margin: 16px 0; }
+    </style>
+</head>
+<body>
+    <h1>Boobi 龙虾AI管理面板</h1>
+    <div class="card">
+        <h2>核心能力</h2>
+        <ul>
+            <li>PPT生成</li>
+            <li>定制爬虫</li>
+            <li>文案生成</li>
+            <li>数据爬取</li>
+        </ul>
+    </div>
+    <script>
+        fetch('/api/tasks/list').then(res => res.json()).then(data => console.log(data));
+    </script>
+</body>
+</html>
