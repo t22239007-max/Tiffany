@@ -1,5 +1,4 @@
 ---
----
 name: CI Check
 on: [pull_request, push]
 
@@ -16,4 +15,4 @@ jobs:
       - name: Syntax check
         run: find . -name "*.mjs" -o -name "*.js" | xargs node --check
       - name: Lint check
-        run: eslint . --ext .js,.mjs --quiet
+        run: eslint . --ext .js,.mjs --quiet --ignore-pattern node_modules/
