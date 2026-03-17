@@ -1,0 +1,16 @@
+=== YAML Scan Results ===
+./.github/workflows/ci-check.yml
+  1:1       warning  missing document start "---"  (document-start)
+  2:1       warning  truthy value should be one of [false, true]  (truthy)
+
+./.github/workflows/generator-generic-ossf-slsa3-publish.yml
+  7:81      error    line too long (112 > 80 characters)  (line-length)
+  10:81     error    line too long (92 > 80 characters)  (line-length)
+  11:81     error    line too long (87 > 80 characters)  (line-length)
+  13:1      warning  missing document start "---"  (document-start)
+  14:1      warning  truthy value should be one of [false, true]  (truthy)
+  61:23     warning  too few spaces before comment  (comments)
+  62:23     warning  too few spaces before comment  (comments)
+  63:81     error    line too long (99 > 80 characters)  (line-length)
+  66:27     warning  too few spaces before comment  (comments)
+

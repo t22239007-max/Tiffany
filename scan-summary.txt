@@ -1,0 +1,6 @@
+=== SCAN SUMMARY ===
+
+1. SECRETS SCAN RESULTS:
+22 secrets-report-latest.json
+
+2. JS SYNTAX ERRORS:
