@@ -1,0 +1,19 @@
+{
+  "name": "tiffany-ai-assistant",
+  "version": "1.0.0",
+  "description": "Tiffany's OpenClaw AI assistant skills repository",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint . --ext .js,.ts",
+    "lint:fix": "eslint . --ext .js,.ts --fix",
+    "scan:secrets": "./gitleaks detect --source . --no-git",
+    "scan:duplicates": "jscpd src --format console"
+  },
+  "keywords": ["openclaw", "skills", "ai"],
+  "author": "Tiffany",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "jscpd": "^3.5.10"
+  }
+}
