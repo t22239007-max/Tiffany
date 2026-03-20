@@ -10,5 +10,5 @@
   "rules": {
     "no-unused-vars": "warn",
     "no-undef": "error"
-  }
-}
+  ,"sourceType": "module","sourceType": "module"}
+,"sourceType": "module","sourceType": "module"}
